@@ -1,0 +1,914 @@
+{
+   "contextmenu_add": {
+      "message": "הוסף ערך"
+   },
+   "contextmenu_bookmark_manager": {
+      "message": "מנהל הסימניות"
+   },
+   "contextmenu_close_all_directories": {
+      "message": "סגור את כל התיקיות"
+   },
+   "contextmenu_delete_bookmark": {
+      "message": "מחק סימניה"
+   },
+   "contextmenu_delete_dir": {
+      "message": "מחק תיקיה"
+   },
+   "contextmenu_delete_separator": {
+      "message": "מחק קו הפרדה"
+   },
+   "contextmenu_edit_bookmark": {
+      "message": "ערוך סימניה"
+   },
+   "contextmenu_edit_dir": {
+      "message": "ערוך תיקיה"
+   },
+   "contextmenu_hide_from_sidebar": {
+      "message": "הסתר מסרגל צד"
+   },
+   "contextmenu_infos": {
+      "message": "מידע"
+   },
+   "contextmenu_keyboard_shortcuts": {
+      "message": "קיצורי מקלדת"
+   },
+   "contextmenu_new_tab": {
+      "message": "פתח בכרטיסייה חדשה"
+   },
+   "contextmenu_new_tab_incognito": {
+      "message": "פתח בחלון גלישה בסתר"
+   },
+   "contextmenu_new_window": {
+      "message": "פתח בחלון חדש"
+   },
+   "contextmenu_open_children": {
+      "message": "פתח סימניות"
+   },
+   "contextmenu_pin": {
+      "message": "הצמד למעלה"
+   },
+   "contextmenu_reload_sidebar": {
+      "message": "רענן סרגל צד"
+   },
+   "contextmenu_show_in_dir": {
+      "message": "הצג בתיקיה"
+   },
+   "contextmenu_show_in_sidebar": {
+      "message": "הצג בסרגל צד"
+   },
+   "contextmenu_toggle_hidden": {
+      "message": "הצג ערכים מוסתרים"
+   },
+   "contextmenu_unpin": {
+      "message": "בטל הצמדה למעלה"
+   },
+   "contribute_dismiss": {
+      "message": "הסר"
+   },
+   "contribute_headline": {
+      "message": "אני זקוק לעזרתך"
+   },
+   "contribute_intro": {
+      "message": "כדי לשפר את התוסף אני אשמח לדעת יותר על אופן שימוש של משתמשים בסרגל הצד ובאיזו תצורה הם משתמשים."
+   },
+   "contribute_outro": {
+      "message": "אם יש לך שאלות או דאגות בנוגע לשיתוף מידע, אנא שלח לי הודעת משוב."
+   },
+   "contribute_share_activity_desc1": {
+      "message": "אתה יכול לשתף את הפעילות שלך בסרגל הצד בצורה אנונימית, שתעזור לי לדעת איך המשתמשים עושים שימוש בסרגל הצד באופן כללי. מידע אודות הסימניות שלך או האתרים בהם אתה מבקר [b]לא[/b] יוערך."
+   },
+   "contribute_share_activity_desc2": {
+      "message": "המידע הזה שימוש מאוד לזיהוי בעיות בשמישות או אפשרויות שאינן בשימוש באופן תדיר, למשל."
+   },
+   "contribute_share_activity_example_1": {
+      "message": "כמה סימניות יש למשתמשים בממוצע?"
+   },
+   "contribute_share_activity_example_2": {
+      "message": "באילו פלטפורמות משתמשים עושים שימוש (Windows, Mac, Linux, ...)?"
+   },
+   "contribute_share_activity_example_3": {
+      "message": "האם משתמשים נעזרים בחיפוש?"
+   },
+   "contribute_share_activity_example_4": {
+      "message": "האם משתמשים משנים את הסידור של הסימניות?"
+   },
+   "contribute_share_activity_example_5": {
+      "message": "באיזו תדירות משתמשים מארגנים מחדש או עורכים ערכים?"
+   },
+   "contribute_share_activity_examples_intro": {
+      "message": "מידע משותף למשל."
+   },
+   "contribute_share_activity_label": {
+      "message": "שתף פעילות"
+   },
+   "contribute_share_config_desc": {
+      "message": "אתה משתף את התצורה שלך בצורה אנונימית, שעוזרת לי לזהות הגדרות פופולריות ולהבין מה לשפר או לשנות בשחרורים עתידיים."
+   },
+   "contribute_share_config_label": {
+      "message": "שתף תצורה"
+   },
+   "extension_desc": {
+      "message": "מוסיף סרגל צד ניתן לעיצוב עם כל הסימניות שלך בצד של חלון הדפדפן שלך."
+   },
+   "extension_name": {
+      "message": "סרגל צד לסימניות"
+   },
+   "header_bookmarks": {
+      "message": "סימניות"
+   },
+   "header_bookmarks_single": {
+      "message": "סימניה"
+   },
+   "keyboard_shortcuts_ctrl_c_desc": {
+      "message": "מעתיק את כתובת האתר של הערך המסומן"
+   },
+   "keyboard_shortcuts_del_desc": {
+      "message": "מסיר את הערך המסומן"
+   },
+   "keyboard_shortcuts_enter_desc": {
+      "message": "מבצע הקלקה על הערך המסומן"
+   },
+   "keyboard_shortcuts_esc_desc": {
+      "message": "סוגר את סרגל הצד, שכבת העל הפתוחה או התפריט"
+   },
+   "keyboard_shortcuts_key_cmd": {
+      "message": "Command"
+   },
+   "keyboard_shortcuts_key_ctrl": {
+      "message": "Ctrl"
+   },
+   "keyboard_shortcuts_key_del": {
+      "message": "Delete"
+   },
+   "keyboard_shortcuts_key_enter": {
+      "message": "Enter"
+   },
+   "keyboard_shortcuts_key_esc": {
+      "message": "Esc"
+   },
+   "keyboard_shortcuts_key_shift": {
+      "message": "Shift"
+   },
+   "keyboard_shortcuts_key_tab": {
+      "message": "Tab"
+   },
+   "keyboard_shortcuts_shift_enter_desc": {
+      "message": "פותח את התפריט של הערך המסומן"
+   },
+   "keyboard_shortcuts_tab_desc": {
+      "message": "מסמן את הערך הבא בסרגל הצד או בתפריט הפתוח"
+   },
+   "more_link": {
+      "message": "למד עוד"
+   },
+   "newtab_fallback_desc": {
+      "message": "פתחנו עבורך כרטיסייה חדשה עם סרגל הצד במקום."
+   },
+   "newtab_fallback_headline_extension_page": {
+      "message": "לא ניתן להשתמש בסרגל הצד בדפי התוספים"
+   },
+   "newtab_fallback_headline_general": {
+      "message": "משהו חסם את סרגל הצד"
+   },
+   "newtab_fallback_headline_new_tab": {
+      "message": "לא ניתן להשתמש בסרגל הצד בדף ברירת המחדל של כרטיסייה חדשה"
+   },
+   "newtab_fallback_headline_system": {
+      "message": "אי אפשר להשתמש בסרגל הצד בדפי מערכת של כרום"
+   },
+   "newtab_fallback_headline_url_filter": {
+      "message": "אחד מכללי הקישורים לא איפשר לסרגל הצד להיפתח"
+   },
+   "newtab_fallback_headline_webstore": {
+      "message": "סרגל הצד לא יכול להיפתח בחנות האינטרנט של כרום"
+   },
+   "newtab_fallback_set_as_new_tab": {
+      "message": "הצג תמיד את הדף הזה בפתיחה של כרטיסייה חדשה"
+   },
+   "newtab_search_placeholder": {
+      "message": "חפש {1} או הקלד כתובת אינטרנט"
+   },
+   "newtab_title": {
+      "message": "כרטיסייה חדשה"
+   },
+   "newtab_top_pages_default": {
+      "message": "עמודים עליונים"
+   },
+   "newtab_top_pages_hidden": {
+      "message": "אל תציג דפים"
+   },
+   "newtab_top_pages_most_used": {
+      "message": "סימניות הכי בשימוש"
+   },
+   "newtab_top_pages_pinned_entries": {
+      "message": "סימניות שהוצמדו"
+   },
+   "newtab_top_pages_recently_used": {
+      "message": "סימניות בשימוש לאחרונה"
+   },
+   "onboarding_finish_desc": {
+      "message": "תהנה עם סרגל הצד שלך."
+   },
+   "onboarding_goto_appearance": {
+      "message": "עצב מראה"
+   },
+   "onboarding_goto_settings": {
+      "message": "הגדרות נוספות"
+   },
+   "onboarding_handson_desc": {
+      "message": "עכשיו תוכל לנסות זאת בעצמך."
+   },
+   "onboarding_handson_icon_desc": {
+      "message": "הקלק על אייקון התוסף כדי לפתוח את סרגל הצד."
+   },
+   "onboarding_handson_mouse_desc_1": {
+      "message": "הזז את הסמן שלך אל הקצה ה{1} של החלון שלך."
+   },
+   "onboarding_handson_mouse_desc_2": {
+      "message": "אז בצע קליק {1} עם העכבר שלך כדי לפתוח את סרגל הצד."
+   },
+   "onboarding_headline": {
+      "message": "תודה שהתקנת את התוסף."
+   },
+   "onboarding_left": {
+      "message": "ימני"
+   },
+   "onboarding_right": {
+      "message": "שמאלי"
+   },
+   "onboarding_setup": {
+      "message": "הגדר עכשיו"
+   },
+   "onboarding_sidebar_open_action_desc": {
+      "message": "איך תרצה לפתוח את סרגל הצד שלך?"
+   },
+   "onboarding_sidebar_position_desc": {
+      "message": "איפה תרצה את סרגל הצד שלך?"
+   },
+   "onboarding_sidebar_surface_dark": {
+      "message": "חשוך"
+   },
+   "onboarding_sidebar_surface_desc": {
+      "message": "איזה סגנון אתה מעדיף?"
+   },
+   "onboarding_sidebar_surface_light": {
+      "message": "מואר"
+   },
+   "onboarding_skip": {
+      "message": "דלג על הגדרה"
+   },
+   "onboarding_title": {
+      "message": "הגדרה"
+   },
+   "overlay_bookmark_additional_info": {
+      "message": "מידע נוסף"
+   },
+   "overlay_bookmark_created_date": {
+      "message": "נוצר ב"
+   },
+   "overlay_bookmark_title": {
+      "message": "כותרת"
+   },
+   "overlay_bookmark_url": {
+      "message": "כתובת"
+   },
+   "overlay_bookmark_views": {
+      "message": "צפיות"
+   },
+   "overlay_bookmark_views_per_month": {
+      "message": "חודשיות"
+   },
+   "overlay_bookmark_views_since": {
+      "message": "נרשמות מאז"
+   },
+   "overlay_bookmark_views_single": {
+      "message": "צפיה"
+   },
+   "overlay_cancel": {
+      "message": "בטל"
+   },
+   "overlay_check_bookmarks_loading": {
+      "message": "בודק את כתובות הסימניות"
+   },
+   "overlay_check_bookmarks_no_results": {
+      "message": "כל כתובות הסימניות בסדר"
+   },
+   "overlay_close": {
+      "message": "סגור"
+   },
+   "overlay_confirm_open_children": {
+      "message": "אתה באמת רוצה לפתוח את כל {1} הסימניות הפנימיות?"
+   },
+   "overlay_delete": {
+      "message": "מחק"
+   },
+   "overlay_delete_bookmark_confirm": {
+      "message": "אתה באמת רוצה למחוק את הסימניה הזאת?"
+   },
+   "overlay_delete_dir_confirm": {
+      "message": "אתה באמת רוצה למחוק את התיקיה הזאת? כל הסימניות הפנימיות יוסרו גם כן."
+   },
+   "overlay_dir_children": {
+      "message": "פריטים"
+   },
+   "overlay_dir_children_bookmarks": {
+      "message": "סימניות"
+   },
+   "overlay_dir_children_dirs": {
+      "message": "תיקיות"
+   },
+   "overlay_hide_bookmark_confirm": {
+      "message": "אתה באמת רוצה להסתיר את הסימניה הזאת מסרגל הצד?"
+   },
+   "overlay_hide_dir_confirm": {
+      "message": "אתה באמת רוצה להסתיר את התיקיה הזאת מסרגל הצד? כל הסימניות הפנימיות יוסתרו גם כן."
+   },
+   "overlay_hide_from_sidebar": {
+      "message": "הסתר מסרגל צד"
+   },
+   "overlay_label_bookmark": {
+      "message": "סימניה"
+   },
+   "overlay_label_dir": {
+      "message": "תיקיה"
+   },
+   "overlay_label_separator": {
+      "message": "קו הפרדה"
+   },
+   "overlay_open_children": {
+      "message": "פתח הכל"
+   },
+   "overlay_save": {
+      "message": "שמור"
+   },
+   "overlay_update": {
+      "message": "עדכן"
+   },
+   "settings_advanced": {
+      "message": "הגדרות מתקדמות"
+   },
+   "settings_animations": {
+      "message": "אפשר אנימציות"
+   },
+   "settings_animations_desc": {
+      "message": "מאפשר לך לבטל את כל ההנפשות של סרגל הצד. זה עשוי להועיל אם ההנפשות לא רצות חלק במערכת שלך."
+   },
+   "settings_bookmarks_dir_color": {
+      "message": "צבע אייקון תיקיה"
+   },
+   "settings_bookmarks_dir_icon": {
+      "message": "אייקון תיקיה"
+   },
+   "settings_bookmarks_dir_indentation": {
+      "message": "הזחה של התיקיות"
+   },
+   "settings_bookmarks_font_size": {
+      "message": "גודל גופן הסימניות"
+   },
+   "settings_bookmarks_horizontal_padding": {
+      "message": "הזחה אופקית של הסימניות"
+   },
+   "settings_bookmarks_icon_size": {
+      "message": "גודל אייקון הסימניות"
+   },
+   "settings_bookmarks_line_height": {
+      "message": "גודל ההפרדה בין סימניות"
+   },
+   "settings_close_timeout": {
+      "message": "זמן עד לסגירה"
+   },
+   "settings_close_timeout_desc": {
+      "message": "זמן בשניות שלאחריו סרגל הצד ייסגר. הוא יספר ברגע שהעכבר יעזוב את סרגל הצד ולא ירחף מעליו שוב."
+   },
+   "settings_close_timeout_infinity": {
+      "message": "אל תסגור אוטומטית"
+   },
+   "settings_color_scheme": {
+      "message": "סכימת צבעים"
+   },
+   "settings_color_scheme_desc": {
+      "message": "צבע הכותרת, תיבות הסימון של סרגל הצד ועוד"
+   },
+   "settings_custom_css": {
+      "message": "גיליון עיצוב מותאם אישית"
+   },
+   "settings_custom_css_desc": {
+      "message": "באפשרותך להגדיר גיליון עיצוב משל עצמך כך שיעקוף את עיצוב ברירת המחדל. אנא השתמש באפשרות זו רק אם CSS מוכר לך ואתה יודע מה אתה עושה."
+   },
+   "settings_dark_mode": {
+      "message": "משטח"
+   },
+   "settings_dir_accordion": {
+      "message": "הצג תיקיות נוכחיות בלבד"
+   },
+   "settings_dir_accordion_desc": {
+      "message": "סוגר את כל התיקיות חוץ מהנוכחית הפעילה."
+   },
+   "settings_dir_open_duration": {
+      "message": "משך פתיחה של תיקיה"
+   },
+   "settings_dir_open_duration_desc": {
+      "message": "משך של אנימציית פתיחה וסגירה של תיקיות"
+   },
+   "settings_directories_icon_size": {
+      "message": "גודל אייקון התיקיות"
+   },
+   "settings_dnd_open": {
+      "message": "פתח ע\"י גרירה ושחרור"
+   },
+   "settings_dnd_open_desc": {
+      "message": "אפשר גרירת טקסט, קישורים וכתובות אינטרנט אל תוך סרגל הצד. זה עשוי להועיל אם ברצונך להוסיף לסימניות את הדף הנוכחי או קישורים ואתרים אחרים."
+   },
+   "settings_export": {
+      "message": "הגדרות יצוא"
+   },
+   "settings_feedback_desc": {
+      "message": "יש לך הצעות ייעול, שאלות, שמת לב לאפשרויות תצורה חסרות, או מצאת תקלה? כדי לעזור בשיפור חווית השימוש בתוסף אני אהיה אסיר תודה מאוד עבור כל משוב אפשרי."
+   },
+   "settings_feedback_email": {
+      "message": "כתובת הדואר האלקטרוני שלך"
+   },
+   "settings_feedback_notice": {
+      "message": "אנא נסח את המשוב שלך באנגלית, אחרת יהיה זה קשה להבין ולענות להודעתך."
+   },
+   "settings_feedback_send": {
+      "message": "שלח משוב"
+   },
+   "settings_feedback_send_failed": {
+      "message": "ההודעה שלך לא נשלחה. אנא נסה שוב."
+   },
+   "settings_feedback_sent_message": {
+      "message": "תודה לך על המשוב"
+   },
+   "settings_filter_explanation_1": {
+      "message": "הוסף דפוס כתובת אחד בלבד בכל שורה"
+   },
+   "settings_filter_explanation_2": {
+      "message": "היעזר ב * כדי לתאם כל תו שהוא (למשל example.com/* יתאם את כל הדפים תחת הכתובת example.com)"
+   },
+   "settings_filter_explanation_3": {
+      "message": "אם לא תכלול שום * בכלל, רק הכתובת המדויקת תתואם (למשל, \"example.com\" לא יתאם עבור הכתובת \"example.com/about.html')"
+   },
+   "settings_filter_explanation_4": {
+      "message": "אין צורך להוסיף את הפרוטוקול (למשל http://) בכללים"
+   },
+   "settings_filter_intro": {
+      "message": "אם אינך רוצה שסרגל הצד יטען בכל דף, באפשרותך להגדיר היכן לטעון את ההרחבה (רשימה לבנה) או היכן לא לטעון (רשימה שחורה)."
+   },
+   "settings_filter_rules": {
+      "message": "דפוסי כתובות"
+   },
+   "settings_filter_visibility": {
+      "message": "טען סרגל צד"
+   },
+   "settings_filter_visibility_always": {
+      "message": "בכל דף"
+   },
+   "settings_filter_visibility_blacklist": {
+      "message": "בכל דף חוץ מדפים ספיציפיים"
+   },
+   "settings_filter_visibility_whitelist": {
+      "message": "רק בדפים ספיציפיים"
+   },
+   "settings_font_family": {
+      "message": "גופן"
+   },
+   "settings_font_family_default": {
+      "message": "ברירת מחדל"
+   },
+   "settings_font_family_desc": {
+      "message": "הגופן של סרגל הצד ושכבות העל"
+   },
+   "settings_header_height": {
+      "message": "גובה הכותרת"
+   },
+   "settings_hover_color": {
+      "message": "צבע ריחוף עם עכבר"
+   },
+   "settings_icon_color": {
+      "message": "צבע"
+   },
+   "settings_icon_shape": {
+      "message": "צורה"
+   },
+   "settings_import": {
+      "message": "הגדרות יבוא"
+   },
+   "settings_import_export_desc": {
+      "message": "באפשרותך לייצא את הגדרות ההרחבה שלך ולשמור אותם באופן מקומי על המחשב שלך. באפשרותך לייבא את הקובץ המיוצא הקודם מכל מחשב בו ההרחבה מותקנת."
+   },
+   "settings_import_failed": {
+      "message": "נכשל לייבא את התצורה. אנא בחר בקובץ תקין."
+   },
+   "settings_import_saved": {
+      "message": "התצורה יובאה בהצלחה"
+   },
+   "settings_indicator_color": {
+      "message": "צבע"
+   },
+   "settings_indicator_icon_color": {
+      "message": "צבע האייקון"
+   },
+   "settings_indicator_icon_size": {
+      "message": "גודל האייקון"
+   },
+   "settings_indicator_width": {
+      "message": "רוחב"
+   },
+   "settings_keyboard_shortcut_button": {
+      "message": "קבע קיצור מקלדת"
+   },
+   "settings_language": {
+      "message": "שפה"
+   },
+   "settings_language_default": {
+      "message": "ברירת המחדל של הדפדפן"
+   },
+   "settings_language_desc": {
+      "message": "שפת מנשק המשתמש"
+   },
+   "settings_link_action": {
+      "message": "פתח סימניות"
+   },
+   "settings_link_action_current_tab": {
+      "message": "כרטיסייה נוכחית"
+   },
+   "settings_link_action_desc": {
+      "message": "קליק שמאלי על סימניה יפתח אותה בכרטיסייה הנוכחית או בכרטיסייה חדשה."
+   },
+   "settings_link_action_new_tab": {
+      "message": "כרטיסייה חדשה"
+   },
+   "settings_menu_appearance": {
+      "message": "מראה"
+   },
+   "settings_menu_appearance_general": {
+      "message": "כללי"
+   },
+   "settings_menu_appearance_icon": {
+      "message": "אייקון"
+   },
+   "settings_menu_appearance_indicator": {
+      "message": "אינדיקטור"
+   },
+   "settings_menu_appearance_overlay": {
+      "message": "שכבת-על"
+   },
+   "settings_menu_appearance_sidebar": {
+      "message": "סרגל צד"
+   },
+   "settings_menu_export": {
+      "message": "יבוא/יצוא"
+   },
+   "settings_menu_feedback": {
+      "message": "משוב"
+   },
+   "settings_menu_infos": {
+      "message": "מידע"
+   },
+   "settings_menu_infos_changelog": {
+      "message": "יומן שינויים"
+   },
+   "settings_menu_language": {
+      "message": "שפה"
+   },
+   "settings_menu_language_general": {
+      "message": "כללי"
+   },
+   "settings_menu_language_translate": {
+      "message": "תרגם"
+   },
+   "settings_menu_newtab": {
+      "message": "כרטיסייה חדשה"
+   },
+   "settings_menu_sidebar": {
+      "message": "סרגל צד"
+   },
+   "settings_menu_sidebar_filter": {
+      "message": "סנן"
+   },
+   "settings_menu_sidebar_general": {
+      "message": "כללי"
+   },
+   "settings_menu_sidebar_toggle": {
+      "message": "עיצוב"
+   },
+   "settings_menu_sidebar_tooltip": {
+      "message": "חלונית הסבר"
+   },
+   "settings_new_tab": {
+      "message": "כרטיסייה חדשה"
+   },
+   "settings_new_tab_background": {
+      "message": "פתח ברקע אחורי"
+   },
+   "settings_new_tab_desc": {
+      "message": "פתח סימניות בכרטיסייה חדשה ברקע הקדמי או האחורי"
+   },
+   "settings_new_tab_foreground": {
+      "message": "פתח ברקע קדמי"
+   },
+   "settings_new_tab_position_after_current": {
+      "message": "אחרי הכרטיסייה הנוכחית"
+   },
+   "settings_new_tab_position_after_last": {
+      "message": "אחרי הכרטיסייה האחרונה"
+   },
+   "settings_new_tab_position_before_first": {
+      "message": "לפני הכרטיסייה הראשונה"
+   },
+   "settings_new_tab_position_desc": {
+      "message": "פתח כרטיסיות חדשות אחרי הכרטיסייה האחרונה או הנוכחית"
+   },
+   "settings_newtab_desc": {
+      "message": "לצערי, גוגל הסירה את האפשרות לטעון תוספים בדף ברירת המחדל של כרטיסייה חדשה. לכן הוספתי מספר אופציות שיאפשרו לך לגשת לסימניות שלך בעת פתיחת כרטיסייה חדשה בדרך אחרת."
+   },
+   "settings_newtab_override": {
+      "message": "עקוף את דף כרטיסייה חדשה"
+   },
+   "settings_newtab_override_desc": {
+      "message": "האם על התוסף לעקוף את דף כרטיסייה חדשה הנוכחי שלך באמצעות התאמה אישית או אתר אינטרנט שיטען בעת פתיחת כרטיסייה חדשה?"
+   },
+   "settings_newtab_sidebar_auto_open": {
+      "message": "פתח את סרגל הצד באופן אוטומטי"
+   },
+   "settings_newtab_sidebar_auto_open_desc": {
+      "message": "הגדר האם על סרגל הצד להיפתח אוטומטית בעת פתיחת של כרטיסייה חדשה."
+   },
+   "settings_newtab_website": {
+      "message": "טען אתר אינטרנט"
+   },
+   "settings_newtab_website_desc": {
+      "message": "לעומת פתיחת החלופה לכרטיסייה חדשה, באפשרותך לקבוע אתר אינטרנט שיטען במקום."
+   },
+   "settings_not_synced": {
+      "message": "לא יסתנכרן עם המכשירים שלך."
+   },
+   "settings_open_action": {
+      "message": "פתח סרגל צד"
+   },
+   "settings_open_action_desc": {
+      "message": "פתח את סרגל הצד באמצעות קליק שמאלי או ימני, או ריחוף עם העכבר על קצה המסך של חלון הדפדפן שלך. לחלופין, באפשרותך לשנות אותו להיפתח רק על ידי הקלקה על האייקון בתפריט של כרום."
+   },
+   "settings_open_action_icon": {
+      "message": "הקלקה על האייקון"
+   },
+   "settings_open_action_leftclick": {
+      "message": "קליק שמאלי"
+   },
+   "settings_open_action_mouseover": {
+      "message": "ריחוף עם העכבר"
+   },
+   "settings_open_action_rightclick": {
+      "message": "קליק ימני"
+   },
+   "settings_open_children_warn_limit": {
+      "message": "פתח את כל הפריטים (אזהרת הגבלה)"
+   },
+   "settings_open_children_warn_limit_desc": {
+      "message": "כמות הסימניות בה תופיע אזהרה, בעת ניסיון לפתוח את כל הפריטים של תיקייה בבת אחת."
+   },
+   "settings_open_delay": {
+      "message": "השהיית פתיחה"
+   },
+   "settings_open_delay_desc": {
+      "message": "מונע פתיחה מידית של סרגל הצד בריחוף עם העכבר או בקליק באמצעות השהייה"
+   },
+   "settings_overlay_mask_color": {
+      "message": "צבע הרקע"
+   },
+   "settings_prevent_pagescroll": {
+      "message": "מונע גלילת דף"
+   },
+   "settings_prevent_pagescroll_desc": {
+      "message": "מונע גלילה של אתר האינטרנט הנוכחי בזמן שסרגל הצד פתוח."
+   },
+   "settings_remember_desc": {
+      "message": "בחר מה לזכור בעת שינויי דפים. אם תבחר לזכור את הסימניה האחרונה שנפתחה, היא תסומן בעת פתיחה חוזרת של סרגל הצד."
+   },
+   "settings_remember_state": {
+      "message": "זכור"
+   },
+   "settings_remember_state_all": {
+      "message": "מצב הגלילה, תיקיות פתוחות והסימניה האחרונה שנפתחה"
+   },
+   "settings_remember_state_nothing": {
+      "message": "כלום"
+   },
+   "settings_remember_state_open_states": {
+      "message": "תיקיות פתוחות"
+   },
+   "settings_remember_state_open_states_and_scroll": {
+      "message": "מצב הגלילה והתיקיות הפתוחות"
+   },
+   "settings_remember_state_open_states_root": {
+      "message": "התיקיות העליונות הפתוחות"
+   },
+   "settings_reopen_sidebar": {
+      "message": "פתח את סרגל הצד מחדש"
+   },
+   "settings_reopen_sidebar_desc": {
+      "message": "פתח את סרגל הצד שוב אוטומטית, לאחר פתיחת סימניה מתוך סרגל הצד."
+   },
+   "settings_restore": {
+      "message": "שחזור ברירת מחדל"
+   },
+   "settings_restore_confirm": {
+      "message": "האם אתה באמת רוצה לשחזר את תצורת ברירת המחדל?"
+   },
+   "settings_restored_message": {
+      "message": "התצורה שוחזרה בהצלחה"
+   },
+   "settings_save": {
+      "message": "שמור שינויים"
+   },
+   "settings_saved_message": {
+      "message": "השינויים נשמרו בהצלחה"
+   },
+   "settings_scroll_bar_hide": {
+      "message": "הסתר את סרגל הצד"
+   },
+   "settings_scroll_bar_hide_desc": {
+      "message": "זמן בשניות שלאחריו סרגל הצד יוסתר. גלילה תציג את סרגל הצד שוב."
+   },
+   "settings_scroll_bar_hide_infinity": {
+      "message": "אל תסתיר לעולם"
+   },
+   "settings_scroll_bar_width": {
+      "message": "רוחב סרגל הצד"
+   },
+   "settings_sidebar_mask_color": {
+      "message": "צבע הרקע"
+   },
+   "settings_sidebar_position": {
+      "message": "מיקום"
+   },
+   "settings_sidebar_position_desc": {
+      "message": "מאפשר לך להגדיר אם סרגל הצד צריך להיפתח בצד ימין או שמאל של קצה חלון הדפדפן שלך."
+   },
+   "settings_sidebar_position_left": {
+      "message": "שמאל"
+   },
+   "settings_sidebar_position_right": {
+      "message": "ימין"
+   },
+   "settings_sidebar_width": {
+      "message": "רוחב"
+   },
+   "settings_text_color": {
+      "message": "צבע הטקסט"
+   },
+   "settings_title": {
+      "message": "הגדרות"
+   },
+   "settings_toggle_area": {
+      "message": "קבע תצורת אזור"
+   },
+   "settings_toggle_area_desc": {
+      "message": "כברירת מחדל, ניתן לרחף על כל הקצה של חלון הדפדפן שלך כדי לפתוח את סרגל הצד. באפשרותך לשנות זאת ולהגדיר איפה לפתוח את סרגל הצד בדיוק."
+   },
+   "settings_toggle_area_height": {
+      "message": "גובה"
+   },
+   "settings_toggle_area_height_desc": {
+      "message": "באפשרותך להקטין את הגובה של האזור, כך שסרגל הצד יפתח רק בהזזה של הסמן שלך אל האזור הזה של קצה חלון הדפדפן שלך."
+   },
+   "settings_toggle_area_width": {
+      "message": "רוחב"
+   },
+   "settings_toggle_area_width_windowed": {
+      "message": "רוחב (חלון)"
+   },
+   "settings_tooltip_content": {
+      "message": "תוכן חלוניות הסבר"
+   },
+   "settings_tooltip_content_additional_info": {
+      "message": "מידע נוסף"
+   },
+   "settings_tooltip_content_all": {
+      "message": "כותרת וכתובת"
+   },
+   "settings_tooltip_content_title": {
+      "message": "רק כותרת"
+   },
+   "settings_tooltip_content_url": {
+      "message": "רק כתובת"
+   },
+   "settings_tooltip_delay": {
+      "message": "חלונית הסבר"
+   },
+   "settings_tooltip_delay_desc": {
+      "message": "השהה לפני הצגת הפתיחה של חלוניות ההסבר לסימניות בעת ריחוף עם העכבר."
+   },
+   "settings_tooltip_delay_infinity": {
+      "message": "אל תראה חלוניות הסבר לעולם"
+   },
+   "settings_tooltip_desc": {
+      "message": "בחר איזה מידע צריכות חלוניות ההסבר להכיל"
+   },
+   "settings_tooltip_font_size": {
+      "message": "גודל הגופן בחלונית הסיוע"
+   },
+   "settings_translation_add_language": {
+      "message": "הוסף שפה"
+   },
+   "settings_translation_back_to_overview": {
+      "message": "בחזרה אל סקירת התרגומים"
+   },
+   "settings_translation_desc": {
+      "message": "באפשרותך לסייע בתרגום התוסף לשפתך או לשפר את התרגום הקיים."
+   },
+   "settings_translation_help": {
+      "message": "עבור כל ערך באפשרותך לראות את התרגום באנגלית, אותו יש לתרגם לשפתך. כדי לסייע לך לזהות היכן מופיע הטקסט ומה מטרתו, לכל ערך יש שם (למשל, {1}), אותו אין לתרגם. אנא אל תשכח לשלוח את התרגום שלך ע\"י לחיצה על הכפתור בפינה הימנית העליונה."
+   },
+   "settings_translation_incomplete_info": {
+      "message": "חלק מהתרגומים חסרים"
+   },
+   "settings_translation_info": {
+      "message": "באפשרותך לערוך תרגומים או להוסיף חסרים. אם תשלח את השינויים שלך, אני אבחון את הקלט שלך ואאשר אותו."
+   },
+   "settings_translation_link": {
+      "message": "לך אל סקירת התרגומים"
+   },
+   "settings_translation_notice1": {
+      "message": "ברגע שכל הקטגוריות שמסומנות כדרושות יתורגמו, התרגום ישוחרר."
+   },
+   "settings_translation_notice2": {
+      "message": "קטגוריות לא גמורות לא ישוחררו כדי למנוע טקסט חצי מתורגם."
+   },
+   "settings_translation_required_category": {
+      "message": "דרוש"
+   },
+   "settings_translation_status_draft": {
+      "message": "התרגום אינו גמור או שצריך לעבור סקירה ואינו זמין למשתמשים."
+   },
+   "settings_translation_status_incomplete": {
+      "message": "תרגום זמין, אבל חלק מהקטגוריות אינן גמורות"
+   },
+   "settings_translation_status_released": {
+      "message": "תרגום זמין"
+   },
+   "settings_translation_submit": {
+      "message": "שלח"
+   },
+   "settings_translation_submit_message": {
+      "message": "התרגום שלך נשלח בהצלחה"
+   },
+   "sidebar_copied_to_clipboard": {
+      "message": "הכתובת הועתקה"
+   },
+   "sidebar_deleted": {
+      "message": "הוסר"
+   },
+   "sidebar_dir_children": {
+      "message": "רכיבים"
+   },
+   "sidebar_search_no_results": {
+      "message": "לא נמצאו סימניות שתואמות את ערך החיפוש שלך"
+   },
+   "sidebar_search_placeholder": {
+      "message": "חפש סימניה"
+   },
+   "sidebar_undo_deletion": {
+      "message": "בטל"
+   },
+   "sort_label_alphabetical": {
+      "message": "אלפביתי"
+   },
+   "sort_label_custom": {
+      "message": "הגדרת המשתמש"
+   },
+   "sort_label_most_used": {
+      "message": "הכי בשימוש"
+   },
+   "sort_label_recently_added": {
+      "message": "הוסף לאחרונה"
+   },
+   "sort_label_recently_used": {
+      "message": "בשימוש לאחרונה"
+   },
+   "sort_most_used_per_month": {
+      "message": "בחודש"
+   },
+   "sort_view_as_tree": {
+      "message": "הצג תיקיות"
+   },
+   "status_background_disconnected_reload_action": {
+      "message": "רענן כעת"
+   },
+   "status_background_disconnected_reload_desc": {
+      "message": "בעקבות עדכון של התוסף יש לרענן את הדף הזה."
+   },
+   "status_check_bookmarks_unavailable_desc": {
+      "message": "השירות שבודק את הכתובות אינו זמין כרגע. אנא נסו שוב מאוחר יותר."
+   },
+   "status_feedback_unavailable_desc": {
+      "message": "שירות המשוב אינו זמין כרגע. אם ברצונך לתת לי משוב, אנא שלח לי מייל."
+   },
+   "status_service_unavailable_headline": {
+      "message": "שירות לא זמין"
+   },
+   "status_translation_unavailable_desc": {
+      "message": "שירות התרגום אינו זמין כרגע. אנא נסו שוב מאוחר יותר."
+   }
+}

@@ -1,0 +1,1214 @@
+{
+   "contextmenu_add": {
+      "message": "Thêm phần tử"
+   },
+   "contextmenu_add_bookmark": {
+      "message": "Thêm dấu trang"
+   },
+   "contextmenu_bookmark_manager": {
+      "message": "Quản lý dấu trang"
+   },
+   "contextmenu_check_bookmarks": {
+      "message": "Kiểm tra dấu trang"
+   },
+   "contextmenu_close_all_directories": {
+      "message": "Thu gọn tất cả thư mục"
+   },
+   "contextmenu_current_tab": {
+      "message": "Mở trong cửa sổ hiện tại"
+   },
+   "contextmenu_delete_bookmark": {
+      "message": "Xóa dấu trang"
+   },
+   "contextmenu_delete_dir": {
+      "message": "Xóa thư mục"
+   },
+   "contextmenu_delete_separator": {
+      "message": "Xóa vạch phân cách"
+   },
+   "contextmenu_edit_bookmark": {
+      "message": "Chỉnh sửa dấu trang"
+   },
+   "contextmenu_edit_dir": {
+      "message": "Chỉnh sửa thư mục"
+   },
+   "contextmenu_edit_separator": {
+      "message": "Sửa vạch phân cách"
+   },
+   "contextmenu_hide_from_sidebar": {
+      "message": "Ẩn khỏi sidebar"
+   },
+   "contextmenu_infos": {
+      "message": "Thông tin"
+   },
+   "contextmenu_keyboard_shortcuts": {
+      "message": "Phím tắt"
+   },
+   "contextmenu_new_tab": {
+      "message": "Mở trong tab mới"
+   },
+   "contextmenu_new_tab_incognito": {
+      "message": "Mở trong cửa sổ ẩn danh"
+   },
+   "contextmenu_new_window": {
+      "message": "Mở trong cửa sổ mới"
+   },
+   "contextmenu_open_children": {
+      "message": "Mở dấu trang"
+   },
+   "contextmenu_pin": {
+      "message": "Ghim lên đầu"
+   },
+   "contextmenu_reload_sidebar": {
+      "message": "Cập nhật lại dấu trang"
+   },
+   "contextmenu_show_in_dir": {
+      "message": "Hiện trong thư mục"
+   },
+   "contextmenu_show_in_sidebar": {
+      "message": "Hiện trên sidebar"
+   },
+   "contextmenu_toggle_hidden": {
+      "message": "Hiện phần tử ẩn"
+   },
+   "contextmenu_unpin": {
+      "message": "Bỏ ghim"
+   },
+   "contribute_dismiss": {
+      "message": "Bỏ qua"
+   },
+   "contribute_headline": {
+      "message": "Tôi cần sự giúp đỡ của bạn"
+   },
+   "contribute_intro": {
+      "message": "Bạn sẽ giúp bọn tui cải thiện tiện ích này nhiều hơn nếu cho phép bọn tui thu thập cách mà bạn sử dụng tiện ích hoặc cách bạn thiết lập cho nó."
+   },
+   "contribute_outro": {
+      "message": "Nếu bạn có thắc mắc hoặc góp ý cho bọn tui, hãy gửi liền cho tui một tin nhắn."
+   },
+   "contribute_share_activity_desc1": {
+      "message": "Bạn có thể chia sẽ ẩn danh các hành vi của mình. Việc này giúp tui hiểu người dùng đang sử dụng tiện ích này ra sao. Thông tin về các dấu trang và những trang web bạn đã truy cập [b]KHÔNG[b] được thu thập."
+   },
+   "contribute_share_activity_desc2": {
+      "message": "Thông tin này rất hữu ích để xác định lỗi hiếm gặp của tiện ích."
+   },
+   "contribute_share_activity_example_1": {
+      "message": "Người dùng có trung bình bao nhiêu dấu trang?"
+   },
+   "contribute_share_activity_example_2": {
+      "message": "Bạn đang sử dụng hệ điều hành nào (Windows, Mac, Linux..)?"
+   },
+   "contribute_share_activity_example_3": {
+      "message": "Người ta có sử dụng thanh tìm kiếm hông?"
+   },
+   "contribute_share_activity_example_4": {
+      "message": "Người ta có hay thay đổi việc sắp xếp thanh dấu trang hông?"
+   },
+   "contribute_share_activity_example_5": {
+      "message": "Người ta có thường xuyên xắp xếp/chỉnh sửa các dấu trang không?"
+   },
+   "contribute_share_activity_examples_intro": {
+      "message": "Dữ liệu được chia sẽ trông như thế này:"
+   },
+   "contribute_share_activity_label": {
+      "message": "Chia sẽ hoạt động"
+   },
+   "contribute_share_config_desc": {
+      "message": "Bạn chia sẽ thiết lập của mình một các ẩn danh, việc này giúp tui có thể xác định những điều người dùng cần nhất. Cảm ơn bạn đã đóng góp cho sự phát triển của tiện ích."
+   },
+   "contribute_share_config_label": {
+      "message": "Chia sẽ cách thiết lập"
+   },
+   "extension_desc": {
+      "message": "Thêm một thanh dấu trang có thể mở ra ở một cạnh của trình duyệt."
+   },
+   "extension_name": {
+      "message": "Thanh Dấu Trang"
+   },
+   "header_bookmarks": {
+      "message": "Dấu trang"
+   },
+   "header_bookmarks_single": {
+      "message": "Dấu trang"
+   },
+   "keyboard_shortcuts_ctrl_c_desc": {
+      "message": "Sao chép đường dẫn của mục đang chọn"
+   },
+   "keyboard_shortcuts_del_desc": {
+      "message": "Xóa mục đang chọn"
+   },
+   "keyboard_shortcuts_enter_desc": {
+      "message": "Cho phép click chuột vào mục đang chọn"
+   },
+   "keyboard_shortcuts_esc_desc": {
+      "message": "Đóng hết các giao diện của thanh bookmark"
+   },
+   "keyboard_shortcuts_key_cmd": {
+      "message": "Command"
+   },
+   "keyboard_shortcuts_key_ctrl": {
+      "message": "Ctrl"
+   },
+   "keyboard_shortcuts_key_del": {
+      "message": "Delete"
+   },
+   "keyboard_shortcuts_key_enter": {
+      "message": "Enter"
+   },
+   "keyboard_shortcuts_key_esc": {
+      "message": "Esc"
+   },
+   "keyboard_shortcuts_key_shift": {
+      "message": "Shift"
+   },
+   "keyboard_shortcuts_key_tab": {
+      "message": "Tab"
+   },
+   "keyboard_shortcuts_shift_enter_desc": {
+      "message": "Mở menu cho mục đang chọn"
+   },
+   "keyboard_shortcuts_tab_desc": {
+      "message": "Rê chuột vào mục tiếp theo hoặc trước đó trên thanh bên"
+   },
+   "more_link": {
+      "message": "Xem thêm"
+   },
+   "newtab_fallback_desc": {
+      "message": "Tui đã mở một trang tab mới có chứa thanh dấu trang"
+   },
+   "newtab_fallback_headline_extension_page": {
+      "message": "Không thể sử dụng thanh dấu trang trên các trang tiện ích"
+   },
+   "newtab_fallback_headline_general": {
+      "message": "Có gì đó sai sai! Thanh dấu trang đã bị chặn không thể mở."
+   },
+   "newtab_fallback_headline_new_tab": {
+      "message": "Thanh dấu trang không thể sử dụng trên trang tab mới mặc định"
+   },
+   "newtab_fallback_headline_system": {
+      "message": "Thanh dấu trang không thể sự dụng trên trang hệ thống của {browserName}"
+   },
+   "newtab_fallback_headline_url_filter": {
+      "message": "Một trong những URL không cho phép mở thanh dấu trang"
+   },
+   "newtab_fallback_headline_webstore": {
+      "message": "Không thể sử dụng thanh dấu trang trên Cửa hàng {browserName} trực tuyến"
+   },
+   "newtab_fallback_set_as_new_tab": {
+      "message": "Luôn mở trang này khi mở tab mới."
+   },
+   "newtab_search_engine_custom": {
+      "message": "Người dùng tự đặt"
+   },
+   "newtab_search_engine_custom_title": {
+      "message": "Tiêu đề"
+   },
+   "newtab_search_engine_custom_url_homepage": {
+      "message": "URL trang chủ"
+   },
+   "newtab_search_engine_custom_url_results": {
+      "message": "URL cho kết quả tìm kiếm"
+   },
+   "newtab_search_engine_headline": {
+      "message": "Công cụ tìm kiếm"
+   },
+   "newtab_search_placeholder": {
+      "message": "Tìm {1} hoặc nhập đường dẫn"
+   },
+   "newtab_speech_search_error": {
+      "message": "Bạn cần cho phép tui dùng micro để bật tính năng tìm kiếm bằng giọng nói."
+   },
+   "newtab_speech_search_listening": {
+      "message": "Đọc đi nào"
+   },
+   "newtab_title": {
+      "message": "Trang mới"
+   },
+   "newtab_top_pages_appearance_favicon": {
+      "message": "Hiển thị icon của trang"
+   },
+   "newtab_top_pages_appearance_thumbnail": {
+      "message": "Hiện xem trước của web"
+   },
+   "newtab_top_pages_default": {
+      "message": "Những trang hàng đầu"
+   },
+   "newtab_top_pages_hidden": {
+      "message": "Không hiện các trang"
+   },
+   "newtab_top_pages_most_used": {
+      "message": "Dấu trang thường dùng"
+   },
+   "newtab_top_pages_pinned_entries": {
+      "message": "Dấu trang đã ghim"
+   },
+   "newtab_top_pages_recently_used": {
+      "message": "Dấu trang gần đây"
+   },
+   "newtab_upload_background": {
+      "message": "Tải lên ảnh nền"
+   },
+   "onboarding_finish_desc": {
+      "message": "Thiết lập thanh dấu trang đã xong!"
+   },
+   "onboarding_finish_notice": {
+      "message": "Nếu bạn thường xuyên nhấp vào những thứ ở bên {1} của cửa sổ trình duyệt, bạn nên thay đổi vị trí thanh dấu trang để tránh vô tình mở nó."
+   },
+   "onboarding_goto_appearance": {
+      "message": "Thiết lập hiển thị"
+   },
+   "onboarding_goto_settings": {
+      "message": "Các cài đặt khác"
+   },
+   "onboarding_handson_desc": {
+      "message": "Giờ bạn có thể thử rồi."
+   },
+   "onboarding_handson_icon_desc": {
+      "message": "Nhấn chuột vào biểu tượng của tiện ích để mở thanh dấu trang"
+   },
+   "onboarding_handson_mouse_desc_1": {
+      "message": "Hãy di chuyển con trỏ chuột đến {1} rìa của màn hình."
+   },
+   "onboarding_handson_mouse_desc_2": {
+      "message": "Sau đó{1} nhấn chuột để mở thanh dấu trang."
+   },
+   "onboarding_headline": {
+      "message": "Cảm ơn bạn đã cài đặt tiện ích"
+   },
+   "onboarding_left": {
+      "message": "trái"
+   },
+   "onboarding_right": {
+      "message": "phải"
+   },
+   "onboarding_setup": {
+      "message": "Tùy chỉnh ngay và luôn"
+   },
+   "onboarding_sidebar_open_action_desc": {
+      "message": "Bạn muốn mở thanh dấu trang trông thế nào?"
+   },
+   "onboarding_sidebar_position_desc": {
+      "message": "Thanh dấu trang nằm ở đâu đây ta?"
+   },
+   "onboarding_sidebar_surface_dark": {
+      "message": "Tối"
+   },
+   "onboarding_sidebar_surface_desc": {
+      "message": "Bạn thích phong cách nào nhỉ?"
+   },
+   "onboarding_sidebar_surface_light": {
+      "message": "Sáng"
+   },
+   "onboarding_skip": {
+      "message": "Bỏ qua thiết lập"
+   },
+   "onboarding_title": {
+      "message": "Thiết lập"
+   },
+   "overlay_add_position": {
+      "message": "Vị trí"
+   },
+   "overlay_add_position_append": {
+      "message": "Thêm vào thư sau mục"
+   },
+   "overlay_add_position_prepend": {
+      "message": "Thêm vào trước thư mục"
+   },
+   "overlay_bookmark_additional_info": {
+      "message": "Thông tin bổ sung"
+   },
+   "overlay_bookmark_created_date": {
+      "message": "Ngày tạo"
+   },
+   "overlay_bookmark_title": {
+      "message": "Tiêu đề"
+   },
+   "overlay_bookmark_url": {
+      "message": "URL"
+   },
+   "overlay_bookmark_views": {
+      "message": "Lượt xem"
+   },
+   "overlay_bookmark_views_per_month": {
+      "message": "hàng tháng"
+   },
+   "overlay_bookmark_views_since": {
+      "message": "Được ghi lại từ"
+   },
+   "overlay_bookmark_views_single": {
+      "message": "Xem"
+   },
+   "overlay_cancel": {
+      "message": "Hủy bỏ"
+   },
+   "overlay_check_bookmarks_loading": {
+      "message": "Đang kiểm tra địa chỉ của dấu trang"
+   },
+   "overlay_check_bookmarks_menu_broken": {
+      "message": "Bị hỏng"
+   },
+   "overlay_check_bookmarks_menu_changed": {
+      "message": "Thay đổi"
+   },
+   "overlay_check_bookmarks_menu_duplicate": {
+      "message": "Bản sao"
+   },
+   "overlay_check_bookmarks_menu_empty": {
+      "message": "Thư mục trống"
+   },
+   "overlay_check_bookmarks_no_results": {
+      "message": "Địa chỉ của toàn bộ dấu trang đều ổn"
+   },
+   "overlay_check_bookmarks_no_results_broken": {
+      "message": "Không có dấu trang bị hỏng"
+   },
+   "overlay_check_bookmarks_no_results_changed": {
+      "message": "Không có dấu trang nào được thay đổi địa chỉ URL"
+   },
+   "overlay_check_bookmarks_no_results_duplicate": {
+      "message": "Không có dấu trang bị trùng lặp"
+   },
+   "overlay_check_bookmarks_no_results_empty": {
+      "message": "Không có thư mục rỗng"
+   },
+   "overlay_check_bookmarks_remove_selected": {
+      "message": "Xóa các mục đã chọn"
+   },
+   "overlay_check_bookmarks_update_selected": {
+      "message": "Cập nhật các mục đã chọn"
+   },
+   "overlay_close": {
+      "message": "Đóng"
+   },
+   "overlay_confirm_open_children": {
+      "message": "Bạn có muốn mở toàn bộ {1} dấu trang?"
+   },
+   "overlay_delete": {
+      "message": "Xóa"
+   },
+   "overlay_delete_bookmark_confirm": {
+      "message": "Bạn có muốn xóa dấu trang này?"
+   },
+   "overlay_delete_dir_confirm": {
+      "message": "Bạn có muốn xóa thư mục này?"
+   },
+   "overlay_dir_children": {
+      "message": "Phần tử"
+   },
+   "overlay_dir_children_bookmarks": {
+      "message": "Dấu trang"
+   },
+   "overlay_dir_children_dirs": {
+      "message": "Thư mục"
+   },
+   "overlay_hide_bookmark_confirm": {
+      "message": "Bạn có muốn ẩn dấu trang này?"
+   },
+   "overlay_hide_dir_confirm": {
+      "message": "Bạn có muốn ẩn thư mục này?"
+   },
+   "overlay_hide_from_sidebar": {
+      "message": "Ẩn khỏi sidebar"
+   },
+   "overlay_label_bookmark": {
+      "message": "Dấu trang"
+   },
+   "overlay_label_dir": {
+      "message": "Thư mục"
+   },
+   "overlay_label_separator": {
+      "message": "Vạch phân cách"
+   },
+   "overlay_open_children": {
+      "message": "Mở toàn bộ"
+   },
+   "overlay_save": {
+      "message": "Lưu"
+   },
+   "overlay_separator_title_desc": {
+      "message": "Bạn có thể nhập một tiêu đề tùy ý. Nó sẽ được hiển thị trên đầu vạch phân cách và có thể giúp bạn tổ chức danh sách dấu trang của bạn."
+   },
+   "overlay_update": {
+      "message": "Cập nhật"
+   },
+   "premium_activate": {
+      "message": "Kích hoạt phiên bản Cao Cấp"
+   },
+   "premium_already_activated": {
+      "message": "Tôi đang sử dụng phiên bản Cao Cấp"
+   },
+   "premium_desc_1": {
+      "message": "Với phiên bản Cao Cấp, bạn sẽ được truy cập vào những tính năng bổ sung và giúp tôi hoàn thiện tiện ích này hơn."
+   },
+   "premium_desc_2": {
+      "message": "Bạn có thể xem qua các tính năng có trong phiên bản Cao Cấp ở bên dưới. Những tính năng trọng yếu của tiện ích đều được sử dụng miễn phí và không yêu cầu phiên bản Cao Cấp. Bạn có thể đóng góp cho tôi dựa trên giá trị tiện ích của tôi đối với bạn, theo đó, bạn sẽ được truy cập vào các tính năng bổ sung."
+   },
+   "premium_feature_custom_background_desc": {
+      "message": "Nếu bạn đang sử dụng tính năng Trang Mới của tiện ích này, bạn có thể tự chọn hình nền cho bắt mắt hơn."
+   },
+   "premium_feature_custom_background_headline": {
+      "message": "Cá nhân hóa Trang Mới"
+   },
+   "premium_feature_custom_css_desc": {
+      "message": "Nếu bạn biết cách sử dụng CSS, bạn có thể thay đổi hoàn toàn giao diện của thanh bên bằng cách thêm vào những điều chỉnh cá nhân. Điều này giúp bạn có thể thay đổi hoàn toàn mọi thứ."
+   },
+   "premium_feature_custom_css_headline": {
+      "message": "TÙy chỉnh mọi thứ với Bản định kiểu"
+   },
+   "premium_feature_early_access_desc": {
+      "message": "với phiên bản Cao Cấp, bạn được truy cập vào các tính năng chưa phát hành, hiện đang trong quá trình phát triển hoặc đang được thử nghiệm."
+   },
+   "premium_feature_early_access_headline": {
+      "message": "Trở thành người đầu tiên trải nghiệm các tính năng thử nghiệm"
+   },
+   "premium_feature_import_export_headline": {
+      "message": "Nhập và xuất tùy chỉnh cài đặt"
+   },
+   "premium_feature_linkchecker_desc": {
+      "message": "Bạn có thể nhấp chuột phải vào thư mục bất kỳ trong thanh bên để tiến hành kiểm tra. Trang kết quả sẽ hiển thị tất cả đường dẫn đã được cập nhật, dấu trang bị hư hại và dấu trang có cùng đường dẫn."
+   },
+   "premium_feature_linkchecker_headline": {
+      "message": "Giám định dấu trang bị hỏng hoặc lặp lại"
+   },
+   "premium_feature_sidebar_width_headline": {
+      "message": "Thay đổi độ dài thanh dấu trang bất cứ lúc nào"
+   },
+   "premium_get_now": {
+      "message": "Mua phiên bản Cao Cấp"
+   },
+   "premium_license_key": {
+      "message": "Mã Bản Quyền"
+   },
+   "premium_pay_buy": {
+      "message": "Mua phiên bản Cao Cấp"
+   },
+   "premium_pay_cancellation_policy": {
+      "message": "Chính sách Hủy Bỏ"
+   },
+   "premium_pay_confirm_headline": {
+      "message": "Xác nhận thanh toán"
+   },
+   "premium_pay_contact": {
+      "message": "Nếu bạn gặp bất kỳ vấn đề nào trong quá trình thanh toán hoặc có bất kỳ câu hỏi nào, hãy liên lạc với tôi {1}."
+   },
+   "premium_pay_creditcard": {
+      "message": "thẻ tín dụng hoặc thẻ ghi nợ"
+   },
+   "premium_pay_eula": {
+      "message": "Điều Khoản Cho Người Sử Dụng"
+   },
+   "premium_pay_eula_desc": {
+      "message": "Tôi đã đọc và đồng ý với [a]Điều khoản Cho Người Sử Dụng[/a]"
+   },
+   "premium_pay_info_card_expires": {
+      "message": "Ngày hết hạn"
+   },
+   "premium_pay_info_card_number": {
+      "message": "Số thẻ"
+   },
+   "premium_pay_info_email": {
+      "message": "Hộp thư điện tử"
+   },
+   "premium_pay_info_email_desc": {
+      "message": "Nhập vào địa chỉ hộp thư của bạn để nhận mã bản quyền"
+   },
+   "premium_pay_info_name": {
+      "message": "Tên"
+   },
+   "premium_pay_info_payment_method": {
+      "message": "Phương thức thanh toán"
+   },
+   "premium_pay_info_zipcode": {
+      "message": "Mã vùng"
+   },
+   "premium_pay_license_key_desc": {
+      "message": "Nếu bạn muốn kích hoạt {1} trên thiết bị khác hoặc sau khi tái cài đặt tiện ích, bạn có thể nhập mã dưới đây vào mục cài đặt của tiện ích:"
+   },
+   "premium_pay_price_info": {
+      "message": "Đây là hình thức thanh toán một lần duy nhất và sẽ bao gồm tất cả tính năng trong phiên bản Cao Cấp"
+   },
+   "premium_pay_price_total": {
+      "message": "Tổng cộng"
+   },
+   "premium_pay_purchase_id": {
+      "message": "Mã thanh toán"
+   },
+   "premium_pay_select_payment_method": {
+      "message": "Chọn phương thức thanh toán"
+   },
+   "premium_pay_success_headline": {
+      "message": "Cảm ơn bạn đã thanh toán"
+   },
+   "premium_pay_success_info": {
+      "message": "{1} Thiết bị đã được tự động kích hoạt. Bạn không cần thực hiện thêm bất kỳ thao tác nào."
+   },
+   "premium_pay_verifying": {
+      "message": "Xác nhận giao dịch"
+   },
+   "premium_pay_wechat_desc": {
+      "message": "Quét mã QR qua WeChat để tiếp tục."
+   },
+   "premium_pay_what_you_want": {
+      "message": "Đóng góp theo ý muốn"
+   },
+   "premium_popup_text": {
+      "message": "Bạn đã xem qua các tính năng cao cấp chưa?"
+   },
+   "premium_restricted_text": {
+      "message": "Tính năng này chỉ có trong phiên bản Cao Cấp"
+   },
+   "premium_show_license_input": {
+      "message": "Tôi đã có phiên bản Cao Cấp"
+   },
+   "settings_advanced": {
+      "message": "Thiết lập nâng cao"
+   },
+   "settings_bookmarks_dir_color": {
+      "message": "Màu của thư mục"
+   },
+   "settings_bookmarks_dir_icon": {
+      "message": "Biểu tượng thư mục"
+   },
+   "settings_bookmarks_dir_indentation": {
+      "message": "Thụt lề cho thư mục"
+   },
+   "settings_bookmarks_font_size": {
+      "message": "Kích thước phông chữ dấu trang"
+   },
+   "settings_bookmarks_horizontal_padding": {
+      "message": "Thanh dấu trang nằm ngang"
+   },
+   "settings_bookmarks_icon_size": {
+      "message": "Kích thước biểu tượng dấu trang"
+   },
+   "settings_bookmarks_line_height": {
+      "message": "Chiều cao mỗi dấu trang"
+   },
+   "settings_close_timeout": {
+      "message": "Thời gian hiển thị tối đa"
+   },
+   "settings_close_timeout_desc": {
+      "message": "Sau khi bạn rê chuột ra khỏi thanh bên, sau một khoảng thời gian, nó sẽ tự động tắt đi. Trừ khi bạn rê chuột vào lại."
+   },
+   "settings_close_timeout_infinity": {
+      "message": "Không tự động đóng Sidebar"
+   },
+   "settings_color_scheme": {
+      "message": "Bảng màu"
+   },
+   "settings_color_scheme_desc": {
+      "message": "Màu sắc của tiêu đề thanh trang, hộp kiểm, v.v ..."
+   },
+   "settings_custom_css": {
+      "message": "CSS tùy chỉnh"
+   },
+   "settings_custom_css_desc": {
+      "message": "Bạn có thể chỉnh sửa các thiết lập này tùy ý bằng CSS. Và dĩ nhiên bạn phải cần có trình cao thì mới làm được. Không nên làm những gì mình không hiểu."
+   },
+   "settings_dark_mode": {
+      "message": "Bề mặt"
+   },
+   "settings_dir_accordion": {
+      "message": "Chỉ hiện thư mục hiện tại"
+   },
+   "settings_dir_accordion_desc": {
+      "message": "Đóng tất cả thư mục ngoại trừ thư mục đang được mở."
+   },
+   "settings_directories_icon_size": {
+      "message": "Kích thước biểu tượng thư mục"
+   },
+   "settings_directory_arrows": {
+      "message": "Mũi tên ở thư mục"
+   },
+   "settings_expert_save_error": {
+      "message": "Không thể lưu cài đặt"
+   },
+   "settings_expert_settings_desc": {
+      "message": "Bằng các tùy chọn nâng cao, bạn có thể thay đổi tất cả thiết lập của tiện ích này."
+   },
+   "settings_expert_settings_notice": {
+      "message": "Tuyệt đối không được thay đổi giá trị này, trừ khi bạn hiểu rõ mình đang làm gì. Thiết lập sai có thể dẫn đến lỗi toàn bộ tiện ích. Nếu có gì đó sai sai, bạn có thể reset về các cài đặt mặc định."
+   },
+   "settings_export": {
+      "message": "Trích xuất cài đặt"
+   },
+   "settings_feedback_desc": {
+      "message": "Bạn có bất kỳ đề xuất nào về cải tiến, hoặc câu hỏi, hay thông báo các phần bị thiếu hoặc tìm lỗi? Để giúp tôi cải thiện trải nghiệm của ứng dụng này, tôi sẽ rất biết ơn sự góp ý của bạn."
+   },
+   "settings_feedback_email": {
+      "message": "Địa chỉ email"
+   },
+   "settings_feedback_faq_headline": {
+      "message": "Điều này sẽ khiến bạn thích thú."
+   },
+   "settings_feedback_notice": {
+      "message": "Hãy soạn lại phản hồi của bạn bằng tiếng Anh, nếu không tôi sẽ khó trả lời tin nhắn của bạn."
+   },
+   "settings_feedback_screenshot": {
+      "message": "Đính kèm ảnh chụp màn hình"
+   },
+   "settings_feedback_screenshot_error_amount": {
+      "message": "Bạn chỉ có thể tải lên nhiều nhất {1} ảnh màn hình."
+   },
+   "settings_feedback_screenshot_error_filesize": {
+      "message": "Kích thước tập tin {1} quá lớn (>1MB)"
+   },
+   "settings_feedback_send": {
+      "message": "Gửi phản hồi"
+   },
+   "settings_feedback_send_failed": {
+      "message": "Gửi thư thất bại. Vui lòng thử lại."
+   },
+   "settings_feedback_sent_message": {
+      "message": "Cảm ơn bạn đã góp ý"
+   },
+   "settings_filter_explanation_1": {
+      "message": "Mỗi dòng chỉ được một trang hoy nha :>"
+   },
+   "settings_filter_explanation_2": {
+      "message": "Sử dụng dấu * để xác định mọi loại ký tự (VD: example.com/* nghĩa là tất cả các trang bắt đầu bằng example.com)"
+   },
+   "settings_filter_explanation_3": {
+      "message": "Nếu bạn không thêm dấu * vào đường dẫn, tiện ích sẽ áp dụng chỉ với trang đó. (VD: Chỉ hoạt động trên \"example.com\" nhưng \"example.com/about.html\" thì không)"
+   },
+   "settings_filter_explanation_4": {
+      "message": "Bạn không cần thêm giao thức (https, http, v.v...) vào trước đường dẫn."
+   },
+   "settings_filter_intro": {
+      "message": "Bạn có thể thiết lập các trang mà Sidebar sẽ không được kích hoạt"
+   },
+   "settings_filter_rules": {
+      "message": "Danh sách URL"
+   },
+   "settings_filter_visibility": {
+      "message": "Nạp Sidebar"
+   },
+   "settings_filter_visibility_always": {
+      "message": "Trên tất cả trang web"
+   },
+   "settings_filter_visibility_blacklist": {
+      "message": "Tất cả trang ngoại trừ:"
+   },
+   "settings_filter_visibility_whitelist": {
+      "message": "Chỉ trên các trang:"
+   },
+   "settings_font_family": {
+      "message": "Kiểu chữ"
+   },
+   "settings_font_family_default": {
+      "message": "Mặc định"
+   },
+   "settings_font_family_desc": {
+      "message": "Phông chữ của thanh bên và lớp phủ"
+   },
+   "settings_header_height": {
+      "message": "Chiều cao phần tiêu đề"
+   },
+   "settings_headline_share_userdata": {
+      "message": "Chia sẻ thông tin"
+   },
+   "settings_hover_color": {
+      "message": "Màu văn bản khi được trỏ chuột"
+   },
+   "settings_icon_color": {
+      "message": "Màu"
+   },
+   "settings_icon_color_auto": {
+      "message": "Tự động"
+   },
+   "settings_icon_color_custom": {
+      "message": "Tùy Chọn"
+   },
+   "settings_icon_color_desc_1": {
+      "message": "Biểu tượng màu sắc sẽ được tự động điều chỉnh để đồng bộ với bảng màu hệ thống của bạn (sáng hoặc tối). Bạn cũng có thể tự xác định màu sắc của biểu tượng theo ý muốn."
+   },
+   "settings_icon_color_desc_2": {
+      "message": "Lưu ý rằng khi bạn sử dụng một giao diện tùy chỉnh từ {browserName}, chức năng tự động điều chỉnh màu sắc sẽ không hoạt động."
+   },
+   "settings_icon_shape": {
+      "message": "Hình dạng"
+   },
+   "settings_import": {
+      "message": "Nạp cài đặt"
+   },
+   "settings_import_export_desc": {
+      "message": "Bạn có thể trích xuất các cài đặt để lưu lại trên máy. Sau đó có thể áp dụng lên các máy tính khác có cài tiện ích này."
+   },
+   "settings_import_export_notice": {
+      "message": "Các thiết lập của tiện ích được đồng bộ tự động nếu bạn đăng nhập vào {browserName} bằng tài khoản Google. Nếu bạn không muốn đăng nhập hoặc chia sẻ cách thiết lập của mình với người dùng khác. Hãy sử dụng chức năng Nhập/Xuất thiết lập."
+   },
+   "settings_import_failed": {
+      "message": "không thể nạp thiết lập, Hãy chọn file khác."
+   },
+   "settings_import_saved": {
+      "message": "Thiết lập đã được nạp"
+   },
+   "settings_indicator_color": {
+      "message": "Màu"
+   },
+   "settings_indicator_icon_color": {
+      "message": "Màu biểu tượng"
+   },
+   "settings_indicator_icon_size": {
+      "message": "Kích thước biểu tượng"
+   },
+   "settings_indicator_width": {
+      "message": "Chiều rộng"
+   },
+   "settings_keyboard_shortcut_button": {
+      "message": "Cài đặt phím tắt"
+   },
+   "settings_language": {
+      "message": "Ngôn ngữ"
+   },
+   "settings_language_default": {
+      "message": "Trình duyệt mặc định"
+   },
+   "settings_language_desc": {
+      "message": "Ngôn ngữ hiển thị trên giao diện"
+   },
+   "settings_link_action": {
+      "message": "Mở dấu trang này"
+   },
+   "settings_link_action_current_tab": {
+      "message": "Tab hiện tại"
+   },
+   "settings_link_action_desc": {
+      "message": "Nhấp chuột trái vào dấu trang sẽ mở chúng trong tab hiện tại hoặc trong tab mới."
+   },
+   "settings_link_action_new_tab": {
+      "message": "Tab mới"
+   },
+   "settings_menu_appearance": {
+      "message": "Giao diện"
+   },
+   "settings_menu_appearance_general": {
+      "message": "Tổng quát"
+   },
+   "settings_menu_appearance_icon": {
+      "message": "Biểu tượng"
+   },
+   "settings_menu_appearance_indicator": {
+      "message": "Chỉ mục"
+   },
+   "settings_menu_appearance_overlay": {
+      "message": "Lớp phủ"
+   },
+   "settings_menu_appearance_sidebar": {
+      "message": "Thanh bên"
+   },
+   "settings_menu_expert": {
+      "message": "Sao lưu thiết lập"
+   },
+   "settings_menu_export": {
+      "message": "Nhập/Xuất"
+   },
+   "settings_menu_feedback": {
+      "message": "Phản hồi"
+   },
+   "settings_menu_infos": {
+      "message": "Thông tin"
+   },
+   "settings_menu_infos_aboutme": {
+      "message": "Thông tin tác gả"
+   },
+   "settings_menu_infos_changelog": {
+      "message": "Lịch sử thay đổi"
+   },
+   "settings_menu_infos_contact": {
+      "message": "Liên hệ"
+   },
+   "settings_menu_infos_permissions": {
+      "message": "Quyền hạn"
+   },
+   "settings_menu_infos_privacy": {
+      "message": "Chính sách bảo mật"
+   },
+   "settings_menu_language": {
+      "message": "Ngôn ngữ"
+   },
+   "settings_menu_language_general": {
+      "message": "Tổng quát"
+   },
+   "settings_menu_language_translate": {
+      "message": "Dịch"
+   },
+   "settings_menu_newtab": {
+      "message": "Tab mới"
+   },
+   "settings_menu_premium": {
+      "message": "Bản cao cấp"
+   },
+   "settings_menu_sidebar": {
+      "message": "Thanh bên"
+   },
+   "settings_menu_sidebar_filter": {
+      "message": "Bộ lọc"
+   },
+   "settings_menu_sidebar_general": {
+      "message": "Tổng quát"
+   },
+   "settings_menu_sidebar_toggle": {
+      "message": "Nút công tắc"
+   },
+   "settings_menu_sidebar_tooltip": {
+      "message": "Hỗ trợ"
+   },
+   "settings_new_tab": {
+      "message": "Tab mới"
+   },
+   "settings_new_tab_background": {
+      "message": "Sau trang hiện tại"
+   },
+   "settings_new_tab_desc": {
+      "message": "Mở dấu trang ở vị trí trước/sau trang hiện tại"
+   },
+   "settings_new_tab_foreground": {
+      "message": "Trước trang hiện tại"
+   },
+   "settings_new_tab_position_after_current": {
+      "message": "sau tab hiện tại"
+   },
+   "settings_new_tab_position_after_last": {
+      "message": "Sau tab cuối cùng"
+   },
+   "settings_new_tab_position_before_first": {
+      "message": "Trước tab hiện tại"
+   },
+   "settings_new_tab_position_desc": {
+      "message": "Mở tab mới sau tab cuối cùng hoặc tab hiện tại"
+   },
+   "settings_newtab_desc": {
+      "message": "Thật không may, Google đã loại bỏ khả năng tải tiện ích mở rộng trên trang tab mới mặc định. Vì thế, chúng tôi đã thêm một số tùy chọn cho phép bạn truy cập dấu trang của mình khi mở tab mới theo cách khác."
+   },
+   "settings_newtab_override": {
+      "message": "Sử dụng trang tab mới của bọn tui."
+   },
+   "settings_newtab_override_desc": {
+      "message": "Tiện ích mở rộng có nên ghi đè trang tab mới hiện tại của bạn bằng một trang web tùy ý hoặc bất kỳ trang web nào khi mở tab mới không?"
+   },
+   "settings_newtab_sidebar_auto_open": {
+      "message": "Tự động mở thanh dấu trang"
+   },
+   "settings_newtab_sidebar_auto_open_desc": {
+      "message": "Cài đặt cho thanh bên có nên tự bật lên khi mở tab mới hay không."
+   },
+   "settings_newtab_website": {
+      "message": "Tải trang web"
+   },
+   "settings_newtab_website_desc": {
+      "message": "Thay vì mở trang tab mới của bọn tui, bạn có thể đặt thành một trang web."
+   },
+   "settings_not_synced": {
+      "message": "Thiết lập này không đồng bộ giữa các thiết bị"
+   },
+   "settings_open_action": {
+      "message": "Mở thanh bên"
+   },
+   "settings_open_action_desc": {
+      "message": "Mở thanh bên bằng cách nhấp chuột trái hoặc phải trên cạnh cửa sổ trình duyệt. Bạn có thế thay thế"
+   },
+   "settings_open_action_icon": {
+      "message": "Nhấn vào biểu tượng"
+   },
+   "settings_open_action_leftclick": {
+      "message": "Chuột trái"
+   },
+   "settings_open_action_mouseover": {
+      "message": "Di chuột"
+   },
+   "settings_open_action_rightclick": {
+      "message": "Chuột phải"
+   },
+   "settings_open_delay": {
+      "message": "Độ trễ khi mở Sidebar"
+   },
+   "settings_open_delay_desc": {
+      "message": "Rê chuột vào biểu tượng, nhấp chuột phát, đợt tí xíu rồi Sidebar mới mở lên."
+   },
+   "settings_overlay_mask_color": {
+      "message": "Màu lớp phủ"
+   },
+   "settings_permissions_bookmarks_desc": {
+      "message": "Tiện ích hiển thị các dấu trang của bạn trong một thanh bên và do đó, nó cần một số quyền để thực hiện vụ này. Tiện ích cần được cho phép thêm, xóa, sửa các dấu trang của bạn."
+   },
+   "settings_permissions_contentscript_desc_1": {
+      "message": "Xui quá, {browserName} không cho phép các tiện ích hiển thị nội dung trên cửa sổ trình duyệt mà không phụ thuộc vào trang đang truy cập."
+   },
+   "settings_permissions_contentscript_desc_2": {
+      "message": "Để thanh dấu trang của tiện ích có thể đè lên trang đang truy cập, quyền sau đây sẽ được cấp. Ngoài việc phục vụ cho bạn, quyền này không được sử dụng với mục đích nào khác."
+   },
+   "settings_permissions_contentscript_desc_3": {
+      "message": "Nếu bạn lo ngại về những gì tôi đang làm với các quyền hạn, bạn có thể xem mã nguồn của tiện ích mở rộng trên Github. Tiện ích này là phần mềm mã nguồn mở và mọi người đều có thể xem."
+   },
+   "settings_permissions_desc": {
+      "message": "Để tiện ích có thể hoạt động được trên {browserName}, bạn cần cung cấp cho tiện ích một các quyền sau:"
+   },
+   "settings_premium_activated": {
+      "message": "Kích hoạt bản quyền thành công"
+   },
+   "settings_premium_invalid_key": {
+      "message": "Không thể kích hoạt, hãy nhập mã bản quyền khác"
+   },
+   "settings_presets": {
+      "message": "Tự động đặt kích thước"
+   },
+   "settings_presets_desc": {
+      "message": "Bạn có thể đặt kích thước cho thanh bên. Điều này sẽ thay đổi các thanh trượt trên trang này để điều chỉnh độ rộng của thanh bên, chiều cao của dòng, kích thước biểu tượng và nhiều tùy chọn khác."
+   },
+   "settings_prevent_pagescroll": {
+      "message": "Ngăn cản thao tác cuộn trang"
+   },
+   "settings_prevent_pagescroll_desc": {
+      "message": "Ngăn cản thao tác cuộn trang trong trang web hiện tại mà sidebar đang bật."
+   },
+   "settings_prevent_windowed": {
+      "message": "Không dùng Sidebar khi trình duyệt đang ở chế độ cửa sổ."
+   },
+   "settings_prevent_windowed_desc": {
+      "message": "Vô hiệu hóa khả năng mở thanh bên bằng cách nhấp hoặc di chuột vào cạnh của nội dung trình duyệt khi trình duyệt ở chế độ cửa sổ."
+   },
+   "settings_remember_desc": {
+      "message": "Chọn những gì cần nhớ khi thay đổi trang. Nếu bạn chọn ghi nhớ dấu trang đã mở cuối cùng, nó sẽ được đánh dấu khi mở lại thanh bên."
+   },
+   "settings_remember_open_states_sub_directories": {
+      "message": "Lưu lại các thư mục con được mở"
+   },
+   "settings_remember_state": {
+      "message": "Lưu lại"
+   },
+   "settings_remember_state_all": {
+      "message": "Vị trí cuộn,thư mục đã mở và dấu trang vừa truy cập"
+   },
+   "settings_remember_state_nothing": {
+      "message": "Không lưu lại điều gì"
+   },
+   "settings_remember_state_open_states": {
+      "message": "Những thư mục đã mở"
+   },
+   "settings_remember_state_open_states_and_scroll": {
+      "message": "Vị trí cuộn và thư mục đã mở"
+   },
+   "settings_remember_state_open_states_root": {
+      "message": "Thư mục đã mở gần nhất"
+   },
+   "settings_reopen_sidebar": {
+      "message": "Tái khởi động Sidebar"
+   },
+   "settings_reopen_sidebar_desc": {
+      "message": "Tự động mở Sidebar một lần nữa, sau khi mở một dấu trang từ Sidebar."
+   },
+   "settings_restore": {
+      "message": "Phục hồi mặc định"
+   },
+   "settings_restore_confirm": {
+      "message": "Bạn chắc chắn muốn khôi phục mặc định?"
+   },
+   "settings_restored_message": {
+      "message": "Đã khôi phục cài đặt"
+   },
+   "settings_save": {
+      "message": "Lưu thay đổi"
+   },
+   "settings_saved_message": {
+      "message": "Thay đổi đã được lưu"
+   },
+   "settings_saved_share_userdata": {
+      "message": "Tùy chọn của bạn đã được lưu thành công"
+   },
+   "settings_scroll_bar_hide": {
+      "message": "Ẩn thanh cuộn lên/xuống"
+   },
+   "settings_scroll_bar_hide_desc": {
+      "message": "Thời gian mà thanh cuộn lên/xuống sẽ được ẩn đi. Nó sẽ được hiện lên lại khi bạn tiếp tục cuộn thanh Sidebar."
+   },
+   "settings_scroll_bar_hide_infinity": {
+      "message": "Không ẩn"
+   },
+   "settings_scroll_bar_width": {
+      "message": "Chiều rộng thanh cuộn"
+   },
+   "settings_search_placeholder": {
+      "message": "Tìm kiếm cài đặt"
+   },
+   "settings_sidebar_mask_color": {
+      "message": "Màu lớp phủ"
+   },
+   "settings_sidebar_position": {
+      "message": "Vị trí"
+   },
+   "settings_sidebar_position_desc": {
+      "message": "Cho phép bạn chọn vị trí thanh bên sẽ được mở ở bên trái hay cạnh phải của cửa sổ trình duyệt."
+   },
+   "settings_sidebar_position_left": {
+      "message": "Trái"
+   },
+   "settings_sidebar_position_right": {
+      "message": "Phải"
+   },
+   "settings_sidebar_width": {
+      "message": "Chiều rộng"
+   },
+   "settings_text_color": {
+      "message": "Màu văn bản"
+   },
+   "settings_title": {
+      "message": "Cài đặt"
+   },
+   "settings_toggle_area": {
+      "message": "Thiết lập nơi hiển thị"
+   },
+   "settings_toggle_area_desc": {
+      "message": "Mặc định, toàn bộ các cạnh của cửa sổ trình duyệt có thể được di chuột để mở thanh bên. Bạn có thể thay đổi điều này và cấu hình chính xác nơi để mở nó."
+   },
+   "settings_toggle_area_drag_desc": {
+      "message": "Kẻo thả để di chuyển"
+   },
+   "settings_toggle_area_height": {
+      "message": "Chiều cao"
+   },
+   "settings_toggle_area_height_desc": {
+      "message": "Bạn có thể chỉnh sửa chiều cao của khu vực này, Sidebar sẽ chỉ mở lên khi bạn trỏ chuột vào đúng vị trí đã thiết lập."
+   },
+   "settings_toggle_area_width": {
+      "message": "Chiều dài"
+   },
+   "settings_toggle_area_width_windowed": {
+      "message": "Chiều dài (Cửa sổ)"
+   },
+   "settings_tooltip_content": {
+      "message": "Nội dung tooltip"
+   },
+   "settings_tooltip_content_additional_info": {
+      "message": "Thông tin khác"
+   },
+   "settings_tooltip_content_all": {
+      "message": "Tiêu đề và URL"
+   },
+   "settings_tooltip_content_title": {
+      "message": "Chỉ có tiêu đề"
+   },
+   "settings_tooltip_content_url": {
+      "message": "Chỉ có URL"
+   },
+   "settings_tooltip_delay": {
+      "message": "Thời gian chờ tooltip"
+   },
+   "settings_tooltip_delay_desc": {
+      "message": "Thời gian chờ để hiển thị thông tin của dấu trang đang được rê chuột vào."
+   },
+   "settings_tooltip_delay_infinity": {
+      "message": "Không hiện tooltip"
+   },
+   "settings_tooltip_desc": {
+      "message": "Chọn nội dung mà tooltip cần có"
+   },
+   "settings_tooltip_font_size": {
+      "message": "Kích thước chữ Tooltip"
+   },
+   "settings_translation_add_language": {
+      "message": "Thêm ngôn ngữ"
+   },
+   "settings_translation_back_to_overview": {
+      "message": "Quay lại tổng quan"
+   },
+   "settings_translation_desc": {
+      "message": "Bạn có thể dịch tiện ích hoặc cải thiện phiên bản có sẵn"
+   },
+   "settings_translation_help": {
+      "message": "Với mỗi mục tiếng Anh bạn có thể dịch sang tiếng mẹ đẻ. Để giúp bạn xác định nơi văn bản được sử dụng và mục đích của nó, mỗi mục có một tên (ví dụ: {1}), không nên dịch. Xin đừng quên gửi bản dịch của bạn bằng cách nhấn nút ở góc trên bên phải!"
+   },
+   "settings_translation_incomplete_info": {
+      "message": "Có một số bản dịch bị thiếu"
+   },
+   "settings_translation_info": {
+      "message": "Bạn có thể chỉnh sửa bản dịch hiện tại hoặc thêm các bản dịch bị thiếu. Nếu bạn gửi các thay đổi của mình, tôi sẽ xem lại bản dịch của bạn và chấp nhận nó."
+   },
+   "settings_translation_link": {
+      "message": "Chuyển đến góc dịch thuật"
+   },
+   "settings_translation_notice1": {
+      "message": "Bản dịch sẽ được phát hành ngay sau khi các mục được xác nhận."
+   },
+   "settings_translation_notice2": {
+      "message": "Các bản dịch không hoàn chỉnh sẽ không được tiết lộ, để ngăn chặn một nửa văn bản được dịch."
+   },
+   "settings_translation_reminder_desc": {
+      "message": "Tôi muốn nhận thông báo khi tiện ích có thêm ngôn ngữ mới."
+   },
+   "settings_translation_required_category": {
+      "message": "Bắt buộc"
+   },
+   "settings_translation_status_draft": {
+      "message": "Bản dịch không đầy đủ hoặc cần đánh giá"
+   },
+   "settings_translation_status_incomplete": {
+      "message": "Bản dịch đã có rồi, nhưng còn vài mục chưa hoàn thành"
+   },
+   "settings_translation_status_released": {
+      "message": "Bản dịch đã có sẵn"
+   },
+   "settings_translation_submit": {
+      "message": "Gửi"
+   },
+   "settings_translation_submit_message": {
+      "message": "Bản dịch của bạn đã được gửi thành công"
+   },
+   "sidebar_copied_to_clipboard": {
+      "message": "Đã sao chép url"
+   },
+   "sidebar_deleted": {
+      "message": "Đã xoá"
+   },
+   "sidebar_dir_children": {
+      "message": "Phần tử"
+   },
+   "sidebar_search_no_results": {
+      "message": "Không tìm thấy dấu trang"
+   },
+   "sidebar_search_placeholder": {
+      "message": "Tìm kiếm"
+   },
+   "sidebar_undo_deletion": {
+      "message": "Hoàn tác"
+   },
+   "sort_label_alphabetical": {
+      "message": "Thứ tự chữ cái"
+   },
+   "sort_label_custom": {
+      "message": "Người dùng tự đặt"
+   },
+   "sort_label_most_used": {
+      "message": "Dùng nhiều nhất"
+   },
+   "sort_label_recently_added": {
+      "message": "Thêm gần đây"
+   },
+   "sort_label_recently_used": {
+      "message": "Dùng dần đây"
+   },
+   "sort_most_used_per_month": {
+      "message": "Hàng tháng"
+   },
+   "sort_view_as_tree": {
+      "message": "Hiện thư mục"
+   },
+   "status_background_disconnected_reload_action": {
+      "message": "Tải lại"
+   },
+   "status_background_disconnected_reload_desc": {
+      "message": "Tiện ích đã được cập nhật, hãy tải lại trang"
+   },
+   "status_check_bookmarks_unavailable_desc": {
+      "message": "Dịch vụ kiểm tra url hiện không có sẵn. Vui lòng thử lại sau."
+   },
+   "status_feedback_unavailable_desc": {
+      "message": "Dịch vụ phản hồi tạm thời không hoạt động. Nếu bạn muốn để lại phản hồi, xin hãy gởi email cho tôi."
+   },
+   "status_service_unavailable_headline": {
+      "message": "Dịch vụ Không sẵn có"
+   },
+   "status_translation_unavailable_desc": {
+      "message": "Dịch vụ phản hồi tạm thời không hoạt động. Xin hãy thử lại lần sau."
+   }
+}

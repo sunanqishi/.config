@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>PopUp</title>
+	<style>
+		.container { width: 360px; font-family: Arial, "微软雅黑"; }
+		.textarea-wrap { position: relative; }
+		/* Switcher */
+		.textarea-wrap .switcher { float: right; margin-top: 2px; margin-right: 3px; display: inline-block; height: 12px; width: 24px; cursor: pointer; background: #fff; box-shadow: 0 0 2px rgba(0,0,0,0.2) inset; border: 2px solid #eee; border-radius: 20px; vertical-align: middle; position: relative; overflow: hidden; }
+		.textarea-wrap .switcher i { z-index: 2; display: block; position: absolute; top: 0; height: 10px; width: 10px; border-radius: 20px; border: 1px solid #eee; background: #fff; box-shadow: 0 0 3px rgba(0,0,0,0.3); }
+		.textarea-wrap .switcher:before { z-index: 1; display: block; content: ""; position: absolute; top: 0; left: 0; height: 12px; width: 24px; background: #65c0ff; box-shadow: 2px -3px 5px rgba(255,255,255, 0.4) inset; border-radius: 20px; }
+		.textarea-wrap .switcher:after  { z-index: 1; display: block; content: ""; position: absolute; top: 0; left: 0; height: 12px; width: 24px; background: #aaa; box-shadow: 2px -3px 5px rgba(255,255,255, 0.4) inset; border-radius: 20px; }
+		.textarea-wrap .switcher[data-on="true"]  i { left: 12px; }
+		.textarea-wrap .switcher[data-on="true"]:before { left: 0; }
+		.textarea-wrap .switcher[data-on="true"]:after  { left: 24px; }
+		.textarea-wrap .switcher[data-on="false"] i { left: 0;  }
+		.textarea-wrap .switcher[data-on="false"]:before { left: -24px;  }
+		.textarea-wrap .switcher[data-on="false"]:after  { left: 0;  }
+		.textarea-wrap .switcher i,
+		.textarea-wrap .switcher:before,
+		.textarea-wrap .switcher:after { transition: left 0.2s ease; }
+		/* Tip */
+		.textarea-wrap .tip { display: block; overflow: hidden; height: 16px; line-height: 16px; vertical-align: middle; padding-bottom: 8px; cursor: default; }
+		.textarea-wrap .tip .main-tip { font-size: 14px; color: #999; }
+		.textarea-wrap .tip .sub-tip  { font-size: 11px; color: #aaa; padding-top: 1px; font-style: }
+		.highlight-words { border: 1px dashed #aaa; border-radius: 2px; box-shadow: 0 0 5px rgba(0,0,0,0.1) inset; }
+		.highlight-words textarea { display: block; min-height: 50px; padding: 5px; box-sizing: border-box; outline: 0; border: 0; background: transparent;  resize:none }
+		.highlight-words,
+		.highlight-words textarea { line-height: 16px; font-size: 12px; color: #666;  }
+
+		/* Scroll bar */
+        .highlight-words textarea::-webkit-scrollbar { width: 11px; height:auto; }
+        .highlight-words textarea::-webkit-scrollbar-button{}
+        .highlight-words textarea::-webkit-scrollbar-button:start:decrement,
+        .highlight-words textarea::-webkit-scrollbar-button:end:increment{width:0;height:0;}
+        .highlight-words textarea::-webkit-scrollbar-track-piece{ background-clip:padding-box; background-color:#fff; border: 0; }
+        .highlight-words textarea::-webkit-scrollbar-thumb { border-radius: 7px; background-color: #888; background-clip:padding-box; border: 2px solid transparent; -webkit-transition: all 0.5s ease; }
+        .highlight-words textarea::-webkit-scrollbar-thumb:hover { background-color: #777; }
+        .highlight-words textarea::-webkit-scrollbar-thumb:vertical   { width: 7px; min-height:24px; }
+        .highlight-words textarea::-webkit-scrollbar-thumb:horizontal { height: 7px; min-width:24px; }
+
+		.footer { text-align: right; padding: 5px 5px 0 0;}
+		.footer a { color: #65c0ff; text-decoration: none; font-size: 10px;}
+		.footer a:hover { color: #65c0ff; text-decoration: underline; }
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="textarea-wrap">
+			<div class="tip">
+				<span class="switcher" data-on="true" id="switcher"><i></i></span>
+				<span class="main-tip">Highlight words below </span> <!-- <span class="see-below-arrow"><i></i></span> -->
+				<span class="sub-tip">(separated by a space)</span>
+			</div>
+			<div class="highlight-words" id="highlight-words" placeholder="type highlight words here ..."></div>
+			<div class="footer">
+				<a id="support-link" href="javascript:;">Support Multi-highlight</a>
+			</div>
+		</div>
+	</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/popup.js"></script>
+</body>
+</html>

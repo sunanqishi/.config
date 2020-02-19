@@ -1,0 +1,29 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/jquery.js", "js/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/19x19.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "css/highlight.css" ],
+      "js": [ "js/jquery.js", "js/highlighter.js", "js/content-action.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file://*/*" ]
+   } ],
+   "description": "Search and highlight multiple words on web pages.",
+   "icons": {
+      "100": "img/100x100.png",
+      "128": "img/128x128.png",
+      "19": "img/19x19.png",
+      "48": "img/48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCOHSW4mu5NBNx6ewMo89o2oVFbJo++YXJsZCOeKYIsGU/WC22hq7Oidp/nRCgWwfjDMX96PsbeKPOcNKYCkk5gvWokbRrfEd1sy5yh6bAx7NBbnjiliwPRTy3tpExwwiORL/F52q+hiw5r4MK0uL+BD+WWbS+9huO14RI/aWyrwQIDAQAB",
+   "manifest_version": 2,
+   "name": "Multi-highlight",
+   "permissions": [ "tabs", "http://*/*", "https://*/*", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.20"
+}

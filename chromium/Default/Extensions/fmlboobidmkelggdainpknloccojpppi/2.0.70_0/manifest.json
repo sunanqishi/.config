@@ -1,0 +1,68 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "scripts/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/grey19.png",
+         "38": "img/icon38.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "commands": {
+      "0-toggle": {
+         "description": "Toggle Screen Shader on/off",
+         "suggested_key": {
+            "default": "Alt+Shift+S"
+         }
+      },
+      "1-increase-shade": {
+         "description": "Increase current shade",
+         "suggested_key": {
+            "default": "Alt+Shift+Up"
+         }
+      },
+      "2-decrease-shade": {
+         "description": "Decrease current shade",
+         "suggested_key": {
+            "default": "Alt+Shift+Down"
+         }
+      },
+      "3-increase-darkness": {
+         "description": "Increase darkness"
+      },
+      "4-decrease-darkness": {
+         "description": "Decrease darkness"
+      },
+      "5-change-color": {
+         "description": "Iterate through colors"
+      },
+      "6-toggle-shaded-scrollbar": {
+         "description": "Toggle Shaded Scrollbar on and off"
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "*://*.redditmedia.com/*", "*://www.youtube.com/ad_companion/*", "*://staticxx.facebook.com/*", "*://platform.twitter.com/widgets/*", "*://*.googlesyndication.com/*", "*://*.doubleclick.net/*", "*://js.stripe.com/v2/m/outer.html*", "*://*.amazon-adsystem.com/*", "*://*.lijit.com/beacon*", "*://*.doubleverify.com/*", "*://pixel.sitescout.com/*", "*://*.2mdn.net/*", "*://acdn.adnxs.com/dmp/async_usersync.html" ],
+      "js": [ "scripts/content.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Shades Chrome to a soothing orange color to decrease eye-strain, eye fatigue and to appease your brain's day/night cycle.",
+   "icons": {
+      "128": "img/icon128.png",
+      "16": "img/icon16.png",
+      "48": "img/icon48.png"
+   },
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjYAbbsbE/LOv3GzFF1Cju/KOajYLmKmiQj/Gt1u07kCMXOitCbepGc0V3O3YNAsgPUpKsvWTeiA1w1lXEB8+FA3eDWItBnWLKSOVGPzFvOJZrURWEdcSUHmU833oeTOzWuQcVBoMAYKHv+Dcv3pRePBmRdkgyX3RyWlksz3ZgLX8+4My3Lc/piFmqd2h7Jm+W5VJT/bsBoiyl585mTzx98XxQyJhedRYY6fLoiL0kTymMLDijjwOLR6b13arDShcNk84o7GjV16qwlixgc768BgeOwLpp9d47pXsB4DU9Gd8n8cg8oNCWJqGcEiJbtlNXXaV0Pcg3hyKtlubS0pkZwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "57",
+   "name": "Screen Shader | Smart Screen Tinting",
+   "offline_enabled": true,
+   "permissions": [ "tabs", "storage", "file:///*", "\u003Call_urls>" ],
+   "short_name": "Screen Shader",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.0.70"
+}

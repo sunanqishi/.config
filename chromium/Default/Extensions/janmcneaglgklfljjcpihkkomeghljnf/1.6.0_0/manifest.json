@@ -1,0 +1,31 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "128": "assets/icon/icon-128.png",
+         "16": "assets/icon/icon-16.png",
+         "48": "assets/icon/icon-48.png"
+      },
+      "default_popup": "./popup.html"
+   },
+   "chrome_url_overrides": {
+      "newtab": "./index.html"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "这是一个帮助 GitHub 开发者每日发现优质内容的 Chrome 主页拓展。",
+   "externally_connectable": {
+      "matches": [ "*://*.baidu.com/*", "*://github.com/*", "*://*.github.com/*", "*://up-z0.qiniu.com/*" ]
+   },
+   "icons": {
+      "128": "assets/icon/icon-128.png",
+      "16": "assets/icon/icon-16.png",
+      "48": "assets/icon/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvQ0VJZqAHoZy4+6QDHScoLyUYba/GHGdglWR6eTpzsZ1CRkTomTsLddPTQEJpnMFcDJuLaYQkXfRrIWUyGtsDlATRvb1Tyx1yaS7pqAa8iXTmdbR2RTyr99jqX4jm3I7qP1M42TOY+11tannQMSsa/NAjE2llAn/Sxj6bijThKSfx4VgvA52iGge9lHC0kAYwnVtla8rNksSCQwqH+ok0w3Z41c6tCOwJvVBhVqEv198ffORmrYwp4T1VW8dKawKfo3fUEuIO7ZfiKtwRHUyLVl6YZ2M3yUHKDnz6d8Bmovw60d167D5fvTcZ0Lssc5ZaJGqku+aR3EURh+L4qTvWQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "36",
+   "name": "GITHUBER - 开发者的新标签页",
+   "offline_enabled": true,
+   "permissions": [ "*://github.com/*", "*://*.github.com/*", "*://*.baidu.com/*", "chrome://favicon/", "topSites", "storage", "activeTab", "cookies", "webRequest", "webNavigation", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.6.0"
+}

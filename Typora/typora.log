@@ -1,0 +1,656 @@
+INFO 2/11/2020, 1:31:16 AM  luanchFromDiffVersion, pre version is undefined
+INFO 2/11/2020, 1:31:16 AM  overwriteThemeFolder
+INFO 2/11/2020, 1:31:16 AM  ------------------start------------------
+INFO 2/11/2020, 1:31:16 AM  typora version: 0.9.83
+DEBUG 2/11/2020, 1:31:16 AM  [ '/usr/share/typora/Typora' ]
+ERROR 2/11/2020, 1:31:16 AM  (node:14954) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/11/2020, 1:31:16 AM  (node:14954) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/11/2020, 1:31:16 AM  [Raven] instanceKey = b2af2ff8-2acc-4cee-b565-90be9e49e385
+DEBUG 2/11/2020, 1:31:16 AM  app.openFile
+INFO 2/11/2020, 1:31:16 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:500:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at ReadFileContext.<anonymous> (/usr/share/typora/resources/app/atom.asar/atom.js:384:26)
+    at ReadFileContext.callback (/usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+INFO 2/11/2020, 1:31:16 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at ReadFileContext.<anonymous> (/usr/share/typora/resources/app/atom.asar/atom.js:384:26)
+    at ReadFileContext.callback (/usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16)
+    at FSReqCallback.readFileAfterOpen [as oncomplete] (fs.js:246:13)
+INFO 2/11/2020, 1:31:16 AM  [focus] 1
+INFO 2/11/2020, 1:31:16 AM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/11/2020, 1:31:18 AM  [blur] 1
+INFO 2/11/2020, 1:31:18 AM  [focus] 1
+INFO 2/11/2020, 1:31:39 AM  window.File && (function(){		File.setTheme();	})();
+INFO 2/11/2020, 1:32:04 AM  File.setIndentSize(-1);
+INFO 2/11/2020, 1:33:05 AM  window.File && (function(){		File.setTheme();	})();
+INFO 2/11/2020, 1:33:07 AM  window.File && (function(){		File.setTheme();	})();
+INFO 2/11/2020, 1:33:29 AM  ----------------before-quit-----------------
+INFO 2/11/2020, 1:33:29 AM  ------------------will-quit------------------
+INFO 2/11/2020, 1:33:34 AM  ------------------start------------------
+INFO 2/11/2020, 1:33:34 AM  typora version: 0.9.83
+DEBUG 2/11/2020, 1:33:34 AM  [ '/usr/share/typora/Typora' ]
+ERROR 2/11/2020, 1:33:34 AM  (node:15098) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/11/2020, 1:33:34 AM  (node:15098) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/11/2020, 1:33:34 AM  [Raven] instanceKey = a3ca2d82-a79e-47ee-b822-963c8e4a46cf
+DEBUG 2/11/2020, 1:33:34 AM  app.openFile
+INFO 2/11/2020, 1:33:34 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:500:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/11/2020, 1:33:34 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/11/2020, 1:33:34 AM  [focus] 1
+INFO 2/11/2020, 1:33:34 AM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/11/2020, 1:33:51 AM  [blur] 1
+INFO 2/11/2020, 1:34:08 AM  [focus] 1
+INFO 2/11/2020, 1:34:18 AM  [blur] 1
+INFO 2/11/2020, 1:34:22 AM  [focus] 1
+INFO 2/11/2020, 1:34:25 AM  [blur] 1
+INFO 2/11/2020, 1:34:26 AM  [focus] 1
+INFO 2/11/2020, 1:34:27 AM  [blur] 1
+INFO 2/11/2020, 1:34:28 AM  [focus] 1
+INFO 2/11/2020, 1:35:21 AM  [blur] 1
+INFO 2/11/2020, 1:35:21 AM  [focus] 1
+INFO 2/11/2020, 1:36:11 AM  [blur] 1
+INFO 2/11/2020, 1:36:11 AM  [focus] 1
+INFO 2/11/2020, 1:37:53 AM  [blur] 1
+INFO 2/11/2020, 1:38:50 AM  [focus] 1
+INFO 2/11/2020, 1:38:50 AM  [blur] 1
+INFO 2/11/2020, 1:38:50 AM  [focus] 1
+INFO 2/11/2020, 1:38:50 AM  [blur] 1
+INFO 2/11/2020, 1:38:50 AM  addRecentDocument
+INFO 2/11/2020, 1:38:52 AM  [focus] 1
+INFO 2/11/2020, 1:38:55 AM  ----------------before-quit-----------------
+INFO 2/11/2020, 1:38:55 AM  ------------------will-quit------------------
+INFO 2/11/2020, 10:13:36 AM  ------------------start------------------
+INFO 2/11/2020, 10:13:36 AM  typora version: 0.9.83
+DEBUG 2/11/2020, 10:13:36 AM  [ '/usr/share/typora/Typora' ]
+ERROR 2/11/2020, 10:13:36 AM  (node:1806) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/11/2020, 10:13:36 AM  (node:1806) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/11/2020, 10:13:36 AM  [Raven] instanceKey = 4c8e78b0-2c14-4326-bd00-3dccda56176e
+DEBUG 2/11/2020, 10:13:36 AM  app.openFile
+INFO 2/11/2020, 10:13:36 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:500:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/11/2020, 10:13:36 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/11/2020, 10:13:36 AM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/11/2020, 10:13:36 AM  [focus] 1
+INFO 2/11/2020, 10:13:38 AM  [blur] 1
+INFO 2/11/2020, 10:13:39 AM  [focus] 1
+INFO 2/11/2020, 10:13:40 AM  [blur] 1
+INFO 2/11/2020, 10:13:44 AM  [focus] 1
+INFO 2/11/2020, 10:13:44 AM  addRecentDocument
+INFO 2/11/2020, 10:13:44 AM  [blur] 1
+INFO 2/11/2020, 10:13:44 AM  [focus] 1
+INFO 2/11/2020, 10:13:57 AM  [blur] 1
+INFO 2/11/2020, 10:13:59 AM  ==read==
+xrandr
+
+INFO 2/11/2020, 10:14:18 AM  [focus] 1
+INFO 2/11/2020, 10:14:29 AM  [blur] 1
+INFO 2/11/2020, 10:15:12 AM  [focus] 1
+INFO 2/11/2020, 10:15:15 AM  [blur] 1
+INFO 2/11/2020, 10:25:33 AM  [focus] 1
+INFO 2/11/2020, 10:25:36 AM  ----------------before-quit-----------------
+INFO 2/11/2020, 10:25:36 AM  ------------------will-quit------------------
+INFO 2/11/2020, 7:09:58 PM  ------------------start------------------
+INFO 2/11/2020, 7:09:58 PM  typora version: 0.9.83
+DEBUG 2/11/2020, 7:09:58 PM  [ '/usr/share/typora/Typora' ]
+ERROR 2/11/2020, 7:09:58 PM  (node:2120) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/11/2020, 7:09:58 PM  (node:2120) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/11/2020, 7:09:58 PM  [Raven] instanceKey = fc074048-4c9e-478e-a1be-836b012c3056
+DEBUG 2/11/2020, 7:09:58 PM  app.openFile
+INFO 2/11/2020, 7:09:58 PM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:500:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/11/2020, 7:09:58 PM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/11/2020, 7:09:58 PM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/11/2020, 7:09:58 PM  [focus] 1
+INFO 2/11/2020, 7:10:01 PM  [blur] 1
+INFO 2/11/2020, 7:10:01 PM  [focus] 1
+INFO 2/11/2020, 7:10:10 PM  [blur] 1
+INFO 2/11/2020, 7:10:11 PM  [focus] 1
+INFO 2/11/2020, 7:10:11 PM  [blur] 1
+INFO 2/11/2020, 7:10:11 PM  [focus] 1
+INFO 2/11/2020, 7:10:11 PM  addRecentDocument
+INFO 2/11/2020, 7:10:18 PM  [blur] 1
+INFO 2/11/2020, 7:10:22 PM  ==read==
+xrandr
+
+INFO 2/11/2020, 7:10:33 PM  [focus] 1
+INFO 2/11/2020, 7:10:33 PM  [blur] 1
+INFO 2/11/2020, 7:10:51 PM  [focus] 1
+INFO 2/11/2020, 7:10:51 PM  [blur] 1
+INFO 2/11/2020, 7:10:52 PM  [focus] 1
+INFO 2/11/2020, 7:10:57 PM  ----------------before-quit-----------------
+INFO 2/11/2020, 7:10:57 PM  ------------------will-quit------------------
+INFO 2/16/2020, 6:10:19 AM  ------------------start------------------
+INFO 2/16/2020, 6:10:19 AM  typora version: 0.9.83
+DEBUG 2/16/2020, 6:10:19 AM  [ '/usr/share/typora/Typora', 'bashrc.md' ]
+DEBUG 2/16/2020, 6:10:19 AM  app.openFile
+INFO 2/16/2020, 6:10:19 AM  addRecentDocument
+INFO 2/16/2020, 6:10:19 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:498:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at App.<anonymous> (/usr/share/typora/resources/app/atom.asar/atom.js:428:7)
+    at App.emit (events.js:205:15)
+    at App.EventEmitter.emit (domain.js:471:20)
+    at App.topLevelDomainCallback (domain.js:126:23)
+INFO 2/16/2020, 6:10:19 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at App.<anonymous> (/usr/share/typora/resources/app/atom.asar/atom.js:428:7)
+    at App.emit (events.js:205:15)
+    at App.EventEmitter.emit (domain.js:471:20)
+    at App.topLevelDomainCallback (domain.js:126:23)
+ERROR 2/16/2020, 6:10:19 AM  (node:5189) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/16/2020, 6:10:19 AM  (node:5189) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/16/2020, 6:10:19 AM  [Raven] instanceKey = a346a8d6-49e2-4eb3-b7a1-891561600b98
+INFO 2/16/2020, 6:10:19 AM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/16/2020, 6:10:19 AM  [focus] 1
+INFO 2/16/2020, 6:10:21 AM  [blur] 1
+INFO 2/16/2020, 6:10:21 AM  [focus] 1
+INFO 2/16/2020, 6:10:32 AM  [blur] 1
+INFO 2/16/2020, 6:10:44 AM  [focus] 1
+INFO 2/16/2020, 6:10:49 AM  ----------------before-quit-----------------
+INFO 2/16/2020, 6:10:49 AM  ------------------will-quit------------------
+INFO 2/16/2020, 11:15:37 PM  ------------------start------------------
+INFO 2/16/2020, 11:15:37 PM  typora version: 0.9.83
+DEBUG 2/16/2020, 11:15:37 PM  [
+  '/usr/share/typora/Typora',
+  '/home/sunan/.cache/.fr-dFaQUA/weather-icons-master/README.md'
+]
+DEBUG 2/16/2020, 11:15:37 PM  app.openFile
+INFO 2/16/2020, 11:15:37 PM  addRecentDocument
+INFO 2/16/2020, 11:15:37 PM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:498:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at App.<anonymous> (/usr/share/typora/resources/app/atom.asar/atom.js:428:7)
+    at App.emit (events.js:205:15)
+    at App.EventEmitter.emit (domain.js:471:20)
+    at App.topLevelDomainCallback (domain.js:126:23)
+INFO 2/16/2020, 11:15:37 PM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at App.<anonymous> (/usr/share/typora/resources/app/atom.asar/atom.js:428:7)
+    at App.emit (events.js:205:15)
+    at App.EventEmitter.emit (domain.js:471:20)
+    at App.topLevelDomainCallback (domain.js:126:23)
+ERROR 2/16/2020, 11:15:37 PM  (node:15380) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/16/2020, 11:15:37 PM  (node:15380) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/16/2020, 11:15:37 PM  [Raven] instanceKey = 8880e309-e5a8-429b-bd16-6ca597e084d3
+INFO 2/16/2020, 11:15:37 PM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/16/2020, 11:15:37 PM  [focus] 1
+INFO 2/16/2020, 11:15:54 PM  [blur] 1
+INFO 2/16/2020, 11:17:03 PM  [focus] 1
+INFO 2/16/2020, 11:17:03 PM  [blur] 1
+INFO 2/16/2020, 11:17:05 PM  [focus] 1
+INFO 2/16/2020, 11:17:23 PM  [blur] 1
+INFO 2/16/2020, 11:17:31 PM  [focus] 1
+INFO 2/16/2020, 11:17:31 PM  [blur] 1
+INFO 2/16/2020, 11:18:17 PM  [focus] 1
+INFO 2/16/2020, 11:18:17 PM  [blur] 1
+INFO 2/16/2020, 11:18:17 PM  [focus] 1
+INFO 2/16/2020, 11:18:18 PM  [blur] 1
+INFO 2/16/2020, 11:18:23 PM  [focus] 1
+INFO 2/16/2020, 11:18:23 PM  [blur] 1
+INFO 2/16/2020, 11:18:23 PM  [focus] 1
+INFO 2/16/2020, 11:18:23 PM  [blur] 1
+INFO 2/16/2020, 11:18:23 PM  [focus] 1
+INFO 2/16/2020, 11:18:24 PM  [blur] 1
+INFO 2/16/2020, 11:18:27 PM  [focus] 1
+INFO 2/16/2020, 11:18:27 PM  [blur] 1
+INFO 2/16/2020, 11:18:27 PM  [focus] 1
+INFO 2/16/2020, 11:18:27 PM  [blur] 1
+INFO 2/16/2020, 11:18:58 PM  [focus] 1
+INFO 2/16/2020, 11:18:58 PM  [blur] 1
+INFO 2/16/2020, 11:19:00 PM  [focus] 1
+INFO 2/16/2020, 11:19:00 PM  [blur] 1
+INFO 2/16/2020, 11:19:00 PM  [focus] 1
+INFO 2/16/2020, 11:19:00 PM  [blur] 1
+INFO 2/16/2020, 11:19:00 PM  [focus] 1
+INFO 2/16/2020, 11:19:00 PM  [blur] 1
+INFO 2/16/2020, 11:19:18 PM  [focus] 1
+INFO 2/16/2020, 11:19:18 PM  [blur] 1
+INFO 2/16/2020, 11:19:30 PM  [focus] 1
+INFO 2/16/2020, 11:19:30 PM  [blur] 1
+INFO 2/16/2020, 11:19:30 PM  [focus] 1
+INFO 2/16/2020, 11:19:30 PM  [blur] 1
+INFO 2/16/2020, 11:19:30 PM  [focus] 1
+INFO 2/16/2020, 11:19:30 PM  [blur] 1
+INFO 2/16/2020, 11:19:55 PM  [focus] 1
+INFO 2/16/2020, 11:19:55 PM  [blur] 1
+INFO 2/16/2020, 11:19:55 PM  [focus] 1
+INFO 2/16/2020, 11:19:55 PM  [blur] 1
+INFO 2/16/2020, 11:19:56 PM  [focus] 1
+INFO 2/16/2020, 11:19:56 PM  [blur] 1
+INFO 2/16/2020, 11:20:02 PM  [focus] 1
+INFO 2/16/2020, 11:20:03 PM  [blur] 1
+INFO 2/16/2020, 11:20:03 PM  [focus] 1
+INFO 2/16/2020, 11:20:03 PM  [blur] 1
+INFO 2/16/2020, 11:20:03 PM  [focus] 1
+INFO 2/16/2020, 11:20:03 PM  [blur] 1
+INFO 2/16/2020, 11:20:03 PM  [focus] 1
+INFO 2/16/2020, 11:20:04 PM  [blur] 1
+INFO 2/16/2020, 11:20:06 PM  [focus] 1
+INFO 2/16/2020, 11:20:06 PM  [blur] 1
+INFO 2/16/2020, 11:20:06 PM  [focus] 1
+INFO 2/16/2020, 11:20:06 PM  [blur] 1
+INFO 2/16/2020, 11:20:06 PM  [focus] 1
+INFO 2/16/2020, 11:20:06 PM  [blur] 1
+INFO 2/16/2020, 11:21:12 PM  [focus] 1
+INFO 2/16/2020, 11:21:12 PM  [blur] 1
+INFO 2/16/2020, 11:21:17 PM  [focus] 1
+INFO 2/16/2020, 11:21:18 PM  [blur] 1
+INFO 2/16/2020, 11:21:19 PM  [focus] 1
+INFO 2/16/2020, 11:21:19 PM  [blur] 1
+INFO 2/16/2020, 11:21:21 PM  [focus] 1
+INFO 2/16/2020, 11:21:21 PM  [blur] 1
+INFO 2/16/2020, 11:21:22 PM  [focus] 1
+INFO 2/16/2020, 11:21:23 PM  [blur] 1
+INFO 2/16/2020, 11:22:12 PM  [focus] 1
+INFO 2/16/2020, 11:22:12 PM  [blur] 1
+INFO 2/16/2020, 11:22:15 PM  [focus] 1
+INFO 2/16/2020, 11:22:15 PM  [blur] 1
+INFO 2/16/2020, 11:22:55 PM  [focus] 1
+INFO 2/16/2020, 11:23:10 PM  ----------------before-quit-----------------
+INFO 2/16/2020, 11:23:10 PM  ------------------will-quit------------------
+INFO 2/19/2020, 6:54:24 AM  ------------------start------------------
+INFO 2/19/2020, 6:54:24 AM  typora version: 0.9.83
+DEBUG 2/19/2020, 6:54:24 AM  [ '/usr/share/typora/Typora' ]
+ERROR 2/19/2020, 6:54:24 AM  (node:3470) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/19/2020, 6:54:24 AM  (node:3470) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/19/2020, 6:54:24 AM  [Raven] instanceKey = 8f930039-4ea1-4723-8911-0e32f7aee169
+DEBUG 2/19/2020, 6:54:24 AM  app.openFile
+INFO 2/19/2020, 6:54:24 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:500:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/19/2020, 6:54:25 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/19/2020, 6:54:25 AM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/19/2020, 6:54:34 AM  [focus] 1
+INFO 2/19/2020, 6:54:34 AM  [blur] 1
+INFO 2/19/2020, 6:54:35 AM  [focus] 1
+INFO 2/19/2020, 6:54:36 AM  [blur] 1
+INFO 2/19/2020, 6:54:38 AM  [focus] 1
+INFO 2/19/2020, 6:54:39 AM  [blur] 1
+INFO 2/19/2020, 6:54:40 AM  [focus] 1
+INFO 2/19/2020, 6:54:40 AM  [blur] 1
+INFO 2/19/2020, 6:54:41 AM  [focus] 1
+INFO 2/19/2020, 6:54:47 AM  [blur] 1
+INFO 2/19/2020, 6:55:16 AM  [focus] 1
+INFO 2/19/2020, 6:55:16 AM  [blur] 1
+INFO 2/19/2020, 7:02:53 AM  [focus] 1
+INFO 2/19/2020, 7:02:53 AM  [blur] 1
+INFO 2/19/2020, 7:05:52 AM  [focus] 1
+INFO 2/19/2020, 7:05:52 AM  [blur] 1
+INFO 2/19/2020, 7:05:58 AM  [focus] 1
+INFO 2/19/2020, 7:05:59 AM  [blur] 1
+INFO 2/19/2020, 7:06:30 AM  [focus] 1
+INFO 2/19/2020, 7:06:52 AM  [blur] 1
+INFO 2/19/2020, 7:06:59 AM  [focus] 1
+INFO 2/19/2020, 7:07:09 AM  [blur] 1
+INFO 2/19/2020, 7:07:16 AM  [focus] 1
+INFO 2/19/2020, 7:09:49 AM  [blur] 1
+INFO 2/19/2020, 7:09:55 AM  [focus] 1
+INFO 2/19/2020, 7:09:55 AM  [blur] 1
+INFO 2/19/2020, 7:09:55 AM  [focus] 1
+INFO 2/19/2020, 7:09:55 AM  [blur] 1
+INFO 2/19/2020, 7:09:55 AM  [focus] 1
+INFO 2/19/2020, 7:09:55 AM  addRecentDocument
+INFO 2/19/2020, 7:09:55 AM  ----------------before-quit-----------------
+INFO 2/19/2020, 7:09:55 AM  ------------------will-quit------------------
+INFO 2/19/2020, 7:10:05 AM  ------------------start------------------
+INFO 2/19/2020, 7:10:05 AM  typora version: 0.9.83
+DEBUG 2/19/2020, 7:10:05 AM  [ '/usr/share/typora/Typora' ]
+ERROR 2/19/2020, 7:10:05 AM  (node:4245) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+ERROR 2/19/2020, 7:10:05 AM  (node:4245) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+INFO 2/19/2020, 7:10:05 AM  [Raven] instanceKey = 389e069d-3c7c-46e1-aabf-df2204266522
+DEBUG 2/19/2020, 7:10:05 AM  app.openFile
+INFO 2/19/2020, 7:10:05 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:500:12)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/19/2020, 7:10:06 AM  Error: ENOENT, countly-sdk-nodejs/lib/undefined__cly_event.json not found in /usr/share/typora/resources/app/node_modules.asar
+    at createError (electron/js2c/asar.js:109:17)
+    at Object.func [as openSync] (electron/js2c/asar.js:144:27)
+    at Object.writeFileSync (fs.js:1206:35)
+    at storeSet (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:1272:10)
+    at add_cly_events (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:481:7)
+    at Object.Countly.add_event (/usr/share/typora/resources/app/node_modules.asar/countly-sdk-nodejs/lib/countly.js:458:7)
+    at DocumentController.makeWindow_ (/usr/share/typora/resources/app/atom.asar/DocumentController.js:376:10)
+    at doCreateWin (/usr/share/typora/resources/app/atom.asar/DocumentController.js:504:21)
+    at DocumentController.openFile (/usr/share/typora/resources/app/atom.asar/DocumentController.js:531:9)
+    at doOpenInNewWindow (/usr/share/typora/resources/app/atom.asar/atom.js:592:29)
+    at App.app.openFile (/usr/share/typora/resources/app/atom.asar/atom.js:622:9)
+    at App.app.openFileOrFolder (/usr/share/typora/resources/app/atom.asar/atom.js:566:7)
+    at normalOpen (/usr/share/typora/resources/app/atom.asar/atom.js:354:7)
+    at /usr/share/typora/resources/app/atom.asar/atom.js:398:5
+    at /usr/share/typora/resources/app/node_modules.asar/fs-extra/node_modules/graceful-fs/graceful-fs.js:78:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:61:3)
+INFO 2/19/2020, 7:10:06 AM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 2/19/2020, 7:10:06 AM  [focus] 1
+INFO 2/19/2020, 7:10:07 AM  [blur] 1
+INFO 2/19/2020, 7:10:07 AM  [focus] 1
+INFO 2/19/2020, 7:10:08 AM  [blur] 1
+INFO 2/19/2020, 7:10:08 AM  [focus] 1
+INFO 2/19/2020, 7:10:09 AM  [blur] 1
+INFO 2/19/2020, 7:10:09 AM  [focus] 1
+INFO 2/19/2020, 7:10:09 AM  [blur] 1
+INFO 2/19/2020, 7:10:10 AM  [focus] 1
+INFO 2/19/2020, 7:10:10 AM  [blur] 1
+INFO 2/19/2020, 7:10:10 AM  [focus] 1
+INFO 2/19/2020, 7:10:15 AM  [blur] 1
+INFO 2/19/2020, 7:10:15 AM  [focus] 1
+INFO 2/19/2020, 7:10:16 AM  [blur] 1
+INFO 2/19/2020, 7:10:16 AM  [focus] 1
+INFO 2/19/2020, 7:10:16 AM  [blur] 1
+INFO 2/19/2020, 7:10:16 AM  [focus] 1
+INFO 2/19/2020, 7:10:16 AM  [blur] 1
+INFO 2/19/2020, 7:10:16 AM  [focus] 1
+INFO 2/19/2020, 7:10:17 AM  [blur] 1
+INFO 2/19/2020, 7:10:17 AM  [focus] 1
+INFO 2/19/2020, 7:10:17 AM  [blur] 1
+INFO 2/19/2020, 7:10:17 AM  [focus] 1
+INFO 2/19/2020, 7:10:18 AM  [blur] 1
+INFO 2/19/2020, 7:10:18 AM  [focus] 1
+INFO 2/19/2020, 7:10:23 AM  [blur] 1
+INFO 2/19/2020, 7:10:23 AM  [focus] 1
+INFO 2/19/2020, 7:10:23 AM  [blur] 1
+INFO 2/19/2020, 7:10:23 AM  [focus] 1
+INFO 2/19/2020, 7:10:23 AM  [blur] 1
+INFO 2/19/2020, 7:10:23 AM  [focus] 1
+INFO 2/19/2020, 7:10:24 AM  [blur] 1
+INFO 2/19/2020, 7:10:24 AM  [focus] 1
+INFO 2/19/2020, 7:10:24 AM  [blur] 1
+INFO 2/19/2020, 7:10:26 AM  [focus] 1
+DEBUG 2/19/2020, 7:10:35 AM  app.openFile
+INFO 2/19/2020, 7:10:35 AM  switchDocument
+INFO 2/19/2020, 7:10:35 AM  addRecentDocument
+INFO 2/19/2020, 7:11:20 AM  [blur] 1
+INFO 2/19/2020, 7:11:20 AM  [focus] 1
+INFO 2/19/2020, 7:12:23 AM  [blur] 1
+INFO 2/19/2020, 7:12:48 AM  [focus] 1
+INFO 2/19/2020, 7:12:54 AM  [blur] 1
+INFO 2/19/2020, 7:12:59 AM  [focus] 1
+INFO 2/19/2020, 7:12:59 AM  [blur] 1
+INFO 2/19/2020, 7:13:10 AM  [focus] 1
+INFO 2/19/2020, 7:13:22 AM  [blur] 1
+INFO 2/19/2020, 7:13:27 AM  [focus] 1
+INFO 2/19/2020, 7:14:16 AM  [blur] 1
+INFO 2/19/2020, 7:14:20 AM  [focus] 1
+INFO 2/19/2020, 7:14:39 AM  [blur] 1
+INFO 2/19/2020, 7:14:47 AM  [focus] 1
+INFO 2/19/2020, 7:15:13 AM  [blur] 1
+INFO 2/19/2020, 7:15:42 AM  [focus] 1
+INFO 2/19/2020, 7:15:43 AM  [blur] 1
+INFO 2/19/2020, 7:24:55 AM  [focus] 1
+INFO 2/19/2020, 7:24:55 AM  [blur] 1
+INFO 2/19/2020, 7:28:06 AM  [focus] 1
+INFO 2/19/2020, 7:28:25 AM  [blur] 1
+INFO 2/19/2020, 7:30:25 AM  [focus] 1
+INFO 2/19/2020, 7:30:25 AM  [blur] 1
+INFO 2/19/2020, 7:41:17 AM  [focus] 1
+INFO 2/19/2020, 7:41:17 AM  [blur] 1
+INFO 2/19/2020, 7:41:30 AM  [focus] 1
+INFO 2/19/2020, 7:41:32 AM  [blur] 1
+INFO 2/19/2020, 7:48:15 AM  [focus] 1
+INFO 2/19/2020, 7:48:16 AM  [blur] 1
+INFO 2/19/2020, 7:48:18 AM  [focus] 1
+INFO 2/19/2020, 7:48:18 AM  [blur] 1
+INFO 2/19/2020, 7:48:18 AM  [focus] 1
+INFO 2/19/2020, 7:48:18 AM  [blur] 1
+INFO 2/19/2020, 7:48:18 AM  [focus] 1
+INFO 2/19/2020, 7:48:19 AM  [blur] 1
+INFO 2/19/2020, 7:48:42 AM  [focus] 1
+INFO 2/19/2020, 7:48:43 AM  [blur] 1
+INFO 2/19/2020, 7:55:06 AM  [focus] 1
+INFO 2/19/2020, 7:55:10 AM  [blur] 1
+INFO 2/19/2020, 7:55:31 AM  [focus] 1
+INFO 2/19/2020, 7:55:31 AM  [blur] 1
+INFO 2/19/2020, 8:00:34 AM  [focus] 1
+INFO 2/19/2020, 8:00:34 AM  [blur] 1
+INFO 2/19/2020, 8:02:21 AM  [focus] 1
+INFO 2/19/2020, 8:02:29 AM  [blur] 1
+INFO 2/19/2020, 8:02:31 AM  [focus] 1
+INFO 2/19/2020, 8:02:35 AM  [blur] 1
+INFO 2/19/2020, 8:03:11 AM  [focus] 1
+INFO 2/19/2020, 8:03:15 AM  [blur] 1
+INFO 2/19/2020, 8:03:16 AM  [focus] 1
+INFO 2/19/2020, 8:03:18 AM  [blur] 1
+INFO 2/19/2020, 8:03:19 AM  [focus] 1
+INFO 2/19/2020, 8:03:24 AM  [blur] 1
+INFO 2/19/2020, 8:08:25 AM  [focus] 1
+INFO 2/19/2020, 8:08:25 AM  [blur] 1
+INFO 2/19/2020, 8:09:22 AM  [focus] 1
+INFO 2/19/2020, 8:09:27 AM  [blur] 1
+INFO 2/19/2020, 8:12:02 AM  [focus] 1
+INFO 2/19/2020, 8:12:07 AM  [blur] 1
+INFO 2/19/2020, 8:12:18 AM  [focus] 1
+INFO 2/19/2020, 8:12:22 AM  [blur] 1
+INFO 2/19/2020, 8:12:25 AM  [focus] 1
+INFO 2/19/2020, 8:12:30 AM  [blur] 1
+INFO 2/19/2020, 8:16:14 AM  [focus] 1
+INFO 2/19/2020, 8:16:17 AM  [blur] 1
+INFO 2/19/2020, 8:16:21 AM  [focus] 1
+INFO 2/19/2020, 8:16:21 AM  [blur] 1
+INFO 2/19/2020, 8:16:23 AM  [focus] 1
+INFO 2/19/2020, 8:16:23 AM  [blur] 1
+INFO 2/19/2020, 8:16:23 AM  [focus] 1
+INFO 2/19/2020, 8:16:23 AM  [blur] 1
+INFO 2/19/2020, 8:16:23 AM  [focus] 1
+INFO 2/19/2020, 8:16:24 AM  [blur] 1
+INFO 2/19/2020, 8:19:51 AM  [focus] 1
+INFO 2/19/2020, 8:19:57 AM  [blur] 1
+INFO 2/19/2020, 8:30:04 AM  [focus] 1
+INFO 2/19/2020, 8:30:04 AM  [blur] 1
+INFO 2/19/2020, 8:31:46 AM  [focus] 1
+INFO 2/19/2020, 8:31:46 AM  [blur] 1
+INFO 2/19/2020, 8:32:23 AM  [focus] 1
+INFO 2/19/2020, 8:32:23 AM  [blur] 1
+INFO 2/19/2020, 8:32:32 AM  [focus] 1
+INFO 2/19/2020, 8:32:32 AM  [blur] 1
+INFO 2/19/2020, 8:32:34 AM  [focus] 1
+INFO 2/19/2020, 8:32:34 AM  [blur] 1
+INFO 2/19/2020, 8:32:36 AM  [focus] 1
+INFO 2/19/2020, 8:32:36 AM  [blur] 1
+INFO 2/19/2020, 8:32:41 AM  [focus] 1
+INFO 2/19/2020, 8:32:41 AM  [blur] 1
+INFO 2/19/2020, 8:38:01 AM  [focus] 1
+INFO 2/19/2020, 8:38:01 AM  [blur] 1
+INFO 2/19/2020, 9:18:32 AM  [focus] 1
+INFO 2/19/2020, 9:18:32 AM  [blur] 1
+INFO 2/19/2020, 9:18:49 AM  [focus] 1
+INFO 2/19/2020, 9:18:56 AM  [blur] 1
+INFO 2/19/2020, 9:21:40 AM  [focus] 1
+INFO 2/19/2020, 9:21:41 AM  [blur] 1
+INFO 2/19/2020, 9:21:41 AM  [focus] 1
+INFO 2/19/2020, 9:21:46 AM  ----------------before-quit-----------------
+INFO 2/19/2020, 9:21:46 AM  ------------------will-quit------------------

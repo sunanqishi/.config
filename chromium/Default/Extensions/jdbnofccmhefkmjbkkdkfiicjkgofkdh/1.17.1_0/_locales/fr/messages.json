@@ -1,0 +1,1226 @@
+{
+   "contextmenu_add": {
+      "message": "Ajouter l'élément"
+   },
+   "contextmenu_add_bookmark": {
+      "message": "Ajouter le favori"
+   },
+   "contextmenu_bookmark_manager": {
+      "message": "Gestionnaire de favoris"
+   },
+   "contextmenu_check_bookmarks": {
+      "message": "Vérifier les favoris"
+   },
+   "contextmenu_close_all_directories": {
+      "message": "Fermer tous les dossiers"
+   },
+   "contextmenu_current_tab": {
+      "message": "Ouvrir dans l'onglet"
+   },
+   "contextmenu_delete_bookmark": {
+      "message": "Supprimer le favori"
+   },
+   "contextmenu_delete_dir": {
+      "message": "Supprimer le dossier"
+   },
+   "contextmenu_delete_separator": {
+      "message": "Supprimer le séparateur"
+   },
+   "contextmenu_edit_bookmark": {
+      "message": "Modifier le favori"
+   },
+   "contextmenu_edit_dir": {
+      "message": "Modifier le dossier"
+   },
+   "contextmenu_edit_separator": {
+      "message": "Éditer le séparateur"
+   },
+   "contextmenu_hide_from_sidebar": {
+      "message": "Masquer dans la barre latérale"
+   },
+   "contextmenu_infos": {
+      "message": "Propriétés"
+   },
+   "contextmenu_keyboard_shortcuts": {
+      "message": "Raccourcis clavier"
+   },
+   "contextmenu_new_tab": {
+      "message": "Ouvrir dans un nouvel onglet"
+   },
+   "contextmenu_new_tab_incognito": {
+      "message": "Ouvrir dans une nouvelle fenêtre privée"
+   },
+   "contextmenu_new_window": {
+      "message": "Ouvrir dans une nouvelle fenêtre"
+   },
+   "contextmenu_open_children": {
+      "message": "Ouvrir les favoris"
+   },
+   "contextmenu_pin": {
+      "message": "Placer en haut"
+   },
+   "contextmenu_reload_sidebar": {
+      "message": "Recharger la barre latérale"
+   },
+   "contextmenu_show_in_dir": {
+      "message": "Afficher dans le dossier"
+   },
+   "contextmenu_show_in_sidebar": {
+      "message": "Afficher dans la barre latérale"
+   },
+   "contextmenu_toggle_hidden": {
+      "message": "Afficher les contenus masqués"
+   },
+   "contextmenu_unpin": {
+      "message": "Ne plus placer en haut"
+   },
+   "contribute_dismiss": {
+      "message": "Ne plus afficher"
+   },
+   "contribute_headline": {
+      "message": "Aidez-moi"
+   },
+   "contribute_intro": {
+      "message": "Pour améliorer l'extension il faudrait que j'en sache plus sur l'utilisation et le paramétrage des différents utilisateurs."
+   },
+   "contribute_outro": {
+      "message": "Si vous vous interrogez ou avez des questions sur le partage d'information, faites-moi un retour d'expérience par message."
+   },
+   "contribute_share_activity_desc1": {
+      "message": "Vous pouvez partager votre activité de façon anonyme pour m'aider à savoir comment l'extension est utilisée de manière générale. Vos sites favoris et votre historique de navigation [b]ne seront pas[/b] observés."
+   },
+   "contribute_share_activity_desc2": {
+      "message": "Ces informations sont très utiles pour identifier les problèmes d'ergonomie ou les fonctionnalités qui sont, par exemple, utilisées peu souvent."
+   },
+   "contribute_share_activity_example_1": {
+      "message": "Combien de favoris ont en moyenne les utilisateurs?"
+   },
+   "contribute_share_activity_example_2": {
+      "message": "Quel est l'environnement des utilisateurs (Windows, Mac, Linux, ...)?"
+   },
+   "contribute_share_activity_example_3": {
+      "message": "Les utilisateurs utilisent ils la fonction recherche?"
+   },
+   "contribute_share_activity_example_4": {
+      "message": "Les utilisateurs changent ils le classement des favoris?"
+   },
+   "contribute_share_activity_example_5": {
+      "message": "Tous les combiens les utilisateurs réorganisent ils ou modifient ils les favoris?"
+   },
+   "contribute_share_activity_examples_intro": {
+      "message": "Les données qui sont partagées sont par exemple:"
+   },
+   "contribute_share_activity_label": {
+      "message": "Partager mon activité"
+   },
+   "contribute_share_config_desc": {
+      "message": "Votre configuration est transmise de façon anonyme pour m'aider à identifier les réglages populaires et savoir quoi améliorer ou changer dans les prochaines versions."
+   },
+   "contribute_share_config_label": {
+      "message": "Paramètres de partage"
+   },
+   "extension_desc": {
+      "message": "Vous permet de regrouper tous vos favoris dans une barre latérale à gauche de l'écran."
+   },
+   "extension_name": {
+      "message": "Bookmark Sidebar"
+   },
+   "header_bookmarks": {
+      "message": "Favoris"
+   },
+   "header_bookmarks_single": {
+      "message": "Favori"
+   },
+   "keyboard_shortcuts_ctrl_c_desc": {
+      "message": "Copie de l'URL de l'élément en surbrillance"
+   },
+   "keyboard_shortcuts_del_desc": {
+      "message": "Suppression de l'élément en surbrillance"
+   },
+   "keyboard_shortcuts_enter_desc": {
+      "message": "Clic sur l'élément en surbrillance"
+   },
+   "keyboard_shortcuts_esc_desc": {
+      "message": "Fermeture de la barre latérale, de l'élément ou du menu contextuel"
+   },
+   "keyboard_shortcuts_key_cmd": {
+      "message": "Cmd"
+   },
+   "keyboard_shortcuts_key_ctrl": {
+      "message": "Ctrl"
+   },
+   "keyboard_shortcuts_key_del": {
+      "message": "Suppr"
+   },
+   "keyboard_shortcuts_key_enter": {
+      "message": "Entrée"
+   },
+   "keyboard_shortcuts_key_esc": {
+      "message": "Echap"
+   },
+   "keyboard_shortcuts_key_shift": {
+      "message": "Maj"
+   },
+   "keyboard_shortcuts_key_tab": {
+      "message": "Tabulation"
+   },
+   "keyboard_shortcuts_shift_enter_desc": {
+      "message": "Ouverture du menu contextuel de l'élément en surbrillance"
+   },
+   "keyboard_shortcuts_tab_desc": {
+      "message": "Survolez l’élément suivant ou précédent dans la barre latérale"
+   },
+   "more_link": {
+      "message": "En savoir plus"
+   },
+   "newtab_fallback_desc": {
+      "message": "Nous avons ouvert un nouvel onglet avec la barre latérale pour vous"
+   },
+   "newtab_fallback_headline_extension_page": {
+      "message": "La barre latérale ne peut pas être affichée sur la page des extensions"
+   },
+   "newtab_fallback_headline_general": {
+      "message": "Quelque chose a bloqué la barre latérale"
+   },
+   "newtab_fallback_headline_new_tab": {
+      "message": "La barre latérale ne peut pas être affichée sur la page nouvel onglet"
+   },
+   "newtab_fallback_headline_system": {
+      "message": "La barre latérale ne peut pas être affichée sur les pages système de {browserName}"
+   },
+   "newtab_fallback_headline_url_filter": {
+      "message": "L'une de vos règles URL empêche la barre latérale de s'ouvrir"
+   },
+   "newtab_fallback_headline_webstore": {
+      "message": "La barre latérale ne peut pas être affichée sur le Store de Google {browserName}"
+   },
+   "newtab_fallback_set_as_new_tab": {
+      "message": "Toujours afficher cette page lors de l'ouverture d'un nouvel onglet"
+   },
+   "newtab_search_engine_custom": {
+      "message": "Réglages utilisateur"
+   },
+   "newtab_search_engine_custom_title": {
+      "message": "Titre"
+   },
+   "newtab_search_engine_custom_url_homepage": {
+      "message": "Adresse de la page d'accueil"
+   },
+   "newtab_search_engine_custom_url_results": {
+      "message": "URL des résultats de recherche"
+   },
+   "newtab_search_engine_headline": {
+      "message": "Moteur de Recherche"
+   },
+   "newtab_search_field_hide": {
+      "message": "Masquer le champ de recherche"
+   },
+   "newtab_search_field_show": {
+      "message": "Afficher le champ de recherche"
+   },
+   "newtab_search_placeholder": {
+      "message": "Rechercher {1} ou saisir l'URL"
+   },
+   "newtab_speech_search_error": {
+      "message": "Pour pouvoir utiliser la recherche vocale vous devez autoriser l'accès au microphone."
+   },
+   "newtab_speech_search_listening": {
+      "message": "Parlez"
+   },
+   "newtab_title": {
+      "message": "Nouvel onglet"
+   },
+   "newtab_top_pages_appearance_favicon": {
+      "message": "Afficher les icônes des sites web"
+   },
+   "newtab_top_pages_appearance_thumbnail": {
+      "message": "Afficher les aperçus des sites web"
+   },
+   "newtab_top_pages_default": {
+      "message": "Top pages"
+   },
+   "newtab_top_pages_hidden": {
+      "message": "Ne rien afficher"
+   },
+   "newtab_top_pages_most_used": {
+      "message": "Favoris les plus visités"
+   },
+   "newtab_top_pages_pinned_entries": {
+      "message": "Favoris épinglés"
+   },
+   "newtab_top_pages_recently_used": {
+      "message": "Favoris visités récemment"
+   },
+   "newtab_upload_background": {
+      "message": "Télécharger une image d'arrière-plan"
+   },
+   "onboarding_finish_desc": {
+      "message": "A vous de jouer !"
+   },
+   "onboarding_finish_notice": {
+      "message": "Si vous cliquez fréquemment sur le {1} côté de la fenêtre du navigateur, vous pourriez changer où la barre latérale peut être ouverte verticalement à fin de ne pas l'ouvrir accidentellement."
+   },
+   "onboarding_goto_appearance": {
+      "message": "Paramètres d'affichage"
+   },
+   "onboarding_goto_settings": {
+      "message": "Paramètres supplémentaires"
+   },
+   "onboarding_handson_desc": {
+      "message": "Vous pouvez maintenant essayer par vous même."
+   },
+   "onboarding_handson_icon_desc": {
+      "message": "Cliquez sur l'icône de l'extension pour ouvrir la barre latérale."
+   },
+   "onboarding_handson_mouse_desc_1": {
+      "message": "Déplacez le curseur vers le bord {1} de votre fenêtre."
+   },
+   "onboarding_handson_mouse_desc_2": {
+      "message": "Puis cliquez {1} pour ouvrir la barre latérale."
+   },
+   "onboarding_headline": {
+      "message": "Merci d'avoir installé cette extension."
+   },
+   "onboarding_left": {
+      "message": "gauche"
+   },
+   "onboarding_right": {
+      "message": "droite"
+   },
+   "onboarding_setup": {
+      "message": "Commencer la configuration"
+   },
+   "onboarding_sidebar_open_action_desc": {
+      "message": "Comment voulez-vous ouvrir la barre latérale?"
+   },
+   "onboarding_sidebar_position_desc": {
+      "message": "Où souhaitez vous afficher la barre latérale?"
+   },
+   "onboarding_sidebar_surface_dark": {
+      "message": "Sombre"
+   },
+   "onboarding_sidebar_surface_desc": {
+      "message": "Quel aspect préférez-vous?"
+   },
+   "onboarding_sidebar_surface_light": {
+      "message": "Clair"
+   },
+   "onboarding_skip": {
+      "message": "Ignorer la configuration"
+   },
+   "onboarding_title": {
+      "message": "Configuration"
+   },
+   "overlay_add_position": {
+      "message": "Position"
+   },
+   "overlay_add_position_append": {
+      "message": "Joindre au répertoire"
+   },
+   "overlay_add_position_prepend": {
+      "message": "Ajouter au répertoire"
+   },
+   "overlay_bookmark_additional_info": {
+      "message": "Info complémentaire"
+   },
+   "overlay_bookmark_created_date": {
+      "message": "Créé le"
+   },
+   "overlay_bookmark_title": {
+      "message": "Titre"
+   },
+   "overlay_bookmark_url": {
+      "message": "URL"
+   },
+   "overlay_bookmark_views": {
+      "message": "Vus"
+   },
+   "overlay_bookmark_views_per_month": {
+      "message": "par mois"
+   },
+   "overlay_bookmark_views_since": {
+      "message": "Enregistré depuis"
+   },
+   "overlay_bookmark_views_single": {
+      "message": "Vu"
+   },
+   "overlay_cancel": {
+      "message": "Annuler"
+   },
+   "overlay_check_bookmarks_loading": {
+      "message": "Vérification de l'URL des favoris"
+   },
+   "overlay_check_bookmarks_menu_broken": {
+      "message": "Invalide"
+   },
+   "overlay_check_bookmarks_menu_changed": {
+      "message": "Modifié"
+   },
+   "overlay_check_bookmarks_menu_duplicate": {
+      "message": "Double"
+   },
+   "overlay_check_bookmarks_menu_empty": {
+      "message": "Répertoires vides"
+   },
+   "overlay_check_bookmarks_no_results": {
+      "message": "Toutes les URL des favoris sont correctes"
+   },
+   "overlay_check_bookmarks_no_results_broken": {
+      "message": "Il n'y a pas d'URL de favoris invalide"
+   },
+   "overlay_check_bookmarks_no_results_changed": {
+      "message": "Il n'y a pas d'URL de favoris modifié"
+   },
+   "overlay_check_bookmarks_no_results_duplicate": {
+      "message": "Il n'y a pas d'URL de favoris en double"
+   },
+   "overlay_check_bookmarks_no_results_empty": {
+      "message": "Il n'y a pas de répertoires sans signets"
+   },
+   "overlay_check_bookmarks_remove_selected": {
+      "message": "Supprimer séléctionnés"
+   },
+   "overlay_check_bookmarks_update_selected": {
+      "message": "Mettre à jour séléctionnés"
+   },
+   "overlay_close": {
+      "message": "Fermer"
+   },
+   "overlay_confirm_open_children": {
+      "message": "Voulez vous vraiment ouvrir tous les favoris ?"
+   },
+   "overlay_delete": {
+      "message": "Supprimer"
+   },
+   "overlay_delete_bookmark_confirm": {
+      "message": "Voulez vous vraiment supprimer ce favori ?"
+   },
+   "overlay_delete_dir_confirm": {
+      "message": "Voulez vous vraiment supprimer ce dossier ? Tous les favoris qu'il contient seront également supprimés."
+   },
+   "overlay_dir_children": {
+      "message": "Eléments"
+   },
+   "overlay_dir_children_bookmarks": {
+      "message": "Favoris"
+   },
+   "overlay_dir_children_dirs": {
+      "message": "Dossiers"
+   },
+   "overlay_hide_bookmark_confirm": {
+      "message": "Voulez vous vraiment masquer ce favori dans la barre latérale ?"
+   },
+   "overlay_hide_dir_confirm": {
+      "message": "Voulez vous vraiment masquer ce dossier dans la barre latérale ? Tous les favoris qu'il contient seront également masqués."
+   },
+   "overlay_hide_from_sidebar": {
+      "message": "Masquer dans la barre latérale"
+   },
+   "overlay_label_bookmark": {
+      "message": "Favori"
+   },
+   "overlay_label_dir": {
+      "message": "Dossier"
+   },
+   "overlay_label_separator": {
+      "message": "Séparateur"
+   },
+   "overlay_open_children": {
+      "message": "Ouvrir tous les favoris"
+   },
+   "overlay_save": {
+      "message": "Enregistrer"
+   },
+   "overlay_separator_title_desc": {
+      "message": "Vous pouvez éventuellement entrer un titre pour le séparateur. Il sera affiché en haut de la ligne de séparation et peut vous aider à organiser votre liste de signets."
+   },
+   "overlay_update": {
+      "message": "Mettre à jour"
+   },
+   "premium_activate": {
+      "message": "Activez le compte Premium"
+   },
+   "premium_already_activated": {
+      "message": "Vous utilisez déjà un compte Premium"
+   },
+   "premium_desc_1": {
+      "message": "En souscrivant à un compte Premium, vous aurez accès à plus de fonctionnalités additionnelles et m'aiderez à maintenir cette extension."
+   },
+   "premium_desc_2": {
+      "message": "Découvrez ci-dessous les fonctionnalités disponibles grâce au compte Premium. Toutes les fonctionnalités principales de l'extension sont accessibles gratuitement et ne nécessitent pas de compte Premium. Pour accéder aux fonctionnalités supplémentaires, vous pouvez payez le montant qui vous semble adapté à la valeur de l'extension, et de mon travail."
+   },
+   "premium_feature_custom_background_desc": {
+      "message": "Si vous utilisez la page Nouvel Onglet de cet extension, vous pouvez y ajouter votre propre image d'arrière-plan et la rendre encore plus agréable"
+   },
+   "premium_feature_custom_background_headline": {
+      "message": "Personnalisez votre page Nouvel Onglet"
+   },
+   "premium_feature_custom_css_desc": {
+      "message": "Si vous êtes familier avec le CSS, vous pouvez complètement changer l'apparence de la barre latérale en ajoutant vos propres définitions de styles. Ceci vous permet d'absolument tout personnaliser."
+   },
+   "premium_feature_custom_css_headline": {
+      "message": "Personnalisez tout avec votre propre feuille de style"
+   },
+   "premium_feature_early_access_desc": {
+      "message": "Avec un compte Premium, vous avez accès à des fonctionnalités encore non disponibles, qui sont activement en développement ou en phase de test."
+   },
+   "premium_feature_early_access_headline": {
+      "message": "Soyez le premier à essayer de nouvelles fonctionnalités expérimentales"
+   },
+   "premium_feature_import_export_headline": {
+      "message": "Importer et exporter vos paramètres"
+   },
+   "premium_feature_linkchecker_desc": {
+      "message": "Vous pouvez lancer une vérification en faisant un clic droit sur n'importe quel dossier de votre barre latérale. La page des résultats affichera toutes les URLs mises à jour, les favoris ne fonctionnant plus et ceux pointant vers la même URL."
+   },
+   "premium_feature_linkchecker_headline": {
+      "message": "Vérifiez les liens cassés ou les duplications dans vos favoris"
+   },
+   "premium_feature_sidebar_width_headline": {
+      "message": "Changer la largeur de votre barre latérale à tout moment"
+   },
+   "premium_get_now": {
+      "message": "Souscrire un compte Premium"
+   },
+   "premium_license_key": {
+      "message": "Clé de licence"
+   },
+   "premium_pay_buy": {
+      "message": "Acheter un compte Premium"
+   },
+   "premium_pay_cancellation_policy": {
+      "message": "Informations sur le droit de rétraction"
+   },
+   "premium_pay_confirm_headline": {
+      "message": "Confirmer l'achat"
+   },
+   "premium_pay_contact": {
+      "message": "En cas de problème avec votre paiement, ou pour toute question supplémentaire, n'hésitez pas à me contacter : {1}"
+   },
+   "premium_pay_creditcard": {
+      "message": "Carte de débit ou de crédit"
+   },
+   "premium_pay_eula": {
+      "message": "Conditions générale d'utilisation"
+   },
+   "premium_pay_eula_desc": {
+      "message": "J'ai lu et j'accepte les [a]conditions générales d'utilisation[/a]"
+   },
+   "premium_pay_info_card_expires": {
+      "message": "Date d'expiration"
+   },
+   "premium_pay_info_card_number": {
+      "message": "Numéro de carte"
+   },
+   "premium_pay_info_email": {
+      "message": "Adresse email"
+   },
+   "premium_pay_info_email_desc": {
+      "message": "Veuillez entrer votre adresse mail pour recevoir la clé de licence."
+   },
+   "premium_pay_info_name": {
+      "message": "Nom"
+   },
+   "premium_pay_info_payment_method": {
+      "message": "Méthode de paiement"
+   },
+   "premium_pay_info_zipcode": {
+      "message": "Code postal"
+   },
+   "premium_pay_license_key_desc": {
+      "message": "Si vous souhaitez activer {1} sur un autre appareil ou après avoir réinstaller l'extension, entrez la clé suivante dans les paramètres de l'extension :"
+   },
+   "premium_pay_price_info": {
+      "message": "Ceci est un paiement unique et inclue toutes les prochaines fonctionnalités premium."
+   },
+   "premium_pay_price_total": {
+      "message": "Total"
+   },
+   "premium_pay_purchase_id": {
+      "message": "Identifiant d'achat"
+   },
+   "premium_pay_select_payment_method": {
+      "message": "Sélectionnez un moyen de paiement"
+   },
+   "premium_pay_success_headline": {
+      "message": "Merci de votre achat"
+   },
+   "premium_pay_success_info": {
+      "message": "{1} a été activé automatiquement pour cet appareil. Vous n'avez pas d'étapes supplémentaires à effectuer."
+   },
+   "premium_pay_verifying": {
+      "message": "Vérification de la transaction"
+   },
+   "premium_pay_wechat_desc": {
+      "message": "Scannez ce QR code sur WeChat pour continuer"
+   },
+   "premium_pay_what_you_want": {
+      "message": "Payez ce que vous voulez"
+   },
+   "premium_popup_text": {
+      "message": "Avez-vous déjà essayé notre compte Premium ?"
+   },
+   "premium_restricted_text": {
+      "message": "Cette fonctionnalité n'est disponible qu'avec un compte Premium"
+   },
+   "premium_show_license_input": {
+      "message": "Je possède déjà un compte Premium"
+   },
+   "settings_advanced": {
+      "message": "Paramètres avancés"
+   },
+   "settings_bookmarks_dir_color": {
+      "message": "Couleur des icônes des dossiers"
+   },
+   "settings_bookmarks_dir_icon": {
+      "message": "Icône des dossiers"
+   },
+   "settings_bookmarks_dir_indentation": {
+      "message": "Retrait à gauche dans les dossiers"
+   },
+   "settings_bookmarks_font_size": {
+      "message": "Taille de la police des favoris"
+   },
+   "settings_bookmarks_horizontal_padding": {
+      "message": "Espacement horizontal"
+   },
+   "settings_bookmarks_icon_size": {
+      "message": "Taille de l'icône des favoris"
+   },
+   "settings_bookmarks_line_height": {
+      "message": "Espacement vertical"
+   },
+   "settings_close_timeout": {
+      "message": "Délai avant fermeture"
+   },
+   "settings_close_timeout_desc": {
+      "message": "Délai en secondes avant que la barre latérale disparaisse. Le décompte commence dès que la souris ne survole plus la barre latérale et s'arrête si la souris survole de nouveau la barre."
+   },
+   "settings_close_timeout_infinity": {
+      "message": "Ne pas fermer automatiquement"
+   },
+   "settings_color_scheme": {
+      "message": "Couleur"
+   },
+   "settings_color_scheme_desc": {
+      "message": "Couleur de la zone de titre de la fenêtre d'info, du nombre de favoris, etc."
+   },
+   "settings_custom_css": {
+      "message": "Feuille de style personnalisée"
+   },
+   "settings_custom_css_desc": {
+      "message": "Vous pouvez surcharger le style par défaut avec votre propre feuille de style. N'utilisez cette option que si vous connaissez le CSS et savez ce que vous faites."
+   },
+   "settings_dark_mode": {
+      "message": "Arrière plan"
+   },
+   "settings_dir_accordion": {
+      "message": "Afficher seulement le dossier courant"
+   },
+   "settings_dir_accordion_desc": {
+      "message": "Ferme tous les dossiers autres que le dossier courant"
+   },
+   "settings_directories_icon_size": {
+      "message": "Taille de l'icône des répertoires"
+   },
+   "settings_directory_arrows": {
+      "message": "Flèches de direction"
+   },
+   "settings_expert_save_error": {
+      "message": "N'a pas pu sauvegardé les paramètres. Vérifiez ce que vous avez entré"
+   },
+   "settings_expert_settings_desc": {
+      "message": "Les paramètres expert vous permettent de configurer chaque paramètre de l'extension, même celles que vous ne pouvez pas modifier en utilisant les cases à cocher habituelles, ou les boutons d'activation de la page des paramètres."
+   },
+   "settings_expert_settings_notice": {
+      "message": "Ne changez que les valeurs ici, si vous savez ce que vous faites. Une mauvaise configuration peut causer des comportements inattendus de l'extension. Si quelque chose ne fonctionne plus, vous pouvez revenir à la configuration par défaut."
+   },
+   "settings_export": {
+      "message": "Exporter la configuration"
+   },
+   "settings_feedback_desc": {
+      "message": "Des suggestions d'amélioration, des questions, des options de paramétrage manquantes ou un dysfonctionnement ? Afin d'améliorer l'expérience utilisateur de cette extension, je vous suis très reconnaissant de tous vos retours d'expérience."
+   },
+   "settings_feedback_email": {
+      "message": "Votre courriel"
+   },
+   "settings_feedback_faq_headline": {
+      "message": "Ceci pourrait peut-être vous intéresser"
+   },
+   "settings_feedback_notice": {
+      "message": "Ecrivez-moi en anglais s'il vous plaît, autrement je risque d'avoir des problèmes pour comprendre votre message et y répondre."
+   },
+   "settings_feedback_screenshot": {
+      "message": "Joignez des captures d'écran"
+   },
+   "settings_feedback_screenshot_error_amount": {
+      "message": "Vous pouvez seulement télécharger un maximum de {1} des captures d'écran"
+   },
+   "settings_feedback_screenshot_error_filesize": {
+      "message": "La taille de fichier de {1} est trop grande (> 1 MB)"
+   },
+   "settings_feedback_send": {
+      "message": "Envoyer mon retour d'expérience"
+   },
+   "settings_feedback_send_failed": {
+      "message": "Votre message n'a pas pu être envoyé. Veuillez réessayer s'il vous plaît."
+   },
+   "settings_feedback_sent_message": {
+      "message": "Merci pour votre retour d'expérience"
+   },
+   "settings_filter_explanation_1": {
+      "message": "Ne saisir qu'un masque d'URL par ligne"
+   },
+   "settings_filter_explanation_2": {
+      "message": "Utiliser * pour remplacer un ou plusieurs caractères (ex; exemple.com/* retournera toutes les pages qui débutent par exemple.com/)."
+   },
+   "settings_filter_explanation_3": {
+      "message": "Si vous n'utilisez pas le caractère de substitution * la recherche retournera une pas que si elle est égale au masque (ex; exemple.com ne retournera que l'URL exemple.com)."
+   },
+   "settings_filter_explanation_4": {
+      "message": "Vous n'avez pas besoin d'inclure le protocole (http://, https://) dans le masque."
+   },
+   "settings_filter_intro": {
+      "message": "Si vous ne voulez pas charger la barre latérale pour chacune des pages, vous pouvez spécifier une liste d'URL ; blanche (whitelist) pour autoriser le chargement de la barre latérale ou noire (blacklist) pour l'empêcher."
+   },
+   "settings_filter_rules": {
+      "message": "Masque d'URL"
+   },
+   "settings_filter_visibility": {
+      "message": "Charger la page"
+   },
+   "settings_filter_visibility_always": {
+      "message": "Sur chaque page"
+   },
+   "settings_filter_visibility_blacklist": {
+      "message": "Sur toutes les pages sauf les pages spécifiées"
+   },
+   "settings_filter_visibility_whitelist": {
+      "message": "Uniquement sur les pages spécifiées"
+   },
+   "settings_font_family": {
+      "message": "Police de caractères"
+   },
+   "settings_font_family_default": {
+      "message": "Par défaut"
+   },
+   "settings_font_family_desc": {
+      "message": "Police utilisée dans la barre latérale et les fenêtres d'info"
+   },
+   "settings_header_height": {
+      "message": "Hauteur de l'entête"
+   },
+   "settings_headline_share_userdata": {
+      "message": "Partager mes infos"
+   },
+   "settings_hover_color": {
+      "message": "Couleur au survol de la souris"
+   },
+   "settings_icon_color": {
+      "message": "Couleur"
+   },
+   "settings_icon_color_auto": {
+      "message": "Automatiquement"
+   },
+   "settings_icon_color_custom": {
+      "message": "Personnalisé"
+   },
+   "settings_icon_color_desc_1": {
+      "message": "La couleur de l'icône sera automatiquement définie pour correspondre au jeu de couleurs de votre système (clair ou foncé). Vous pouvez également définir votre propre couleur personnalisée pour l'icône."
+   },
+   "settings_icon_color_desc_2": {
+      "message": "Veuillez noter que la couleur automatique ne fonctionne pas si vous utilisez un thème {browserName} personnalisé."
+   },
+   "settings_icon_shape": {
+      "message": "Forme"
+   },
+   "settings_import": {
+      "message": "Importer une configuration"
+   },
+   "settings_import_export_desc": {
+      "message": "Vous pouvez exporter les paramètres de l'extension dans un fichier et l'enregistrer sur votre ordinateur. Vous pourrez ensuite importer ce fichier sur n'importe quel ordinateur où l'extension est installée."
+   },
+   "settings_import_export_notice": {
+      "message": "Les paramètres de l'extension sont automatiquement synchronisés entre vos appareils si vous êtes connecté à {browserName} avec votre compte Google. Si vous ne souhaitez pas connecter votre compte ou partager vos paramètres avec d'autres personnes, vous pouvez utiliser l'option d'importation / exportation."
+   },
+   "settings_import_failed": {
+      "message": "Impossible d'importer la configuration. Choisissez un fichier valide."
+   },
+   "settings_import_saved": {
+      "message": "Configuration importée avec succès"
+   },
+   "settings_indicator_color": {
+      "message": "Couleur"
+   },
+   "settings_indicator_icon_color": {
+      "message": "Couleur de l'icône"
+   },
+   "settings_indicator_icon_size": {
+      "message": "Taille de l'icône"
+   },
+   "settings_indicator_width": {
+      "message": "Largeur"
+   },
+   "settings_keyboard_shortcut_button": {
+      "message": "Définir un raccourci clavier"
+   },
+   "settings_language": {
+      "message": "Langue"
+   },
+   "settings_language_default": {
+      "message": "Langue du navigateur"
+   },
+   "settings_language_desc": {
+      "message": "Langue de l'interface utilisateur"
+   },
+   "settings_link_action": {
+      "message": "Ouverture des favoris"
+   },
+   "settings_link_action_current_tab": {
+      "message": "Onglet actuel"
+   },
+   "settings_link_action_desc": {
+      "message": "Un clic sur le favori provoque son ouverture dans l'onglet actuel ou dans un nouvel onglet."
+   },
+   "settings_link_action_new_tab": {
+      "message": "Nouvel onglet"
+   },
+   "settings_menu_appearance": {
+      "message": "Apparence"
+   },
+   "settings_menu_appearance_general": {
+      "message": "Général"
+   },
+   "settings_menu_appearance_icon": {
+      "message": "Icone"
+   },
+   "settings_menu_appearance_indicator": {
+      "message": "Représentation"
+   },
+   "settings_menu_appearance_overlay": {
+      "message": "Fenêtre d'info"
+   },
+   "settings_menu_appearance_sidebar": {
+      "message": "Barre latérale"
+   },
+   "settings_menu_expert": {
+      "message": "Options expertes"
+   },
+   "settings_menu_export": {
+      "message": "Importer/Exporter"
+   },
+   "settings_menu_feedback": {
+      "message": "Retour d'expérience"
+   },
+   "settings_menu_infos": {
+      "message": "Propiétés"
+   },
+   "settings_menu_infos_aboutme": {
+      "message": "A propos"
+   },
+   "settings_menu_infos_changelog": {
+      "message": "Historique des modifications"
+   },
+   "settings_menu_infos_contact": {
+      "message": "Contact"
+   },
+   "settings_menu_infos_permissions": {
+      "message": "Autorisations"
+   },
+   "settings_menu_infos_privacy": {
+      "message": "Privé"
+   },
+   "settings_menu_language": {
+      "message": "Langue"
+   },
+   "settings_menu_language_general": {
+      "message": "Général"
+   },
+   "settings_menu_language_translate": {
+      "message": "Traduction"
+   },
+   "settings_menu_newtab": {
+      "message": "Nouvel onglet"
+   },
+   "settings_menu_premium": {
+      "message": "Premium"
+   },
+   "settings_menu_sidebar": {
+      "message": "Barre latérale"
+   },
+   "settings_menu_sidebar_filter": {
+      "message": "Filtre"
+   },
+   "settings_menu_sidebar_general": {
+      "message": "Général"
+   },
+   "settings_menu_sidebar_toggle": {
+      "message": "Activation de la barre latérale"
+   },
+   "settings_menu_sidebar_tooltip": {
+      "message": "Infobulle"
+   },
+   "settings_new_tab": {
+      "message": "Nouvel onglet"
+   },
+   "settings_new_tab_background": {
+      "message": "Ouvrir en arrière plan"
+   },
+   "settings_new_tab_desc": {
+      "message": "Mode d'ouverture d'un nouvel onglet : ouverture directe ou en arrière plan"
+   },
+   "settings_new_tab_foreground": {
+      "message": "Ouvrir directement"
+   },
+   "settings_new_tab_position_after_current": {
+      "message": "Après l'onglet en cours"
+   },
+   "settings_new_tab_position_after_last": {
+      "message": "Après le dernier onglet"
+   },
+   "settings_new_tab_position_before_first": {
+      "message": "Avant le premier onglet"
+   },
+   "settings_new_tab_position_desc": {
+      "message": "Ouvrir les nouveaux onglets après le dernier onglet ou après l'onglet en cours"
+   },
+   "settings_newtab_desc": {
+      "message": "Google a malheureusement retiré la possibilité de charger des extensions sur la page nouvel onglet par défaut. De fait, j'ai ajouté quelques options pour vous permettre d'accéder de façon différente à vos favoris à l'ouverture d'un nouvel onglet."
+   },
+   "settings_newtab_focus_omnibox": {
+      "message": "Ciblage de la barre d'adresse"
+   },
+   "settings_newtab_focus_omnibox_desc": {
+      "message": "Si cette option est activée, la barre d'adresse sera ciblée lors de l'ouverture d'un nouvel onglet. Sinon, le champ de recherche du site Web sera ciblé à la place."
+   },
+   "settings_newtab_override": {
+      "message": "Court-circuiter la page nouvel onglet"
+   },
+   "settings_newtab_override_desc": {
+      "message": "Court-circuiter la page nouvel onglet en affichant une page de substitution, ou un site web, à l'ouverture d'un nouvel onglet ?"
+   },
+   "settings_newtab_sidebar_auto_open": {
+      "message": "Afficher la barre latérale automatiquement"
+   },
+   "settings_newtab_sidebar_auto_open_desc": {
+      "message": "Affichage automatique de la barre latérale à l'ouverture d'un nouvel onglet."
+   },
+   "settings_newtab_website": {
+      "message": "Ouvrir une page web"
+   },
+   "settings_newtab_website_desc": {
+      "message": "Ouvrir une page web au lieu de la page de substitution."
+   },
+   "settings_not_synced": {
+      "message": "Ne sera pas synchronisé sur vos appareils"
+   },
+   "settings_open_action": {
+      "message": "Affichage de la barre"
+   },
+   "settings_open_action_desc": {
+      "message": "Modes d'affichage de la barre latérale: clic gauche, clic droit ou survol de la souris sur le côté de la fenêtre. A la place, vous pouvez choisir d'afficher la barre latérale après un clic sur l'icône du menu."
+   },
+   "settings_open_action_icon": {
+      "message": "Clic sur l'icône"
+   },
+   "settings_open_action_leftclick": {
+      "message": "Clic gauche"
+   },
+   "settings_open_action_mouseover": {
+      "message": "Au survol"
+   },
+   "settings_open_action_rightclick": {
+      "message": "Clic droit"
+   },
+   "settings_open_delay": {
+      "message": "Délai avant affichage"
+   },
+   "settings_open_delay_desc": {
+      "message": "Empêche que la barre ne soit instantanément affichée au survol de la souris ou clic si un délai d'affichage a été défini"
+   },
+   "settings_overlay_mask_color": {
+      "message": "Couleur du masque"
+   },
+   "settings_permissions_bookmarks_desc": {
+      "message": "L'extension affiche vos signets dans la barre latérale et a donc besoin de cette autorisation pour pouvoir y accéder. L'autorisation permet également à l'extension d'ajouter, de modifier et de supprimer des signets."
+   },
+   "settings_permissions_contentscript_desc_1": {
+      "message": "Malheureusement, {browserName} ne dispose d'aucun mécanisme pour afficher le contenu dans la fenêtre du navigateur sans interagir avec la page actuellement visitée."
+   },
+   "settings_permissions_contentscript_desc_2": {
+      "message": "Étant donné que la barre latérale est affichée en haut du site Web actuel, cette autorisation est requise. Outre cette raison technique, l'autorisation n'est pas utilisée à d'autres fins."
+   },
+   "settings_permissions_contentscript_desc_3": {
+      "message": "Si vous avez des inquiétudes concernant ce que je fais avec l'autorisation, vous pouvez afficher le code source de l'extension sur GitHub. C'est Open Source et visible pour tout le monde."
+   },
+   "settings_permissions_desc": {
+      "message": "Afin de rendre possible une barre latérale basculable dans {browserName}, les autorisations suivantes sont requises et demandées par l'extension :"
+   },
+   "settings_premium_activated": {
+      "message": "Votre compte Premium a été activé avec succès"
+   },
+   "settings_premium_invalid_key": {
+      "message": "Impossible d'activer votre compte Premium. Merci de saisir une clé de licence valide."
+   },
+   "settings_presets": {
+      "message": "Paramétrer les tailles par défaut"
+   },
+   "settings_presets_desc": {
+      "message": "Vous pouvez régler les tailles par défaut du panneau latéral. Cela affectera les curseurs de cette page pour ajuster la largeur du panneau latéral, la hauteur des lignes, la taille des icônes etc."
+   },
+   "settings_prevent_pagescroll": {
+      "message": "Empêcher le défilement"
+   },
+   "settings_prevent_pagescroll_desc": {
+      "message": "Empêche de faire défiler le site web tant que la barre latérale est affichée."
+   },
+   "settings_prevent_windowed": {
+      "message": "Désactiver la barre latérale en mode fenêtré"
+   },
+   "settings_prevent_windowed_desc": {
+      "message": "Désactive la possibilité d'ouvrir la barre latérale en cliquant ou survolant le bord du navigateur lorsqu'il est affiché en mode fenêtré."
+   },
+   "settings_remember_desc": {
+      "message": "Sélectionnez ce que vous souhaitez mémoriser. Si vous choisissez de mémoriser le dernier favori ouvert, celui-ci sera marqué au prochain affichage de la barre latérale."
+   },
+   "settings_remember_open_states_sub_directories": {
+      "message": "Sous-dossiers ouverts"
+   },
+   "settings_remember_state": {
+      "message": "Mémoriser"
+   },
+   "settings_remember_state_all": {
+      "message": "Position de défilement, dossiers ouverts et dernier favori ouvert."
+   },
+   "settings_remember_state_nothing": {
+      "message": "Rien du tout"
+   },
+   "settings_remember_state_open_states": {
+      "message": "Dossiers ouverts"
+   },
+   "settings_remember_state_open_states_and_scroll": {
+      "message": "Position de défilement et dossiers ouverts"
+   },
+   "settings_remember_state_open_states_root": {
+      "message": "Dossiers ouverts de premier niveau"
+   },
+   "settings_reopen_sidebar": {
+      "message": "Réafficher la barre latérale"
+   },
+   "settings_reopen_sidebar_desc": {
+      "message": "Réafficher automatiquement la barre latérale suite à l'ouverture d'un favori depuis celle-ci."
+   },
+   "settings_restore": {
+      "message": "Rétablir les paramètres par défaut"
+   },
+   "settings_restore_confirm": {
+      "message": "Voulez-vous vraiment rétablir la configuration par défaut?"
+   },
+   "settings_restored_message": {
+      "message": "Les paramètres par défaut ont été rétablis"
+   },
+   "settings_save": {
+      "message": "Enregistrer les modifications"
+   },
+   "settings_saved_message": {
+      "message": "Les modifications ont été enregistrées"
+   },
+   "settings_saved_share_userdata": {
+      "message": "Votre choix a bien été pris en compte"
+   },
+   "settings_scroll_bar_hide": {
+      "message": "Cacher la barre de défilement"
+   },
+   "settings_scroll_bar_hide_desc": {
+      "message": "Délai, en secondes, au bout lequel la barre de défilement est cachée. Faire défiler réactive l'affichage de la barre."
+   },
+   "settings_scroll_bar_hide_infinity": {
+      "message": "Ne jamais cacher"
+   },
+   "settings_scroll_bar_width": {
+      "message": "Largeur de la barre de défilement"
+   },
+   "settings_search_placeholder": {
+      "message": "Chercher une configuration"
+   },
+   "settings_sidebar_mask_color": {
+      "message": "Couleur du masque"
+   },
+   "settings_sidebar_position": {
+      "message": "Position"
+   },
+   "settings_sidebar_position_desc": {
+      "message": "Permet de positionner l'affichage de la barre de défilement sur la gauche ou sur la droite de l'écran."
+   },
+   "settings_sidebar_position_left": {
+      "message": "Gauche"
+   },
+   "settings_sidebar_position_right": {
+      "message": "Droite"
+   },
+   "settings_sidebar_width": {
+      "message": "Largeur"
+   },
+   "settings_text_color": {
+      "message": "Couleur du texte"
+   },
+   "settings_title": {
+      "message": "Paramètres"
+   },
+   "settings_toggle_area": {
+      "message": "Configurer la zone de bordure"
+   },
+   "settings_toggle_area_desc": {
+      "message": "Par défaut, vous pouvez passer votre souris sur toute la bordure du navigateur pour ouvrir la barre latérale. Vous pouvez le changer et configurer précisément la zone pour ouvrir la barre latérale."
+   },
+   "settings_toggle_area_drag_desc": {
+      "message": "Glisser pour déplacer"
+   },
+   "settings_toggle_area_height": {
+      "message": "Hauteur"
+   },
+   "settings_toggle_area_height_desc": {
+      "message": "Vous pouvez réduire la hauteur de la zone pour que la barre latérale s'ouvre uniquement lorsque vous passez la souris dans cette zone de la bordure du navigateur."
+   },
+   "settings_toggle_area_width": {
+      "message": "Largeur"
+   },
+   "settings_toggle_area_width_windowed": {
+      "message": "Largeur (mode fenêtré)"
+   },
+   "settings_tooltip_content": {
+      "message": "Contenu des infobulles"
+   },
+   "settings_tooltip_content_additional_info": {
+      "message": "Info complémentaire"
+   },
+   "settings_tooltip_content_all": {
+      "message": "Titre et URL"
+   },
+   "settings_tooltip_content_title": {
+      "message": "Titre uniquement"
+   },
+   "settings_tooltip_content_url": {
+      "message": "URL uniquement"
+   },
+   "settings_tooltip_delay": {
+      "message": "Délai des infobulles"
+   },
+   "settings_tooltip_delay_desc": {
+      "message": "Délai au bout duquel les infobulles des favoris seront affichées au survol de la souris."
+   },
+   "settings_tooltip_delay_infinity": {
+      "message": "Ne jamais afficher les infobulles"
+   },
+   "settings_tooltip_desc": {
+      "message": "Sélectionner quelles informations l'infobulle doit contenir."
+   },
+   "settings_tooltip_font_size": {
+      "message": "Taille de la police des infobulles"
+   },
+   "settings_translation_add_language": {
+      "message": "Ajouter une langue"
+   },
+   "settings_translation_back_to_overview": {
+      "message": "Retour à la vue d'ensemble"
+   },
+   "settings_translation_desc": {
+      "message": "Vous pouvez aider à traduire cette extension dans votre langue ou à améliorer la traduction existante."
+   },
+   "settings_translation_help": {
+      "message": "Pour chaque élément, vous pouvez voir le texte en anglais qui doit être traduit dans votre langue. Pour vous aider à trouver où le texte est utilisé et à quoi il sert, chaque élément a un nom (e.g. {1}), qui lui n'est pas à traduire. N'oubliez pas d'envoyer votre traduction en cliquant sur le bouton en haut à droite !"
+   },
+   "settings_translation_incomplete_info": {
+      "message": "Il manque des traductions"
+   },
+   "settings_translation_info": {
+      "message": "Vous pouvez modifier les traductions existantes ou en ajouter parmi celles qui manquent. Si vous proposez des changements, je les passerai en revue avant de les valider."
+   },
+   "settings_translation_link": {
+      "message": "Aller à la vue d'ensemble"
+   },
+   "settings_translation_notice1": {
+      "message": "La traduction sera publiée dès que les catégories signalées comme requises seront traduites."
+   },
+   "settings_translation_notice2": {
+      "message": "Les catégories incomplètes ne seront pas publiées, afin d'éviter les textes à moitié traduits."
+   },
+   "settings_translation_reminder_desc": {
+      "message": "Je souhaite être averti lorsque de nouvelles variables de langue sont ajoutées à l'extension"
+   },
+   "settings_translation_required_category": {
+      "message": "Obligatoire"
+   },
+   "settings_translation_status_draft": {
+      "message": "Traduction incomplète ou en attente de validation, non disponible pour les utilisateurs"
+   },
+   "settings_translation_status_incomplete": {
+      "message": "La traduction est disponible mais certaines catégories sont incomplètes."
+   },
+   "settings_translation_status_released": {
+      "message": "Traduction disponible"
+   },
+   "settings_translation_submit": {
+      "message": "Envoyer"
+   },
+   "settings_translation_submit_message": {
+      "message": "Votre traduction a été transmise"
+   },
+   "sidebar_copied_to_clipboard": {
+      "message": "Url copiée"
+   },
+   "sidebar_deleted": {
+      "message": "Retiré"
+   },
+   "sidebar_dir_children": {
+      "message": "Elements"
+   },
+   "sidebar_search_no_results": {
+      "message": "Aucun favori ne correspond à votre recherche"
+   },
+   "sidebar_search_placeholder": {
+      "message": "Rechercher un favori"
+   },
+   "sidebar_undo_deletion": {
+      "message": "Annuler"
+   },
+   "sort_label_alphabetical": {
+      "message": "Ordre alphabétique"
+   },
+   "sort_label_custom": {
+      "message": "Réglages utilisateur"
+   },
+   "sort_label_most_used": {
+      "message": "Les plus visités"
+   },
+   "sort_label_recently_added": {
+      "message": "Ajoutés récemment"
+   },
+   "sort_label_recently_used": {
+      "message": "dernière visités"
+   },
+   "sort_most_used_per_month": {
+      "message": "Par mois"
+   },
+   "sort_view_as_tree": {
+      "message": "Afficher les dossiers"
+   },
+   "status_background_disconnected_reload_action": {
+      "message": "Recharger maintenant"
+   },
+   "status_background_disconnected_reload_desc": {
+      "message": "Suite à une mise à jour de l'extension, cette page doit être rechargée."
+   },
+   "status_check_bookmarks_unavailable_desc": {
+      "message": "Le service de vérification des URL n'est pas disponible actuellement. Essayez plus tard s'il vous plaît."
+   },
+   "status_feedback_unavailable_desc": {
+      "message": "Le retour d'expérience n'est pas disponible actuellement. Si vous voulez faire un retour d'expérience, envoyez-moi un courriel s'il vous plaît."
+   },
+   "status_service_unavailable_headline": {
+      "message": "Service indisponible"
+   },
+   "status_translation_unavailable_desc": {
+      "message": "Le service de traduction n'est pas disponible actuellement. Essayez plus tard s'il vous plaît."
+   }
+}

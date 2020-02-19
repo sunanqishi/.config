@@ -1,0 +1,22 @@
+/* HACK: this file is currently globally injected, see http://crbug.com/336876
+ * Use prefixed font names only to avoid interference.
+ * The extension uses a separate file (fonts.scss). Keep those in sync manually.
+ */
+@font-face {
+  font-family: '_castifyRoboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url(./Roboto_400_normal.woff2) format('woff2'); /* http://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2 */
+}
+@font-face {
+  font-family: '_castifyRoboto';
+  font-style: normal;
+  font-weight: 300;
+  src: url(./Roboto_300_normal.woff2) format('woff2'); /* http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc4.woff2 */
+}
+@font-face {
+  font-family: '_castifyRoboto';
+  font-style: normal;
+  font-weight: 500;
+  src: url(./Roboto_500_normal.woff2) format('woff2'); /* http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4.woff2 */
+}

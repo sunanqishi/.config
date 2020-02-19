@@ -1,0 +1,34 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/logo64.png"
+   },
+   "commands": {
+      "toggle-capture": {
+         "description": "__MSG_toggleCapture__",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      }
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/logo128.png",
+      "32": "images/logo32.png",
+      "64": "images/logo64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhKJQ7VP+GZ+alH/gWZvICdczME++rP8DiKKZcJ6nn4l8KjP7UhlQ7W/7VA+riW7a7OEHKEVyUUt1uOSl1jXAaHeuWIanpdfl9Ubf4Im93HDGuBn4hCmfgwOSy4ETKPj/K3sQVkBY9g0tpluHqQpJ5723A62L4Ni0923NX0WxjFiOAwuBd0SwCk1Zy2TgOpj7YA23tp6STKSVrLKV10n1l7g86lvxINXJALAp4RXE70jL/t4o9AyYUyTrVMkdfLOhdORODPUI0F+S3YcoiuH11lVhkdLW7tBbFx8/7EQlzLCVJymoAJEQMJaqb23L2ETsWMVAlZbvPUbt/EBRqKhqUQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "50.0.0",
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "cookies", "tabs", "notifications", "activeTab", "contextMenus", "downloads", "\u003Call_urls>", "storage" ],
+   "short_name": "Aria2 WebUI",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.2.9"
+}

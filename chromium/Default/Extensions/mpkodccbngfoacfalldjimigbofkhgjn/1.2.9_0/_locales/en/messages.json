@@ -1,0 +1,101 @@
+{
+   "BlackListStr": {
+      "message": "Website Black-list"
+   },
+   "WebUIOpenStyle1": {
+      "message": "Popup window"
+   },
+   "WebUIOpenStyle2": {
+      "message": "New tab"
+   },
+   "WebUIOpenStyleStr": {
+      "message": "AriaNG Open in"
+   },
+   "addToBlackListStr": {
+      "message": "Current URL -> Black-list"
+   },
+   "addToWhiteListStr": {
+      "message": "Current URL -> White-List"
+   },
+   "appName": {
+      "message": "Aria2 for Chrome"
+   },
+   "askBeforeDownloadDes": {
+      "message": "Ask detail settings before auto downloading"
+   },
+   "captureFinalUrlDes": {
+      "message": "Capture the final URL to exclude multi-redirect"
+   },
+   "configCloudSync": {
+      "message": "Config Cloud Sync"
+   },
+   "configCloudSyncDes": {
+      "message": "Sync AriaNg and extension config to current loged-in Google account"
+   },
+   "configPageTitle": {
+      "message": "Aria2 Option Page"
+   },
+   "contextmenuDes": {
+      "message": "Add capture item to context menu"
+   },
+   "contextmenuStr": {
+      "message": "Context Menu"
+   },
+   "contextmenuTitle": {
+      "message": "Export to "
+   },
+   "description": {
+      "message": "Aria2 Web UI in pure HTML/CSS/Javascirpt for chrome.(forked from YAAW and imports Aria2NG UI)"
+   },
+   "downloadCaptureDes": {
+      "message": "Enable auto capture when download file size ≥"
+   },
+   "downloadCaptureStr": {
+      "message": "Download Capture"
+   },
+   "downloadConfigFailed": {
+      "message": "Download config failed: Data invalid or network disconnected "
+   },
+   "downloadConfigSucceed": {
+      "message": "Download config successful"
+   },
+   "exportFailedDes": {
+      "message": "Could not connect to Aria2c, task export failed!"
+   },
+   "exportFailedStr": {
+      "message": "Export Failed"
+   },
+   "exportSucceedDes": {
+      "message": "\nDownload task is beginning."
+   },
+   "exportSucceedStr": {
+      "message": "Export Successful"
+   },
+   "openWebUIStr": {
+      "message": "Open AriaNG"
+   },
+   "placeHolderTipStr": {
+      "message": "one website per line"
+   },
+   "removeFromBlackListStr": {
+      "message": "Remove from Black-List"
+   },
+   "removeFromWhiteListStr": {
+      "message": "Remove from White-List"
+   },
+   "toggleCapture": {
+      "message": "Toggle download capture"
+   },
+   "uploadConfigFailed": {
+      "message": "Upload config failed: "
+   },
+   "uploadConfigSucceed": {
+      "message": "Upload config successful"
+   },
+   "uploadConfigWarn": {
+      "message": "Invlid or empty local config data, still continue?"
+   },
+   "whiteListStr": {
+      "message": "Website White-list"
+   }
+}

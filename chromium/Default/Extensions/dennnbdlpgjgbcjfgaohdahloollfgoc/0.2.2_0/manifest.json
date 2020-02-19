@@ -1,0 +1,24 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/logo32.png"
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "images/logo128.png",
+      "32": "images/logo32.png",
+      "64": "images/logo64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhFdOyoypVGylXHRQb19shQDetwYYKafVZ3kitnMVxuC17q/PmcHB+KO7UJeAuJCisRAqwKeyigCBLXrC9iUmIxbflG2Suf3//25zb7ovghLomhRzg9cLUczzFuKegyBwFJD3kREXxvXU6R9ubekEL0yLaiJkt8VGHAe4MFpeZ5Qhe4chzrzobTcy3Rshb0Zh+HZoeV1FTxJ8vJnYjBtZd14Xjj/ayf92YTY3j7J0b2sGzj91uO5rgyALd1Kp8vXFM8uier9D43PeJSgxux88VzcwVydY1xJVRAQGrtu7yJwhOPXUa7sznqC/8tMrV1oPWc7Kyg5ktdPOWY0xyViQSQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "cookies", "tabs", "notifications", "activeTab", "contextMenus", "downloads", "\u003Call_urls>", "downloads.shelf", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.2"
+}

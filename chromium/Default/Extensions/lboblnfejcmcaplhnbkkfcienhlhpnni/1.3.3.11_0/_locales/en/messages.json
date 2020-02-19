@@ -1,0 +1,38 @@
+{
+   "areyousuretouninstallthis": {
+      "description": "Are you sure to uninstall the entension : ",
+      "message": "Are you sure to uninstall the entension : "
+   },
+   "extname": {
+      "description": "Extension name.",
+      "message": "One-Click Extensions Manager"
+   },
+   "iconx": {
+      "description": "iconx",
+      "message": "55px"
+   },
+   "leftclicktodisablethis": {
+      "description": "Left-click to disable this extension or ",
+      "message": "Left-click to disable this extension or "
+   },
+   "leftclicktoenablethis": {
+      "description": "Left-click to enable this extension or ",
+      "message": "Left-click to enable this extension or "
+   },
+   "onekeydisable": {
+      "description": "Click this item to disable all extensions",
+      "message": "Disable all extensions"
+   },
+   "onekeyenable": {
+      "description": "Click this item to enable all extensions",
+      "message": "Re-enable all extensions"
+   },
+   "rightclicktouninstallthis": {
+      "description": "Right-click to uninstall this extension.",
+      "message": "Right-click to uninstall this extension."
+   },
+   "textindent": {
+      "description": "textindent",
+      "message": "80px"
+   }
+}

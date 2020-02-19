@@ -1,0 +1,971 @@
+{
+   "contextmenu_add": {
+      "message": "Lägg till post"
+   },
+   "contextmenu_add_bookmark": {
+      "message": "Lägg till bokmärke"
+   },
+   "contextmenu_bookmark_manager": {
+      "message": "Bokmärkeshanterare"
+   },
+   "contextmenu_check_bookmarks": {
+      "message": "Kolla bokmärken"
+   },
+   "contextmenu_close_all_directories": {
+      "message": "Stäng alla mappar"
+   },
+   "contextmenu_current_tab": {
+      "message": "Öppna i aktiv flik"
+   },
+   "contextmenu_delete_bookmark": {
+      "message": "Ta bort bokmärke"
+   },
+   "contextmenu_delete_dir": {
+      "message": "Ta bort mapp"
+   },
+   "contextmenu_delete_separator": {
+      "message": "Ta bort separator"
+   },
+   "contextmenu_edit_bookmark": {
+      "message": "Ändra bokmärke"
+   },
+   "contextmenu_edit_dir": {
+      "message": "Ändra mapp"
+   },
+   "contextmenu_edit_separator": {
+      "message": "Ändra Separator"
+   },
+   "contextmenu_hide_from_sidebar": {
+      "message": "Göm från sidopanel"
+   },
+   "contextmenu_infos": {
+      "message": "Information"
+   },
+   "contextmenu_keyboard_shortcuts": {
+      "message": "Tangentbordsgenvägar"
+   },
+   "contextmenu_new_tab": {
+      "message": "Öppna i ny flik"
+   },
+   "contextmenu_new_tab_incognito": {
+      "message": "Öppna i nytt inkognito fönster"
+   },
+   "contextmenu_new_window": {
+      "message": "Öppna i nytt fönster"
+   },
+   "contextmenu_open_children": {
+      "message": "Öppna bokmärken"
+   },
+   "contextmenu_pin": {
+      "message": "Stifta fast överst"
+   },
+   "contextmenu_reload_sidebar": {
+      "message": "Ladda om sidopanel"
+   },
+   "contextmenu_show_in_dir": {
+      "message": "Visa i mapp"
+   },
+   "contextmenu_show_in_sidebar": {
+      "message": "Visa i sidopanel"
+   },
+   "contextmenu_toggle_hidden": {
+      "message": "Visa dolda poster"
+   },
+   "contextmenu_unpin": {
+      "message": "Ta bort stift överst"
+   },
+   "extension_desc": {
+      "message": "Lägger till en poppuppsidopanel i webbläsarens fönster med alla dina bokmärken"
+   },
+   "extension_name": {
+      "message": "Bokmärkessidopanel"
+   },
+   "header_bookmarks": {
+      "message": "Bokmärken"
+   },
+   "header_bookmarks_single": {
+      "message": "Bokmärke"
+   },
+   "more_link": {
+      "message": "Lär mer"
+   },
+   "newtab_fallback_desc": {
+      "message": "Vi har öppnat en ny flik med sidofält för dig istället"
+   },
+   "newtab_fallback_headline_extension_page": {
+      "message": "Sidopanelen kan inte användas på tillägg-sidor"
+   },
+   "newtab_fallback_headline_general": {
+      "message": "Någonting har blockerat sidofältet"
+   },
+   "newtab_fallback_headline_new_tab": {
+      "message": "Sidopanelen kan inte användas på den förvalda Ny flik-sidan"
+   },
+   "newtab_fallback_headline_system": {
+      "message": "Sidopanelen kan inte användas på {browserName} systemsidor"
+   },
+   "newtab_fallback_headline_url_filter": {
+      "message": "En av dina URL regler till ej att sidofält öppnades"
+   },
+   "newtab_fallback_headline_webstore": {
+      "message": "Sidopanelen kan inte användas i {browserName} Webstore"
+   },
+   "newtab_fallback_set_as_new_tab": {
+      "message": "Öppna alltid denna sida vid öppning av ny flik"
+   },
+   "newtab_search_engine_custom": {
+      "message": "Användardefinierad"
+   },
+   "newtab_search_engine_custom_title": {
+      "message": "Titel"
+   },
+   "newtab_search_engine_custom_url_homepage": {
+      "message": "Hemside-URL"
+   },
+   "newtab_search_engine_custom_url_results": {
+      "message": "URL till sökresultat"
+   },
+   "newtab_search_engine_headline": {
+      "message": "Sökmotor"
+   },
+   "newtab_search_placeholder": {
+      "message": "Sök {1} eller skriv in URL"
+   },
+   "newtab_speech_search_error": {
+      "message": "För att tillåta sökning av talat språk så måste du godkänna tillgång till Mikrofon."
+   },
+   "newtab_speech_search_listening": {
+      "message": "Prata nu"
+   },
+   "newtab_title": {
+      "message": "Ny flik"
+   },
+   "newtab_top_pages_appearance_favicon": {
+      "message": "Visa ikoner för sajt"
+   },
+   "newtab_top_pages_appearance_thumbnail": {
+      "message": "Visa förhandstitt av website"
+   },
+   "newtab_top_pages_default": {
+      "message": "Toppsidor"
+   },
+   "newtab_top_pages_hidden": {
+      "message": "Visa inte sidor"
+   },
+   "newtab_top_pages_most_used": {
+      "message": "Mest använda bokmärken"
+   },
+   "newtab_top_pages_pinned_entries": {
+      "message": "Fastnålade bokmärken"
+   },
+   "newtab_top_pages_recently_used": {
+      "message": "Nyligen använda bokmärken"
+   },
+   "newtab_upload_background": {
+      "message": "Ladda upp bakgrundsbild"
+   },
+   "onboarding_finish_desc": {
+      "message": "Mycket nöje med din sidopanel!"
+   },
+   "onboarding_finish_notice": {
+      "message": "Om du ofta klickar på något av sidan i webbläsaren så kanske du vill ändra så att sidofältet öppnas vertikalt för att undvika att det öppnas av misstag."
+   },
+   "onboarding_goto_appearance": {
+      "message": "Konfigurationsframträdande"
+   },
+   "onboarding_goto_settings": {
+      "message": "Fler inställningar"
+   },
+   "onboarding_handson_desc": {
+      "message": "Nu kan du testa själv."
+   },
+   "onboarding_handson_icon_desc": {
+      "message": "Klicka på ikonen i verktygsfältet för att öppna sidopanelen."
+   },
+   "onboarding_handson_mouse_desc_1": {
+      "message": "Flytta muspekaren till {1}sidan av fönstret."
+   },
+   "onboarding_handson_mouse_desc_2": {
+      "message": "{1}klicka med musen för att öppna sidopanelen."
+   },
+   "onboarding_headline": {
+      "message": "Tack för att du installerar detta tillägg."
+   },
+   "onboarding_left": {
+      "message": "vänster"
+   },
+   "onboarding_right": {
+      "message": "höger"
+   },
+   "onboarding_setup": {
+      "message": "Installera nu"
+   },
+   "onboarding_sidebar_open_action_desc": {
+      "message": "Hur vill du öppna din sidopanel?"
+   },
+   "onboarding_sidebar_position_desc": {
+      "message": "Var vill du ha din sidopanel?"
+   },
+   "onboarding_sidebar_surface_dark": {
+      "message": "Mörk"
+   },
+   "onboarding_sidebar_surface_desc": {
+      "message": "Vilken stil föredrar du?"
+   },
+   "onboarding_sidebar_surface_light": {
+      "message": "Ljus"
+   },
+   "onboarding_skip": {
+      "message": "Avbryt installationen"
+   },
+   "onboarding_title": {
+      "message": "Installation"
+   },
+   "overlay_add_position": {
+      "message": "Position"
+   },
+   "overlay_add_position_append": {
+      "message": "Lägg till i katalogen"
+   },
+   "overlay_add_position_prepend": {
+      "message": "Förberedd katalog"
+   },
+   "overlay_bookmark_additional_info": {
+      "message": "Mer info"
+   },
+   "overlay_bookmark_created_date": {
+      "message": "Skapad den"
+   },
+   "overlay_bookmark_title": {
+      "message": "Titel"
+   },
+   "overlay_bookmark_url": {
+      "message": "URL"
+   },
+   "overlay_bookmark_views": {
+      "message": "Vyer"
+   },
+   "overlay_bookmark_views_per_month": {
+      "message": "per månad"
+   },
+   "overlay_bookmark_views_since": {
+      "message": "Inspelad sen"
+   },
+   "overlay_bookmark_views_single": {
+      "message": "Vy"
+   },
+   "overlay_cancel": {
+      "message": "Avbryt"
+   },
+   "overlay_check_bookmarks_loading": {
+      "message": "Kollar bokmärkens url'er"
+   },
+   "overlay_check_bookmarks_menu_broken": {
+      "message": "Trasig"
+   },
+   "overlay_check_bookmarks_menu_changed": {
+      "message": "Ändrad"
+   },
+   "overlay_check_bookmarks_menu_duplicate": {
+      "message": "Dubbletter"
+   },
+   "overlay_check_bookmarks_menu_empty": {
+      "message": "Tomma mappar"
+   },
+   "overlay_check_bookmarks_no_results": {
+      "message": "Alla bokmärken är okej"
+   },
+   "overlay_check_bookmarks_no_results_broken": {
+      "message": "Det finns inga brutna bokmärkes URL"
+   },
+   "overlay_check_bookmarks_no_results_changed": {
+      "message": "Det finns inga ändringar på bokmärkes URL"
+   },
+   "overlay_check_bookmarks_no_results_duplicate": {
+      "message": "Det finns inga dubbletter bland bokmärkes URL"
+   },
+   "overlay_check_bookmarks_no_results_empty": {
+      "message": "Det finns inga mappar utan bokmärken"
+   },
+   "overlay_check_bookmarks_remove_selected": {
+      "message": "Ta bort valda"
+   },
+   "overlay_check_bookmarks_update_selected": {
+      "message": "Uppdatera valda"
+   },
+   "overlay_close": {
+      "message": "Stäng"
+   },
+   "overlay_confirm_open_children": {
+      "message": "Vill du verkligen öppna alla {1} underliggande bokmärken?"
+   },
+   "overlay_delete": {
+      "message": "Ta bort"
+   },
+   "overlay_delete_bookmark_confirm": {
+      "message": "Vill du verkligen ta bort detta bokmärke?"
+   },
+   "overlay_delete_dir_confirm": {
+      "message": "Vill du verkligen ta bort denna mapp? Alla underliggande bokmärken kommer också att tas bort."
+   },
+   "overlay_dir_children": {
+      "message": "Element"
+   },
+   "overlay_dir_children_bookmarks": {
+      "message": "Bokmärken"
+   },
+   "overlay_dir_children_dirs": {
+      "message": "Mappar"
+   },
+   "overlay_hide_bookmark_confirm": {
+      "message": "Vill du verkligen gömma detta bokmärke från sidopanelen?"
+   },
+   "overlay_hide_dir_confirm": {
+      "message": "Vill du verkligen gömma denna mapp från sidopanelen? Alla underliggande bokmärken kommer också att gömmas."
+   },
+   "overlay_hide_from_sidebar": {
+      "message": "Göm från sidopanel"
+   },
+   "overlay_label_bookmark": {
+      "message": "Bokmärke"
+   },
+   "overlay_label_dir": {
+      "message": "Mapp"
+   },
+   "overlay_label_separator": {
+      "message": "Separator"
+   },
+   "overlay_open_children": {
+      "message": "Öppna alla"
+   },
+   "overlay_save": {
+      "message": "Spara"
+   },
+   "overlay_separator_title_desc": {
+      "message": "Om du vill kan du ange en titel. Den kommer att visas ovanpå och kan hjälpa dig att organisera din bokmärkeslista."
+   },
+   "overlay_update": {
+      "message": "Uppdatera"
+   },
+   "settings_advanced": {
+      "message": "Avancerade inställningar"
+   },
+   "settings_bookmarks_dir_color": {
+      "message": "Färg på mappikon"
+   },
+   "settings_bookmarks_dir_icon": {
+      "message": "Mappikon"
+   },
+   "settings_bookmarks_dir_indentation": {
+      "message": "Mappindentation"
+   },
+   "settings_bookmarks_font_size": {
+      "message": "Storlek på bokmärkets typsnitt"
+   },
+   "settings_bookmarks_horizontal_padding": {
+      "message": "Bokmärkets horisontala distans"
+   },
+   "settings_bookmarks_icon_size": {
+      "message": "Storlek på bokmärkets ikon"
+   },
+   "settings_bookmarks_line_height": {
+      "message": "Bokmärkets radhöjd"
+   },
+   "settings_close_timeout": {
+      "message": "Timeout för stängning"
+   },
+   "settings_close_timeout_desc": {
+      "message": "Timeout i sekunder efter att sidopanelen stängts. Det räknas så fort musen lämnar sidopanelen och slutar när du sveper över det igen."
+   },
+   "settings_close_timeout_infinity": {
+      "message": "Stäng inte automatiskt"
+   },
+   "settings_color_scheme": {
+      "message": "Färgschema"
+   },
+   "settings_color_scheme_desc": {
+      "message": "Färgen på sidopaneler, kryssrutor etc."
+   },
+   "settings_custom_css": {
+      "message": "Eget stilformat"
+   },
+   "settings_dark_mode": {
+      "message": "Yta"
+   },
+   "settings_dir_accordion": {
+      "message": "Visa endast nuvarande mapp"
+   },
+   "settings_dir_accordion_desc": {
+      "message": "Stäng alla mappar utan den aktuella aktiva."
+   },
+   "settings_directories_icon_size": {
+      "message": "Storlek på mappikon"
+   },
+   "settings_directory_arrows": {
+      "message": "Mapppilar"
+   },
+   "settings_expert_save_error": {
+      "message": "Kunde ej spara inställningarna. Kontrollera om något blev fel."
+   },
+   "settings_expert_settings_desc": {
+      "message": "Med expertinställningarna kan du ändra allting, även sånt som inte går att justera med kryssrutor eller reglage."
+   },
+   "settings_expert_settings_notice": {
+      "message": "Om du inte vet vad du håller på med bör du inte ändra någonting här. Felaktiga inställningar kan få tillägget att krångla. On någonting går sönder kan du alltid återställa standardinställningarna."
+   },
+   "settings_export": {
+      "message": "Exportera inställningar"
+   },
+   "settings_feedback_desc": {
+      "message": "Har du några förslag på förbättringar, frågor, märker saknade konfigurationsalternativ eller upptäckt ett fel? För att förbättra erfarenheterna med denna förlängning skulle jag vara väldigt tacksam för alla återkopplingar som ges eller du kan ha."
+   },
+   "settings_feedback_email": {
+      "message": "Din mejladress"
+   },
+   "settings_feedback_faq_headline": {
+      "message": "Det här kan vara intressant för dig"
+   },
+   "settings_feedback_notice": {
+      "message": "Skriv din återkoppling på engelska, annars är det svårt att förstå och svara på ditt meddelande."
+   },
+   "settings_feedback_screenshot": {
+      "message": "Bifoga skärmdumpar"
+   },
+   "settings_feedback_screenshot_error_amount": {
+      "message": "Du kan bara ladda upp maximalt {1} skärmdumpar"
+   },
+   "settings_feedback_screenshot_error_filesize": {
+      "message": "Filstorleken på {1} är för stor (> 1 MB)"
+   },
+   "settings_feedback_send": {
+      "message": "Skicka återkoppling"
+   },
+   "settings_feedback_send_failed": {
+      "message": "Ditt meddelande kunde inte skickas. Vänligen försök igen."
+   },
+   "settings_feedback_sent_message": {
+      "message": "Tack för din återkoppling"
+   },
+   "settings_filter_explanation_1": {
+      "message": "Lägg bara till ett URL mönster per rad"
+   },
+   "settings_filter_explanation_2": {
+      "message": "Använd * för att matcha något tecken (Ex. exempel.com* matchar alla sidor under exempel.com)"
+   },
+   "settings_filter_explanation_3": {
+      "message": "Om du inte lägger in några * i en regel, matchas bara den exakta webbadressen (till exempel \"example.com\" matchar inte URL-adressen \"example.com/about.html\")"
+   },
+   "settings_filter_explanation_4": {
+      "message": "Du behöver inte lägga till protokollet (t ex http://) i reglerna"
+   },
+   "settings_filter_intro": {
+      "message": "Om du inte vill att sidofältet ska laddas på varje sida, så kan du välja var extension (Vitlista) eller inte ska (svartlista) laddas."
+   },
+   "settings_filter_rules": {
+      "message": "URL-mönster"
+   },
+   "settings_filter_visibility": {
+      "message": "Ladda sidofältet"
+   },
+   "settings_filter_visibility_always": {
+      "message": "På varje sida"
+   },
+   "settings_filter_visibility_blacklist": {
+      "message": "På varje sida utom specifika sidor"
+   },
+   "settings_filter_visibility_whitelist": {
+      "message": "Endast på specifika sidor"
+   },
+   "settings_font_family": {
+      "message": "Typsnitt"
+   },
+   "settings_font_family_default": {
+      "message": "Förinställt"
+   },
+   "settings_font_family_desc": {
+      "message": "Typsnitt för sidopanelen och överlagren"
+   },
+   "settings_header_height": {
+      "message": "Huvudhöjd"
+   },
+   "settings_hover_color": {
+      "message": "Mus över färg"
+   },
+   "settings_icon_color": {
+      "message": "Färg"
+   },
+   "settings_icon_color_auto": {
+      "message": "Automatisk"
+   },
+   "settings_icon_color_custom": {
+      "message": "Skräddarsydd"
+   },
+   "settings_icon_color_desc_2": {
+      "message": "Notera att automatisk färg fungerar inte när skräddarsydd {browserName}-tema använts."
+   },
+   "settings_icon_shape": {
+      "message": "Form"
+   },
+   "settings_import": {
+      "message": "Importera inställningar"
+   },
+   "settings_import_export_desc": {
+      "message": "Du kan exportera dina tilläggsinställningar och spara dem lokalt på din dator. Du kan importera den tidigare exporterade filen på vilken dator som helst, där tillägget är installerat."
+   },
+   "settings_import_failed": {
+      "message": "Misslyckades att importera konfiguration. Vänligen välj giltlig fil."
+   },
+   "settings_import_saved": {
+      "message": "Konfiguration importerad"
+   },
+   "settings_indicator_color": {
+      "message": "Färg"
+   },
+   "settings_indicator_icon_color": {
+      "message": "Ikonfärg"
+   },
+   "settings_indicator_icon_size": {
+      "message": "Ikonstorlek"
+   },
+   "settings_indicator_width": {
+      "message": "Bredd"
+   },
+   "settings_keyboard_shortcut_button": {
+      "message": "Sätt tangentbordsgenväg"
+   },
+   "settings_language": {
+      "message": "Språk"
+   },
+   "settings_language_default": {
+      "message": "Som webbläsaren"
+   },
+   "settings_language_desc": {
+      "message": "Användargränssnittets språk"
+   },
+   "settings_link_action": {
+      "message": "Öppna bokmärken"
+   },
+   "settings_link_action_current_tab": {
+      "message": "Nuvarande flik"
+   },
+   "settings_link_action_desc": {
+      "message": "Vänsterklick ett bokmärke öppnar dem antingen i den aktuella fliken eller i en ny flik."
+   },
+   "settings_link_action_new_tab": {
+      "message": "Ny flik"
+   },
+   "settings_menu_appearance": {
+      "message": "Utseende"
+   },
+   "settings_menu_appearance_general": {
+      "message": "Allmänt"
+   },
+   "settings_menu_appearance_icon": {
+      "message": "Ikon"
+   },
+   "settings_menu_appearance_indicator": {
+      "message": "Indikator"
+   },
+   "settings_menu_appearance_overlay": {
+      "message": "Övertäckning"
+   },
+   "settings_menu_appearance_sidebar": {
+      "message": "Sidopanel"
+   },
+   "settings_menu_expert": {
+      "message": "Expertinställningar"
+   },
+   "settings_menu_export": {
+      "message": "Importera/exportera"
+   },
+   "settings_menu_feedback": {
+      "message": "Feedback"
+   },
+   "settings_menu_infos": {
+      "message": "Information"
+   },
+   "settings_menu_infos_aboutme": {
+      "message": "Om mig"
+   },
+   "settings_menu_infos_changelog": {
+      "message": "Ändringslogg"
+   },
+   "settings_menu_infos_contact": {
+      "message": "Kontakt"
+   },
+   "settings_menu_infos_permissions": {
+      "message": "Tilllåtelser"
+   },
+   "settings_menu_infos_privacy": {
+      "message": "Sekretess"
+   },
+   "settings_menu_language": {
+      "message": "Språk"
+   },
+   "settings_menu_language_general": {
+      "message": "Allmänt"
+   },
+   "settings_menu_language_translate": {
+      "message": "Översätt"
+   },
+   "settings_menu_newtab": {
+      "message": "Ny flik"
+   },
+   "settings_menu_premium": {
+      "message": "Premium"
+   },
+   "settings_menu_sidebar": {
+      "message": "Sidopanel"
+   },
+   "settings_menu_sidebar_filter": {
+      "message": "Filtrera"
+   },
+   "settings_menu_sidebar_general": {
+      "message": "Allmänt"
+   },
+   "settings_menu_sidebar_toggle": {
+      "message": "Växla"
+   },
+   "settings_menu_sidebar_tooltip": {
+      "message": "Inforuta"
+   },
+   "settings_new_tab": {
+      "message": "Ny flik"
+   },
+   "settings_new_tab_background": {
+      "message": "Öppna i bakgrunden"
+   },
+   "settings_new_tab_desc": {
+      "message": "Öppna bokmärken i ny flik överst eller i bakgrunden"
+   },
+   "settings_new_tab_foreground": {
+      "message": "Öppna överst"
+   },
+   "settings_new_tab_position_after_current": {
+      "message": "Efter nuvarande flik"
+   },
+   "settings_new_tab_position_after_last": {
+      "message": "Efter sista fliken"
+   },
+   "settings_new_tab_position_before_first": {
+      "message": "Före första fliken"
+   },
+   "settings_new_tab_position_desc": {
+      "message": "Öppna nya flikar efter den sista eller den aktuella fliken"
+   },
+   "settings_newtab_desc": {
+      "message": "Tyvärr har Google tagit bort möjligheten att ladda tillägg på den vanliga \"ny flik\"-sidan. På grund av detta lade jag till några alternativ som låter dig komma åt dina bokmärken på ett annat sätt när du öppnar en ny flik."
+   },
+   "settings_newtab_focus_omnibox": {
+      "message": "Sätt fokus på adressfältet"
+   },
+   "settings_newtab_focus_omnibox_desc": {
+      "message": "Adressfältet får fokus när en ny flik öppnas istället för att webbsidans sökruta får fokus."
+   },
+   "settings_newtab_override": {
+      "message": "Ersätta den \"ny flik\"-sida som visas som standard"
+   },
+   "settings_newtab_override_desc": {
+      "message": "Ska utvidgningen ersätta din nuvarande \"ny flik\"-sida med antingen en skräddarsydd \"ny flik\"-sida eller en webbsida som ska laddas när du öppnar en ny flik?"
+   },
+   "settings_newtab_sidebar_auto_open": {
+      "message": "Öppna sidopanelen automatiskt"
+   },
+   "settings_newtab_sidebar_auto_open_desc": {
+      "message": "Konfigurera huruvida sidopanelen ska öppnas automatiskt när en ny flik öppnas."
+   },
+   "settings_newtab_website": {
+      "message": "Ladda webbsida"
+   },
+   "settings_newtab_website_desc": {
+      "message": "I stället för att öppna den nya utbytta \"ny flik\"-sidan kan du ange att en webbsida ska laddas."
+   },
+   "settings_not_synced": {
+      "message": "Kommer inte att synkroniseras mellan dina enheter"
+   },
+   "settings_open_action": {
+      "message": "Öppna sidopanel"
+   },
+   "settings_open_action_desc": {
+      "message": "Öppna sidofältet genom att vänsterklicka eller högerklicka eller mouseover på sidan av webbläsarfönstret. Alternativt kan du ändra det för att endast öppna om ikonen i {browserName}menyn är klickad."
+   },
+   "settings_open_action_icon": {
+      "message": "Klicka på ikon"
+   },
+   "settings_open_action_leftclick": {
+      "message": "Vänsterklick"
+   },
+   "settings_open_action_mouseover": {
+      "message": "Mouseover"
+   },
+   "settings_open_action_rightclick": {
+      "message": "Högerklick"
+   },
+   "settings_open_delay": {
+      "message": "Öppningsfördröjning"
+   },
+   "settings_open_delay_desc": {
+      "message": "Förhindrar omedelbart öppningen av sidofältet på mouseover eller genom att klicka med en fördröjning."
+   },
+   "settings_overlay_mask_color": {
+      "message": "Maskeringsfärg"
+   },
+   "settings_premium_activated": {
+      "message": "Premium har blivit aktiverat"
+   },
+   "settings_premium_invalid_key": {
+      "message": "Kunde inte aktivera Premium. Var vänlig använd en äkta licensnyckel"
+   },
+   "settings_presets": {
+      "message": "Bestäm relativ storlek"
+   },
+   "settings_prevent_pagescroll": {
+      "message": "Förhindra att sidan rullar"
+   },
+   "settings_prevent_pagescroll_desc": {
+      "message": "Förhindrar rullning av den aktuella webbplatsen medan sidopanelen är öppen."
+   },
+   "settings_prevent_windowed": {
+      "message": "Avaktivera sidofält i fönsterläge"
+   },
+   "settings_prevent_windowed_desc": {
+      "message": "Avaktivera möjligheten att öppna sidofält genom klick eller sväva över kanten av webbläsarens innehåll när webbläsaren är i fönsterläge."
+   },
+   "settings_remember_desc": {
+      "message": "Välj vad du ska komma ihåg över sidändringar. Om du väljer att komma ihåg det senaste öppnade bokmärket markeras det när du öppnar sidopanelen igen."
+   },
+   "settings_remember_open_states_sub_directories": {
+      "message": "Kom ihåg öppnade underkataloger"
+   },
+   "settings_remember_state": {
+      "message": "Kom ihåg"
+   },
+   "settings_remember_state_all": {
+      "message": "Rullningsposition, öppnade kataloger och senaste öppnade bokmärke"
+   },
+   "settings_remember_state_nothing": {
+      "message": "Ingenting"
+   },
+   "settings_remember_state_open_states": {
+      "message": "Öppnade mappar"
+   },
+   "settings_remember_state_open_states_and_scroll": {
+      "message": "Rulla position och öppna kataloger"
+   },
+   "settings_remember_state_open_states_root": {
+      "message": "Öppnade toppnivåmappar"
+   },
+   "settings_reopen_sidebar": {
+      "message": "Öppna sidofältet igen"
+   },
+   "settings_reopen_sidebar_desc": {
+      "message": "Öppna automatiskt sidfältet igen, efter att ha öppnat ett bokmärke innanför sidofältet."
+   },
+   "settings_restore": {
+      "message": "Återställ standard"
+   },
+   "settings_restore_confirm": {
+      "message": "Är du säker på att du vill återställa standardkonfigurationen?"
+   },
+   "settings_restored_message": {
+      "message": "Standardinställningar återställda"
+   },
+   "settings_save": {
+      "message": "Spara ändringar"
+   },
+   "settings_saved_message": {
+      "message": "Ändringarna har sparats"
+   },
+   "settings_scroll_bar_hide": {
+      "message": "Göm rullningsfält"
+   },
+   "settings_scroll_bar_hide_desc": {
+      "message": "Timeout i sekunder efter att rullningsfältet är dolt. Rullning visar rullningsfältet igen."
+   },
+   "settings_scroll_bar_hide_infinity": {
+      "message": "Göm aldrig"
+   },
+   "settings_scroll_bar_width": {
+      "message": "Rullningslistbredd"
+   },
+   "settings_search_placeholder": {
+      "message": "Sök efter konfiguration"
+   },
+   "settings_sidebar_mask_color": {
+      "message": "Maskeringsfärg"
+   },
+   "settings_sidebar_position": {
+      "message": "Position"
+   },
+   "settings_sidebar_position_desc": {
+      "message": "Låter dig ange huruvida sidopanelen ska öppnas till vänster eller höger på skärmen."
+   },
+   "settings_sidebar_position_left": {
+      "message": "Vänster"
+   },
+   "settings_sidebar_position_right": {
+      "message": "Höger"
+   },
+   "settings_sidebar_width": {
+      "message": "Bredd"
+   },
+   "settings_text_color": {
+      "message": "Textfärg"
+   },
+   "settings_title": {
+      "message": "Inställningar"
+   },
+   "settings_toggle_area": {
+      "message": "Konfigurationsyta"
+   },
+   "settings_toggle_area_drag_desc": {
+      "message": "Dra för att flytta"
+   },
+   "settings_toggle_area_height": {
+      "message": "Höjd"
+   },
+   "settings_toggle_area_height_desc": {
+      "message": "Du kan minska höjden på området, så sidofältet bara öppnas när du flyttar markören till den platsen i kanten av ditt webbläsarfönster."
+   },
+   "settings_toggle_area_width": {
+      "message": "Bredd"
+   },
+   "settings_toggle_area_width_windowed": {
+      "message": "Bredd (Fönster)"
+   },
+   "settings_tooltip_content": {
+      "message": "Tipsinnehåll"
+   },
+   "settings_tooltip_content_additional_info": {
+      "message": "Mer info"
+   },
+   "settings_tooltip_content_all": {
+      "message": "Titel och url"
+   },
+   "settings_tooltip_content_title": {
+      "message": "Endast titel"
+   },
+   "settings_tooltip_content_url": {
+      "message": "Endast url"
+   },
+   "settings_tooltip_delay": {
+      "message": "Tipsfördröjning"
+   },
+   "settings_tooltip_delay_desc": {
+      "message": "Fördröjning innan verktygstips för bokmärken visas när du sveper med musen."
+   },
+   "settings_tooltip_delay_infinity": {
+      "message": "Visa aldrig tips"
+   },
+   "settings_tooltip_desc": {
+      "message": "Visa vilken information tipset ska innehålla."
+   },
+   "settings_tooltip_font_size": {
+      "message": "Verktygstips typsnittsstorlek"
+   },
+   "settings_translation_add_language": {
+      "message": "Lägg till språk"
+   },
+   "settings_translation_back_to_overview": {
+      "message": "Tillbaka till översikten"
+   },
+   "settings_translation_desc": {
+      "message": "Du kan hjälpa till att översätta tillägget på ditt språk eller förbättra den befintliga."
+   },
+   "settings_translation_help": {
+      "message": "För varje post kan du se den engelska översättningen, som måste översättas på ditt språk. För att hjälpa dig att identifiera var texten används och vad den är för har varje post ett namn (t ex {1}), som inte ska översättas. Glöm inte att skicka in din översättning genom att trycka på knappen längst upp till höger!"
+   },
+   "settings_translation_incomplete_info": {
+      "message": "Några översättningar saknas"
+   },
+   "settings_translation_info": {
+      "message": "Du kan redigera befintliga översättningar eller lägga till saknade. Om du skickar dina ändringar, granskar jag din inmatning och godkänner den."
+   },
+   "settings_translation_link": {
+      "message": "Gå till översättningsöversikten"
+   },
+   "settings_translation_notice1": {
+      "message": "Så snart alla kategorier markerade efter behov översätts, kommer översättningen att släppas."
+   },
+   "settings_translation_notice2": {
+      "message": "Ofullständiga kategorier kommer inte att släppas, för att förhindra halvöversatta texter."
+   },
+   "settings_translation_reminder_desc": {
+      "message": "Jag vill bli informerad när nya variabler till språket läggs till i tillägget"
+   },
+   "settings_translation_required_category": {
+      "message": "Nödvändig"
+   },
+   "settings_translation_status_draft": {
+      "message": "Översättningen är ofullständig eller behöver en granskning och är inte tillgänglig för användare"
+   },
+   "settings_translation_status_incomplete": {
+      "message": "Översättning är tillgänglig, men vissa kategorier är ofullständiga"
+   },
+   "settings_translation_status_released": {
+      "message": "Översättning tillgänglig"
+   },
+   "settings_translation_submit": {
+      "message": "Inlämna"
+   },
+   "settings_translation_submit_message": {
+      "message": "Ditt språk har blivit inlämnat"
+   },
+   "sidebar_copied_to_clipboard": {
+      "message": "Url kopierad"
+   },
+   "sidebar_deleted": {
+      "message": "Borttagen"
+   },
+   "sidebar_dir_children": {
+      "message": "Element"
+   },
+   "sidebar_search_no_results": {
+      "message": "Inga bokmärken matchar din sökning"
+   },
+   "sidebar_search_placeholder": {
+      "message": "Sök bokmärke"
+   },
+   "sidebar_undo_deletion": {
+      "message": "Ångra"
+   },
+   "sort_label_alphabetical": {
+      "message": "Alfabetisk"
+   },
+   "sort_label_custom": {
+      "message": "Användardefinierad"
+   },
+   "sort_label_most_used": {
+      "message": "Mest använd"
+   },
+   "sort_label_recently_added": {
+      "message": "Nyligen tillagd"
+   },
+   "sort_label_recently_used": {
+      "message": "Nyligen använd"
+   },
+   "sort_most_used_per_month": {
+      "message": "Per månad"
+   },
+   "sort_view_as_tree": {
+      "message": "Visa mappar"
+   },
+   "status_background_disconnected_reload_action": {
+      "message": "Ladda om nu"
+   },
+   "status_background_disconnected_reload_desc": {
+      "message": "På grund av en uppdatering av tillägget måste denna sida laddas om."
+   },
+   "status_check_bookmarks_unavailable_desc": {
+      "message": "Tjänsten som kollar urel'er är för tillfället inte tillgängligt. Vänligen försök senare"
+   },
+   "status_feedback_unavailable_desc": {
+      "message": "Återkopplingstjänsten är för tillfället inte tillgängligt. Vill du återkoppla, vänligen skicka mig ett mejl."
+   },
+   "status_service_unavailable_headline": {
+      "message": "Tjänst otillgänglig"
+   },
+   "status_translation_unavailable_desc": {
+      "message": "Översättningstjänsten är för tillfället inte tillgängligt. Vänligen försök senare."
+   }
+}

@@ -1,0 +1,830 @@
+{
+   "contextmenu_add": {
+      "message": "افزودن ورودی"
+   },
+   "contextmenu_add_bookmark": {
+      "message": "افزودن نشانه"
+   },
+   "contextmenu_bookmark_manager": {
+      "message": "مدیریت نشانه ها"
+   },
+   "contextmenu_check_bookmarks": {
+      "message": "بررسی نشانه ها"
+   },
+   "contextmenu_close_all_directories": {
+      "message": "بستن همه پوشه ها"
+   },
+   "contextmenu_current_tab": {
+      "message": "باز کردن در زبانه فعلی"
+   },
+   "contextmenu_delete_bookmark": {
+      "message": "حذف نشانه"
+   },
+   "contextmenu_delete_dir": {
+      "message": "حذف پوشه"
+   },
+   "contextmenu_delete_separator": {
+      "message": "حذف جداکننده"
+   },
+   "contextmenu_edit_bookmark": {
+      "message": "ویرایش نشانه ها"
+   },
+   "contextmenu_edit_dir": {
+      "message": "ویرایش پوشه"
+   },
+   "contextmenu_edit_separator": {
+      "message": "ویرایش جداکننده"
+   },
+   "contextmenu_hide_from_sidebar": {
+      "message": "پنهان شود"
+   },
+   "contextmenu_infos": {
+      "message": "اطلاعات"
+   },
+   "contextmenu_keyboard_shortcuts": {
+      "message": "میانبرهای صفحه کلید"
+   },
+   "contextmenu_new_tab": {
+      "message": "بازکردن در زبانه جدید"
+   },
+   "contextmenu_new_tab_incognito": {
+      "message": "بازکردن در پنجره ناشناس"
+   },
+   "contextmenu_new_window": {
+      "message": "باز کردن در پنجره جدید"
+   },
+   "contextmenu_open_children": {
+      "message": "بازکردن نشانه ها"
+   },
+   "contextmenu_pin": {
+      "message": "الصاق به بالا"
+   },
+   "contextmenu_reload_sidebar": {
+      "message": "بارگذاری دوباره ستون"
+   },
+   "contextmenu_show_in_dir": {
+      "message": "نمایش در پوشه"
+   },
+   "contextmenu_show_in_sidebar": {
+      "message": "نمایش در ستون"
+   },
+   "contextmenu_toggle_hidden": {
+      "message": "نمایش ورودی های مخفی"
+   },
+   "contextmenu_unpin": {
+      "message": "برداشتن از بالا"
+   },
+   "contribute_dismiss": {
+      "message": "حذف"
+   },
+   "contribute_headline": {
+      "message": "من به کمک شما نیاز دارم"
+   },
+   "contribute_intro": {
+      "message": "برای بهبود فرمت، می خواهم بدانم که چگونه کاربران از نوار کناری استفاده می کنند و چه تنظیماتی از آنها استفاده می کنند."
+   },
+   "contribute_outro": {
+      "message": "اگر سوالی یا نگرانی در مورد به اشتراک گذاشتن اطلاعات دارید، لطفا یک پیام بازخورد ارسال کنید"
+   },
+   "contribute_share_activity_desc1": {
+      "message": "شما می توانید فعالیت خود را در نوار کناری به صورت ناشناس، که به من کمک می کند بدانید که چگونه کاربران از نوار کناری به طور کلی استفاده می کنند. اطلاعات مربوط به نشانکهای شما یا وبسایتهای بازدید شده شما [b]اندازه گیری نخواهد شد[/b]."
+   },
+   "contribute_share_activity_desc2": {
+      "message": "این اطلاعات بسیار مفید برای شناسایی مشکلات در قابلیت استفاده یا ویژگی هایی است که برای مثال اغلب مورد استفاده قرار نمی گیرند."
+   },
+   "contribute_share_activity_example_1": {
+      "message": "چه تعداد بوک مارک را به طور متوسط کاربران انجام می دهند؟"
+   },
+   "contribute_share_activity_example_2": {
+      "message": "کدام پلت فرم کاربران (Windows، Mac، Linux، ...) هستند؟"
+   },
+   "contribute_share_activity_example_3": {
+      "message": "آیا کاربران از جستجو استفاده می کنند؟"
+   },
+   "contribute_share_activity_example_4": {
+      "message": "آیا کاربران مرتب سازی بوک مارک ها را تغییر می دهند؟"
+   },
+   "contribute_share_activity_example_5": {
+      "message": "کاربران اغلب کاربران را مجددا مرتب یا ویرایش می کنند؟"
+   },
+   "contribute_share_activity_examples_intro": {
+      "message": "داده هایی که به اشتراک گذاشته شده اند به عنوان مثال:"
+   },
+   "contribute_share_activity_label": {
+      "message": "فرستادن فعالیت"
+   },
+   "contribute_share_config_desc": {
+      "message": "شما پیکربندی خود را به صورت ناشناس به اشتراک می گذارید، که به من کمک می کند تا تنظیمات محبوب را شناسایی کرده و دریابید که چه چیزی برای بهبود و تغییر در نسخه های آینده."
+   },
+   "contribute_share_config_label": {
+      "message": "فرستادن تنظیمات"
+   },
+   "extension_desc": {
+      "message": "یک ستون مخفی شونده از همه نشانه ها به کنار پنجره اضافه می کند"
+   },
+   "extension_name": {
+      "message": "نوار نشانه ها"
+   },
+   "header_bookmarks": {
+      "message": "نشانه ها"
+   },
+   "header_bookmarks_single": {
+      "message": "نشانه"
+   },
+   "keyboard_shortcuts_ctrl_c_desc": {
+      "message": "آدرس ورودی انتخاب شده را کپی می کند"
+   },
+   "keyboard_shortcuts_del_desc": {
+      "message": "ورودی انتخاب شده را خذف می کند"
+   },
+   "keyboard_shortcuts_enter_desc": {
+      "message": "روی ورودی انتخاب شده، کلیک می کند"
+   },
+   "keyboard_shortcuts_esc_desc": {
+      "message": "ساید بار یا منوی باز شده را می بندد"
+   },
+   "keyboard_shortcuts_key_cmd": {
+      "message": "کامند"
+   },
+   "keyboard_shortcuts_key_ctrl": {
+      "message": "کنترل"
+   },
+   "keyboard_shortcuts_key_del": {
+      "message": "دیلیت"
+   },
+   "keyboard_shortcuts_key_enter": {
+      "message": "انتر"
+   },
+   "keyboard_shortcuts_key_esc": {
+      "message": "اسکیپ"
+   },
+   "keyboard_shortcuts_key_shift": {
+      "message": "شیفت"
+   },
+   "keyboard_shortcuts_key_tab": {
+      "message": "تب"
+   },
+   "keyboard_shortcuts_shift_enter_desc": {
+      "message": "برای ورودی انتخاب شده ، یک منو باز می کند"
+   },
+   "keyboard_shortcuts_tab_desc": {
+      "message": "ورودی بعدی یا قبلی را در نوار کناری پنهان می کند"
+   },
+   "more_link": {
+      "message": "بیشتر بدانید"
+   },
+   "newtab_fallback_desc": {
+      "message": "ما به جای ستون نشانه ها، بک زبانه جدید برای شما باز کردیم"
+   },
+   "newtab_fallback_headline_extension_page": {
+      "message": "ستون نشانه ها در صفحه افزونه ها قابل استفاده نیست"
+   },
+   "newtab_fallback_headline_general": {
+      "message": "چیزی ستون نشانه ها را مسدود کرده است"
+   },
+   "newtab_fallback_headline_new_tab": {
+      "message": "ستون نشانه ها در صفحه اصلی تب جدید قابل استفاده نیست"
+   },
+   "newtab_fallback_headline_system": {
+      "message": "ستون نشانه ها در صفحات سیستمی کروم قابل استفاده نیست"
+   },
+   "newtab_fallback_headline_url_filter": {
+      "message": "یکی از قوانین مربوط به آدرس های اینترنتی اجازه استفاده از ستون نشانه ها را نمی دهد"
+   },
+   "newtab_fallback_headline_webstore": {
+      "message": "ستون نشانه ها در فروشگاه اینترنتی گوگل قابل استفاده نیست"
+   },
+   "newtab_fallback_set_as_new_tab": {
+      "message": "وفتی یک تب جدید باز میکنم، این صفحه را نشان بده"
+   },
+   "newtab_search_engine_custom": {
+      "message": "توسط کاربر تعریف شده"
+   },
+   "newtab_search_engine_custom_title": {
+      "message": "عنوان"
+   },
+   "newtab_search_engine_custom_url_homepage": {
+      "message": "آدرس اینترنتی صفحه اول"
+   },
+   "newtab_search_engine_custom_url_results": {
+      "message": "آدرس اینترنتی نیایج جستجو"
+   },
+   "newtab_search_engine_headline": {
+      "message": "موتور جستجو"
+   },
+   "newtab_search_placeholder": {
+      "message": "جستجو کن یا آدرس را وارد کن"
+   },
+   "newtab_speech_search_error": {
+      "message": "برای فعال کردن جستجوی گفتاری، باید اجازه دسترسی به میکروفن را بدهی"
+   },
+   "newtab_speech_search_listening": {
+      "message": "الان صحبت کن"
+   },
+   "newtab_title": {
+      "message": "زبانه جدید"
+   },
+   "newtab_top_pages_appearance_favicon": {
+      "message": "نمایش آیکون وب سایت"
+   },
+   "newtab_top_pages_appearance_thumbnail": {
+      "message": "پیش نمایش وبسایت ها"
+   },
+   "newtab_top_pages_default": {
+      "message": "صفحه های برتر"
+   },
+   "newtab_top_pages_hidden": {
+      "message": "صفحه ها را نشان نده"
+   },
+   "newtab_top_pages_most_used": {
+      "message": "نشانه های بیشتر استفاده شده"
+   },
+   "newtab_top_pages_pinned_entries": {
+      "message": "نشانه های سنجاق شده"
+   },
+   "newtab_top_pages_recently_used": {
+      "message": "نشانه های استفاده شده اخیر"
+   },
+   "newtab_upload_background": {
+      "message": "آپلود عکس پس زمینه"
+   },
+   "onboarding_finish_desc": {
+      "message": "با سایدبار سرگرم باشید"
+   },
+   "onboarding_finish_notice": {
+      "message": "اگر شما اغلب در مورد {1} سمت پنجره مرورگر کلیک کنید، ممکن است بخواهید جایی که نوار کناری را می توان به صورت عمودی باز کرد، برای جلوگیری از باز شدن آن به طور تصادفی."
+   },
+   "onboarding_goto_appearance": {
+      "message": "پیکربندی ظاهر"
+   },
+   "onboarding_goto_settings": {
+      "message": "تنظیمات بیشتر"
+   },
+   "onboarding_handson_desc": {
+      "message": "الان میتوانید تجربه کنید"
+   },
+   "onboarding_handson_icon_desc": {
+      "message": "بر روی آیکن افزونه کلیک کنید تا نوار جانبی بازگشایی شود."
+   },
+   "onboarding_handson_mouse_desc_1": {
+      "message": "موس خود را به سمت منتهی الیه چپ یا راست صفحه نمایش خود حرکت دهید"
+   },
+   "onboarding_handson_mouse_desc_2": {
+      "message": "یک کلیک با موس منجر به بازگشایی نوار جانبی خواهد شد"
+   },
+   "onboarding_headline": {
+      "message": "از نصب این افزونه متشکریم"
+   },
+   "onboarding_left": {
+      "message": "چپ"
+   },
+   "onboarding_right": {
+      "message": "راست"
+   },
+   "onboarding_setup": {
+      "message": "الان نصب شود"
+   },
+   "onboarding_sidebar_open_action_desc": {
+      "message": "چگونه باز شود؟"
+   },
+   "onboarding_sidebar_position_desc": {
+      "message": "کجا نصب شود ؟"
+   },
+   "onboarding_sidebar_surface_dark": {
+      "message": "تاریک"
+   },
+   "onboarding_sidebar_surface_desc": {
+      "message": "کدام تم رو میخواهید"
+   },
+   "onboarding_sidebar_surface_light": {
+      "message": "روشن"
+   },
+   "onboarding_skip": {
+      "message": "لغو نصب"
+   },
+   "onboarding_title": {
+      "message": "نصب"
+   },
+   "overlay_add_position": {
+      "message": "موقعیت"
+   },
+   "overlay_add_position_append": {
+      "message": "به آخر پوشه اضافه شود"
+   },
+   "overlay_add_position_prepend": {
+      "message": "به ابتدای پوشه اضافه شود"
+   },
+   "overlay_bookmark_additional_info": {
+      "message": "اطلاعات اضافی"
+   },
+   "overlay_bookmark_created_date": {
+      "message": "درست شده در"
+   },
+   "overlay_bookmark_title": {
+      "message": "عنوان"
+   },
+   "overlay_bookmark_url": {
+      "message": "آدرس اینترنتی"
+   },
+   "overlay_bookmark_views": {
+      "message": "بازدید ها"
+   },
+   "overlay_bookmark_views_per_month": {
+      "message": "هر ماه"
+   },
+   "overlay_bookmark_views_since": {
+      "message": "ثبت شده از"
+   },
+   "overlay_bookmark_views_single": {
+      "message": "بازدید"
+   },
+   "overlay_cancel": {
+      "message": "لغو"
+   },
+   "overlay_check_bookmarks_loading": {
+      "message": "بررسی آدرس نشانه ها"
+   },
+   "overlay_check_bookmarks_menu_broken": {
+      "message": "ایراد دارد"
+   },
+   "overlay_check_bookmarks_menu_changed": {
+      "message": "تغییر یافته"
+   },
+   "overlay_check_bookmarks_menu_duplicate": {
+      "message": "تکراری ها"
+   },
+   "overlay_check_bookmarks_menu_empty": {
+      "message": "پوشه های خالی"
+   },
+   "overlay_check_bookmarks_no_results": {
+      "message": "همه آدرس ها درست هستند"
+   },
+   "overlay_check_bookmarks_no_results_broken": {
+      "message": "همه آدرس ها بدون ایراد هستند"
+   },
+   "overlay_check_bookmarks_no_results_changed": {
+      "message": "هیچ آدرسی تفییر پیدا نکرده است"
+   },
+   "overlay_check_bookmarks_no_results_duplicate": {
+      "message": "آدرس تکراری در نشانه ها وجود ندارد"
+   },
+   "overlay_check_bookmarks_no_results_empty": {
+      "message": "هیچ پوشه ای بدون نشانه نیست"
+   },
+   "overlay_check_bookmarks_remove_selected": {
+      "message": "حذف انتخاب شده ها"
+   },
+   "overlay_check_bookmarks_update_selected": {
+      "message": "بروزرسانی انتخاب شده ها"
+   },
+   "overlay_close": {
+      "message": "بستن"
+   },
+   "overlay_confirm_open_children": {
+      "message": "آیا همه زیر مجموعه ها باز شوند؟"
+   },
+   "overlay_delete": {
+      "message": "پاک"
+   },
+   "overlay_delete_bookmark_confirm": {
+      "message": "آیا این نشانه پاک شود؟"
+   },
+   "overlay_delete_dir_confirm": {
+      "message": "آیا این پوشه پاک شود؟ همه زیر مجموعه های آن نیز پاک خواهند شد"
+   },
+   "overlay_dir_children": {
+      "message": "عناصر"
+   },
+   "overlay_dir_children_bookmarks": {
+      "message": "نشانه ها"
+   },
+   "overlay_dir_children_dirs": {
+      "message": "پوشه ها"
+   },
+   "overlay_hide_bookmark_confirm": {
+      "message": "آیا این نشانه پنهان شود؟"
+   },
+   "overlay_hide_dir_confirm": {
+      "message": "آیا این نشانه پنهان شود؟ همه زیر مجموعه های آن نیز پنهان خواهند شد"
+   },
+   "overlay_hide_from_sidebar": {
+      "message": "پنهان شود"
+   },
+   "overlay_label_bookmark": {
+      "message": "نشانه ها"
+   },
+   "overlay_label_dir": {
+      "message": "پوشه ها"
+   },
+   "overlay_label_separator": {
+      "message": "جداکننده"
+   },
+   "overlay_open_children": {
+      "message": "بازکردن همه"
+   },
+   "overlay_save": {
+      "message": "ذخیره"
+   },
+   "overlay_separator_title_desc": {
+      "message": "میتوانید یک عنوان به سلیقه خودتان انتخاب کنید، که بالای خط جدا کننده نشان داده خواهد شد و به شما در سازماندهی لیست نشانه هایتان کمک خواهد کرد"
+   },
+   "overlay_update": {
+      "message": "بروزرسانی"
+   },
+   "settings_advanced": {
+      "message": "تنظیمات پیشرفته"
+   },
+   "settings_bookmarks_dir_color": {
+      "message": "رنگ آیکون دایرکتوری"
+   },
+   "settings_bookmarks_dir_icon": {
+      "message": "نماد دایرکتوری"
+   },
+   "settings_bookmarks_font_size": {
+      "message": "فونت نشانکها"
+   },
+   "settings_bookmarks_icon_size": {
+      "message": "اندازه نماد نشانکها"
+   },
+   "settings_color_scheme": {
+      "message": "رنگبندی"
+   },
+   "settings_color_scheme_desc": {
+      "message": "رنگ هدر نوار کناری، جعبه چک، و غیره"
+   },
+   "settings_custom_css_desc": {
+      "message": "شما می توانید شیوه خودتان را برای تغییر سبک ظاهر پیش فرض تعریف کنید. لطفا در صورتی از این گزینه استفاده کنید که با زبان سی‌اس‌اس آشنا هستید و می دانید چه کاری انجام می دهید."
+   },
+   "settings_dark_mode": {
+      "message": "سطح"
+   },
+   "settings_directories_icon_size": {
+      "message": "اندازه آیکون راهنماها"
+   },
+   "settings_directory_arrows": {
+      "message": "فلش دایرکتوری"
+   },
+   "settings_expert_save_error": {
+      "message": "تنظیمات ذخیره نشد لطفا ورودی خود را تصحیح کنید"
+   },
+   "settings_expert_settings_desc": {
+      "message": "با تنظیمات متخصص، می توانید هر پرچم تنظیمات پسوند را تغییر دهید، حتی کسانی که نمی توانید با استفاده از کادرهای عادی و لغزنده صفحه تنظیمات تغییر دهید."
+   },
+   "settings_expert_settings_notice": {
+      "message": "لطفا مقادیر اینجا را تغییر دهید، اگر می دانید چه کاری انجام می دهید. پیکربندی های نادرست می تواند رفتار غیرمنتظره فرمت را ایجاد کند. اگر چیزی شکسته شود، می توانید به تنظیمات پیش فرض بازگردید."
+   },
+   "settings_feedback_desc": {
+      "message": "آیا هر گونه پیشنهاد برای بهبود، سوالات، اطلاع از گزینه های پیکربندی از دست رفته، و یا پیدا کردن یک اشکال؟ برای کمک به بهبود تجربیات با این افزونه، برای هر بازخوردی که داده شده یا ممکن است، بسیار سپاسگزار باشید."
+   },
+   "settings_feedback_email": {
+      "message": "ادرس ایمیل شما"
+   },
+   "settings_feedback_faq_headline": {
+      "message": "این ممکن است برای شما مهم باشد"
+   },
+   "settings_feedback_notice": {
+      "message": "لطفا درخواست خود را به زبان انگلیسی وارد نمایید"
+   },
+   "settings_feedback_screenshot": {
+      "message": "پیوست تصاویر"
+   },
+   "settings_feedback_screenshot_error_amount": {
+      "message": "شما فقط می توانید حداکثر {1} تصاویر را آپلود کنید"
+   },
+   "settings_feedback_screenshot_error_filesize": {
+      "message": "اندازه فایل {1} خیلی بزرگ است (> 1 مگابایت)"
+   },
+   "settings_feedback_send": {
+      "message": "ارسال درخواست"
+   },
+   "settings_feedback_send_failed": {
+      "message": "ارسال نشد مجددا تلاش کنید"
+   },
+   "settings_feedback_sent_message": {
+      "message": "تشکر"
+   },
+   "settings_font_family": {
+      "message": "شکل نوشتار"
+   },
+   "settings_font_family_default": {
+      "message": "پیش فرض"
+   },
+   "settings_font_family_desc": {
+      "message": "شکلک نوار کناری و پوشش"
+   },
+   "settings_header_height": {
+      "message": "ارتفاع"
+   },
+   "settings_headline_share_userdata": {
+      "message": "اشتراک اطلاعات"
+   },
+   "settings_hover_color": {
+      "message": "رنگ زیر موس"
+   },
+   "settings_icon_color": {
+      "message": "رنگ"
+   },
+   "settings_icon_color_auto": {
+      "message": "خودکار"
+   },
+   "settings_icon_color_custom": {
+      "message": "سفارشی"
+   },
+   "settings_icon_color_desc_1": {
+      "message": "رنگ آیکون به طور خودکار با طرح رنگی سیستم شما (روشن یا تیره) تنظیم می شود تا مطابقت داشته باشد. همچنین شما می توانید رنگ دلخواه خود را برای آیکون تعریف کنید."
+   },
+   "settings_icon_color_desc_2": {
+      "message": "توجه داشته باشید زمانی که از تم سفارشی شده ی گوگل کروم استفاده میکنید , تنظیم رنگ خودکار غیر فعال میشود."
+   },
+   "settings_icon_shape": {
+      "message": "شکل"
+   },
+   "settings_indicator_color": {
+      "message": "رنگ"
+   },
+   "settings_indicator_icon_color": {
+      "message": "رنگ"
+   },
+   "settings_indicator_icon_size": {
+      "message": "اندازه نشانه"
+   },
+   "settings_indicator_width": {
+      "message": "پهنای"
+   },
+   "settings_language": {
+      "message": "زبان"
+   },
+   "settings_language_default": {
+      "message": "مرورگر پیش فرض"
+   },
+   "settings_language_desc": {
+      "message": "زبان مورد استفاده در رابط کاربری"
+   },
+   "settings_menu_appearance": {
+      "message": "ظاهر"
+   },
+   "settings_menu_appearance_general": {
+      "message": "عمومی"
+   },
+   "settings_menu_appearance_icon": {
+      "message": "آیکون"
+   },
+   "settings_menu_appearance_indicator": {
+      "message": "شاخص"
+   },
+   "settings_menu_appearance_overlay": {
+      "message": "پوشش"
+   },
+   "settings_menu_appearance_sidebar": {
+      "message": "نوار کناری"
+   },
+   "settings_menu_expert": {
+      "message": "تنظیمات کارشناس"
+   },
+   "settings_menu_export": {
+      "message": "درون ریزی/برون ریزی"
+   },
+   "settings_menu_feedback": {
+      "message": "بازخورد"
+   },
+   "settings_menu_infos": {
+      "message": "اطلاعات"
+   },
+   "settings_menu_infos_aboutme": {
+      "message": "درمورد من"
+   },
+   "settings_menu_infos_changelog": {
+      "message": "لیست تغییرات"
+   },
+   "settings_menu_infos_contact": {
+      "message": "تماس"
+   },
+   "settings_menu_infos_permissions": {
+      "message": "مجوزها"
+   },
+   "settings_menu_infos_privacy": {
+      "message": "حریم خصوصی"
+   },
+   "settings_menu_language": {
+      "message": "زبان"
+   },
+   "settings_menu_language_general": {
+      "message": "عمومی"
+   },
+   "settings_menu_language_translate": {
+      "message": "بر گرداندن"
+   },
+   "settings_menu_newtab": {
+      "message": "برگه جدید"
+   },
+   "settings_menu_premium": {
+      "message": "ویژه"
+   },
+   "settings_menu_sidebar": {
+      "message": "نوار کناری"
+   },
+   "settings_menu_sidebar_filter": {
+      "message": "محدودسازی"
+   },
+   "settings_menu_sidebar_general": {
+      "message": "عمومی"
+   },
+   "settings_menu_sidebar_toggle": {
+      "message": "تغییر وضعیت"
+   },
+   "settings_menu_sidebar_tooltip": {
+      "message": "جزئیات"
+   },
+   "settings_newtab_desc": {
+      "message": "متاسفانه Google حذف امکان بارگیری پسوندهای را در صفحه برگه پیش فرض جدید حذف کرد. به همین دلیل تعدادی از گزینه های اضافه شده به شما اجازه می دهد تا هنگام بارگذاری یک برگه جدید به روش دیگری به بوک مارک های خود دسترسی پیدا کنید."
+   },
+   "settings_newtab_override": {
+      "message": "جایگزین صفحه برگه جدید"
+   },
+   "settings_newtab_override_desc": {
+      "message": "آیا پسوند صفحه برگه فعلی جدید خود را با یک سفارشی ساخته شده یا یک وبسایت که باید هنگام باز کردن یک برگه جدید بارگیری شود، غیرفعال کند؟"
+   },
+   "settings_newtab_sidebar_auto_open": {
+      "message": "نوار کناری را به طور خودکار باز کنید"
+   },
+   "settings_newtab_sidebar_auto_open_desc": {
+      "message": "پیکربندی کنید که آیا نوار کناری به طور خودکار هنگام باز کردن یک برگه جدید باز می شود."
+   },
+   "settings_newtab_website": {
+      "message": "بارگذاری وب سایت"
+   },
+   "settings_newtab_website_desc": {
+      "message": "به جای باز کردن جایگزین تب جدید، می توانید یک وبسایت را که به جای آن بارگذاری شده است، تنظیم کنید."
+   },
+   "settings_not_synced": {
+      "message": "توضیحات هماهنگ نیست"
+   },
+   "settings_permissions_bookmarks_desc": {
+      "message": "پسوند بوک مارک های خود را در نوار کناری نشان می دهد و بنابراین برای دسترسی به این اجازه نیاز است. مجوز همچنین اجازه می دهد که پسوند بوک مارک ها را اضافه، ویرایش و حذف کند."
+   },
+   "settings_permissions_contentscript_desc_1": {
+      "message": "متأسفانه کروم هیچ مکانیزمی برای نمایش محتوا در پنجره مرورگر بدون ارتباط با صفحه بازدید کننده در حال حاضر ندارد."
+   },
+   "settings_permissions_contentscript_desc_2": {
+      "message": "از آنجا که نوار کناری در بالای وب سایت فعلی نمایش داده می شود، این مجوز لازم است. علاوه بر این دلیل فنی، مجوز برای اهداف دیگر مورد استفاده قرار نمی گیرد."
+   },
+   "settings_permissions_contentscript_desc_3": {
+      "message": "اگر نگرانی های مربوط به آنچه که با اجازه انجام می دهید نگرانی داشته باشید، می توانید کد منبع افزونه را در گیت هاب مشاهده کنید. این منبع باز است و برای همه قابل مشاهده است."
+   },
+   "settings_permissions_desc": {
+      "message": "برای ایجاد نوار کناری قابل دسترس در کروم، مجوزهای زیر لازم و مورد درخواست افزونه هستند:"
+   },
+   "settings_premium_activated": {
+      "message": "نسخه ویژه با موفقیت فعال شد"
+   },
+   "settings_premium_invalid_key": {
+      "message": "نسخه ویژه فعال نشد. لطفا کد فعال سازی درست را وارد نمایید"
+   },
+   "settings_presets": {
+      "message": "اندازه نسبی را تنظیم کنید"
+   },
+   "settings_presets_desc": {
+      "message": "شما می توانید از اندازه های از پیش تعیین شده برای نوار کناری انتخاب کنید. این لغزنده ها را در این صفحه تغییر می دهد تا عرض نوار کناری، ارتفاع خط، اندازه آیکون و بسیاری از گزینه های دیگر را تنظیم کند."
+   },
+   "settings_restore": {
+      "message": "بازگردانی به تنظیمات پیش فرض"
+   },
+   "settings_restore_confirm": {
+      "message": "آیا واقعا می خواهید تنظیمات پیش فرض را بازگردانی کنید؟"
+   },
+   "settings_restored_message": {
+      "message": "تنظیمات با موفقیت بازگردانی شد"
+   },
+   "settings_save": {
+      "message": "ذخیره تغییرات"
+   },
+   "settings_saved_message": {
+      "message": "تغییرات با موفقیت ذخیره شد"
+   },
+   "settings_saved_share_userdata": {
+      "message": "تنظیمات با موفقیت ذخیره شد"
+   },
+   "settings_scroll_bar_width": {
+      "message": "پهنای خط حرکت"
+   },
+   "settings_search_placeholder": {
+      "message": "جستجو برای پیکربندی"
+   },
+   "settings_sidebar_mask_color": {
+      "message": "رنگ پوشش"
+   },
+   "settings_sidebar_width": {
+      "message": "پهنای"
+   },
+   "settings_text_color": {
+      "message": "رنگ متن"
+   },
+   "settings_title": {
+      "message": "نام صفحه"
+   },
+   "settings_translation_add_language": {
+      "message": "افزودن زبان"
+   },
+   "settings_translation_back_to_overview": {
+      "message": "بازگشت به نمای کلی"
+   },
+   "settings_translation_desc": {
+      "message": "شما می توانید فرمت زبان را به زبان خود ترجمه کنید یا آن را بهبود بخشید."
+   },
+   "settings_translation_help": {
+      "message": "برای هر ورودی می توانید ترجمه انگلیسی را مشاهده کنید که باید به زبان شما ترجمه شود. برای کمک به شناسایی جایی که متن مورد استفاده قرار می گیرد و آنچه در آن است، هر ورودی دارای یک نام (به عنوان مثال {1}) است که نباید ترجمه شود. لطفا فراموش نکنید که ترجمه خود را با فشار دادن دکمه در گوشه بالا سمت راست ارسال کنید!"
+   },
+   "settings_translation_incomplete_info": {
+      "message": "برخی از ترجمه ها گم شده اند"
+   },
+   "settings_translation_info": {
+      "message": "شما می توانید ترجمه های موجود را ویرایش کنید یا آنها را اضافه کنید. اگر تغییراتی را ارسال کنید، ورودی شما را بررسی خواهم کرد و آن را تایید خواهم کرد."
+   },
+   "settings_translation_link": {
+      "message": "مشاهده نمای کلی بخش ترجمه"
+   },
+   "settings_translation_notice1": {
+      "message": "به محض این که تمام دسته ها، که به صورت موردی مشخص شده اند ترجمه شوند، ترجمه منتشر می شود."
+   },
+   "settings_translation_notice2": {
+      "message": "دسته های ناقص منتشر نخواهند شد تا متون ناقص ترجمه شوند."
+   },
+   "settings_translation_reminder_desc": {
+      "message": "من میخواهم وقتی متغیرهای جدید زبان به افزونه اضافه میشوند مطلع شوند"
+   },
+   "settings_translation_required_category": {
+      "message": "مورد نیاز"
+   },
+   "settings_translation_status_draft": {
+      "message": "ترجمه ناقص است یا نیاز به بررسی دارد و برای کاربران در دسترس نیست"
+   },
+   "settings_translation_status_incomplete": {
+      "message": "ترجمه در دسترس است، اما برخی از دسته ها ناقص هستند"
+   },
+   "settings_translation_status_released": {
+      "message": "ترجمه اش موجود است"
+   },
+   "settings_translation_submit": {
+      "message": "ثبت"
+   },
+   "settings_translation_submit_message": {
+      "message": "ترجمه شما با موفقیت ثبت شد"
+   },
+   "sidebar_copied_to_clipboard": {
+      "message": "آدرس کپی شد"
+   },
+   "sidebar_deleted": {
+      "message": "حذف شد"
+   },
+   "sidebar_dir_children": {
+      "message": "عناصر"
+   },
+   "sidebar_search_no_results": {
+      "message": "هیچ نشانه ای مرتبط با جستجوی شما پیدا نشد"
+   },
+   "sidebar_search_placeholder": {
+      "message": "جستجوی نشانه ها"
+   },
+   "sidebar_undo_deletion": {
+      "message": "قبلی"
+   },
+   "sort_label_alphabetical": {
+      "message": "بر اساس حروف الفبا"
+   },
+   "sort_label_custom": {
+      "message": "تعریف توسط کاربر"
+   },
+   "sort_label_most_used": {
+      "message": "بیشترین استفاده شده ها"
+   },
+   "sort_label_recently_added": {
+      "message": "اخیرا اضافه شده"
+   },
+   "sort_label_recently_used": {
+      "message": "اخیرا استفاده شده"
+   },
+   "sort_most_used_per_month": {
+      "message": "ماهانه"
+   },
+   "sort_view_as_tree": {
+      "message": "نمایش پوشه ها"
+   },
+   "status_background_disconnected_reload_action": {
+      "message": "بارگذاری مجدد"
+   },
+   "status_background_disconnected_reload_desc": {
+      "message": "بدلیل بروزرسانی افزونه، این صفحه نیاز به بارگذاری مجدد دارد"
+   },
+   "status_check_bookmarks_unavailable_desc": {
+      "message": "سرویسی که آدرس را بررسی می کند در حال حاضر در دسترس نمی باشد. لطفا بعدا امتحان کنید"
+   },
+   "status_feedback_unavailable_desc": {
+      "message": "سرویس بازخورد در حال حاضر در دسترس نمی باشد. اگر می خواهید بازخورد بدهید، لطفا به من ایمیل بفرستید"
+   },
+   "status_service_unavailable_headline": {
+      "message": "سرویس در دسترس نمی باشد"
+   },
+   "status_translation_unavailable_desc": {
+      "message": "سرویس ترجمه در حال حاضر در دسترس نمی باشد. لطفا بعدا امتحان کنید"
+   }
+}

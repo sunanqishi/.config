@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<!--
+ This is a dev page to test castify-draw in web app dev mode.
+ Styling and elments on this page ease manual testing in different scenarios
+ (iframes, shadow dom, fixed positioning, inputs etc.).
+ -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>CastifyDraw</title>
+    <base href="/" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <!-- Note: font is injected by BgCastifyDrawService globally -->
+    <link rel="stylesheet" type="text/css" href="assets/fonts/fonts-dev.css" />
+
+    <script>
+      // HACK: zone.js does not seem to handle capture +
+      // non-passive correctly
+      window['__zone_symbol__BLACK_LISTED_EVENTS'] = ['keydown'];
+    </script>
+    <style>
+      :-webkit-full-screen {
+        z-index: 10000 !important;
+        background: white;
+      }
+      iframe {
+        border: 10px solid rgba(0, 0, 0, 0.1);
+        padding: 0.2em;
+        width: 800px;
+        height: 500px;
+      }
+
+      button:hover {
+        background: green;
+      }
+
+      .styled-link {
+        cursor: pointer !important;
+      }
+
+      .box {
+        width: 100px;
+        height: 100px;
+        border: 1px solid rgba(0, 0, 0, 0.5);
+        opacity: 0.5;
+      }
+
+      .red {
+        background: red;
+      }
+
+      .green {
+        background: green;
+      }
+
+      .yellow {
+        background: yellow;
+      }
+
+      .scroller {
+        width: 500px;
+        height: 200px;
+        overflow: scroll;
+      }
+
+      .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+      }
+
+      .overflow {
+        overflow: visible;
+        width: 10px;
+        height: 10px;
+      }
+
+      .long {
+        height: 1000px;
+      }
+    </style>
+  </head>
+  <body>
+    hello<br />
+    <b>bold</b>hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+
+    <button id="btn_init">init draw</button>
+    <button id="btn_destroy">destroy draw</button>
+
+    <div class="scroller">
+      <div class="box red"></div>
+      <div class="box green"></div>
+      <div class="box red"></div>
+      <div class="box green"></div>
+      hihihi<br />
+      ohoho<br />
+    </div>
+    <div class="overflow green">
+      <div class="box red">overflow</div>
+    </div>
+    <div class="overlay box yellow">
+      overlay
+    </div>
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    <button id="btn_fullscreen">click me for fullscreen test</button>
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    <a href>this is a link</a>
+    <a href class="styled-link">this is a styled link</a>
+    <div id="shadowContainer">
+      <template>
+        this will be moved to a shadow root
+        <a href>link in shadow</a>
+      </template>
+    </div>
+    <textarea rows="3">
+hihhihasdfhi
+  llhiii
+  iii
+  iiiii
+  ihi
+  llhiii
+  iii
+  iiiii
+  ihi
+  ooooo
+
+  ooooo
+  ooo
+</textarea
+    >
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    hello<br />
+    <b>bold</b>hello<br />
+
+    <div>
+      <div class="box red long"></div>
+    </div>
+
+    <div id="test_frame"></div>
+    <script>
+      if (window.top == window) {
+        // || window.top == window.parent) {
+        document.getElementById('test_frame').innerHTML =
+          '<iframe src="index.html" allowfullscreen></iframe>';
+      }
+      document
+        .querySelector('#btn_fullscreen')
+        .addEventListener('click', function() {
+          var div = document.createElement('div');
+          div.textContent = 'I will be fullscreen';
+          document.body.appendChild(div);
+          div.webkitRequestFullScreen();
+        });
+
+      function createShadow(elem) {
+        const shadow = elem.attachShadow({ mode: 'open' });
+        var tpl = elem.querySelector('template');
+        shadow.innerHTML = tpl.innerHTML;
+        elem.removeChild(tpl);
+        return shadow;
+      }
+      var shadowContainer = document.querySelector('#shadowContainer');
+      createShadow(shadowContainer);
+    </script>
+  <script src="runtime.js" defer></script><script src="main.js" defer></script></body>
+</html>

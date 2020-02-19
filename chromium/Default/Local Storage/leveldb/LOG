@@ -1,0 +1,27 @@
+2020/02/19-09:32:08.580 757 Reusing MANIFEST /home/sunan/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/02/19-09:32:08.580 757 Recovering log #797
+2020/02/19-09:32:08.580 757 Reusing old log /home/sunan/.config/chromium/Default/Local Storage/leveldb/000797.log 
+2020/02/19-10:26:30.125 e3c Level-0 table #801: started
+2020/02/19-10:26:30.135 e3c Level-0 table #801: 16986 bytes OK
+2020/02/19-10:26:30.145 e3c Delete type=0 #797
+2020/02/19-12:14:48.065 e3c Level-0 table #803: started
+2020/02/19-12:14:48.072 e3c Level-0 table #803: 15418 bytes OK
+2020/02/19-12:14:48.076 e3c Delete type=0 #800
+2020/02/19-12:42:41.089 e3c Level-0 table #805: started
+2020/02/19-12:42:41.096 e3c Level-0 table #805: 19500 bytes OK
+2020/02/19-12:42:41.099 e3c Delete type=0 #802
+2020/02/19-12:42:41.099 e3c Compacting 4@0 + 1@1 files
+2020/02/19-12:42:41.141 e3c Generated table #806@0: 793 keys, 851162 bytes
+2020/02/19-12:42:41.141 e3c Compacted 4@0 + 1@1 files => 851162 bytes
+2020/02/19-12:42:41.149 e3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/02/19-12:42:41.150 e3c Delete type=2 #796
+2020/02/19-12:42:41.150 e3c Delete type=2 #805
+2020/02/19-12:42:41.150 e3c Delete type=2 #801
+2020/02/19-12:42:41.150 e3c Delete type=2 #803
+2020/02/19-12:42:41.150 e3c Delete type=2 #798
+2020/02/19-12:46:07.608 e3c Level-0 table #808: started
+2020/02/19-12:46:07.613 e3c Level-0 table #808: 18877 bytes OK
+2020/02/19-12:46:07.616 e3c Delete type=0 #804
+2020/02/19-12:48:01.441 e3c Level-0 table #810: started
+2020/02/19-12:48:01.449 e3c Level-0 table #810: 18370 bytes OK
+2020/02/19-12:48:01.458 e3c Delete type=0 #807

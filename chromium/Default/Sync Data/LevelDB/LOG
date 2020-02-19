@@ -1,3 +1,6 @@
 2020/02/19-09:32:08.087 72a Reusing MANIFEST /home/sunan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
 2020/02/19-09:32:08.089 72a Recovering log #54
 2020/02/19-09:32:08.097 72a Reusing old log /home/sunan/.config/chromium/Default/Sync Data/LevelDB/000054.log 
+2020/02/19-12:58:55.386 1c81 Level-0 table #59: started
+2020/02/19-12:58:55.396 1c81 Level-0 table #59: 98865 bytes OK
+2020/02/19-12:58:55.405 1c81 Delete type=0 #54

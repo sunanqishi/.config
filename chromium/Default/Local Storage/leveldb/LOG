@@ -25,3 +25,24 @@
 2020/02/19-12:48:01.441 e3c Level-0 table #810: started
 2020/02/19-12:48:01.449 e3c Level-0 table #810: 18370 bytes OK
 2020/02/19-12:48:01.458 e3c Delete type=0 #807
+2020/02/19-12:52:54.841 e3c Level-0 table #812: started
+2020/02/19-12:52:54.846 e3c Level-0 table #812: 17938 bytes OK
+2020/02/19-12:52:54.854 e3c Delete type=0 #809
+2020/02/19-13:03:23.151 e3c Level-0 table #814: started
+2020/02/19-13:03:23.154 e3c Level-0 table #814: 22127 bytes OK
+2020/02/19-13:03:23.159 e3c Delete type=0 #811
+2020/02/19-13:03:23.159 e3c Compacting 4@0 + 1@1 files
+2020/02/19-13:03:23.195 e3c Generated table #815@0: 816 keys, 853981 bytes
+2020/02/19-13:03:23.195 e3c Compacted 4@0 + 1@1 files => 853981 bytes
+2020/02/19-13:03:23.202 e3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/02/19-13:03:23.202 e3c Delete type=2 #810
+2020/02/19-13:03:23.202 e3c Delete type=2 #806
+2020/02/19-13:03:23.202 e3c Delete type=2 #814
+2020/02/19-13:03:23.202 e3c Delete type=2 #812
+2020/02/19-13:03:23.202 e3c Delete type=2 #808
+2020/02/19-13:04:11.255 e3c Level-0 table #817: started
+2020/02/19-13:04:11.260 e3c Level-0 table #817: 22717 bytes OK
+2020/02/19-13:04:11.264 e3c Delete type=0 #813
+2020/02/19-13:05:18.371 e3c Level-0 table #819: started
+2020/02/19-13:05:18.380 e3c Level-0 table #819: 20195 bytes OK
+2020/02/19-13:05:18.387 e3c Delete type=0 #816

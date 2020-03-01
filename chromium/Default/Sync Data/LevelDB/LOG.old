@@ -1,21 +1,6 @@
-2020/02/19-06:46:24.249 740 Reusing MANIFEST /home/sunan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/02/19-06:46:24.252 740 Recovering log #47
-2020/02/19-06:46:24.260 740 Reusing old log /home/sunan/.config/chromium/Default/Sync Data/LevelDB/000047.log 
-2020/02/19-07:22:27.255 178d Level-0 table #51: started
-2020/02/19-07:22:27.266 178d Level-0 table #51: 100127 bytes OK
-2020/02/19-07:22:27.270 178d Delete type=0 #47
-2020/02/19-08:43:49.624 178d Level-0 table #53: started
-2020/02/19-08:43:49.634 178d Level-0 table #53: 121906 bytes OK
-2020/02/19-08:43:49.642 178d Delete type=0 #50
-2020/02/19-09:56:52.037 178d Level-0 table #55: started
-2020/02/19-09:56:52.049 178d Level-0 table #55: 106688 bytes OK
-2020/02/19-09:56:52.057 178d Delete type=0 #52
-2020/02/19-09:56:52.057 178d Compacting 4@0 + 1@1 files
-2020/02/19-09:56:52.074 178d Generated table #56@0: 197 keys, 44312 bytes
-2020/02/19-09:56:52.074 178d Compacted 4@0 + 1@1 files => 44312 bytes
-2020/02/19-09:56:52.076 178d compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/02/19-09:56:52.076 178d Delete type=2 #53
-2020/02/19-09:56:52.076 178d Delete type=2 #51
-2020/02/19-09:56:52.076 178d Delete type=2 #46
-2020/02/19-09:56:52.076 178d Delete type=2 #48
-2020/02/19-09:56:52.076 178d Delete type=2 #55
+2020/02/24-23:38:07.611 3dba Reusing MANIFEST /home/sunan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/02/24-23:38:07.611 3dba Recovering log #138
+2020/02/24-23:38:07.612 3dba Reusing old log /home/sunan/.config/chromium/Default/Sync Data/LevelDB/000138.log 
+2020/02/24-23:52:11.907 52fb Level-0 table #142: started
+2020/02/24-23:52:11.919 52fb Level-0 table #142: 108835 bytes OK
+2020/02/24-23:52:11.926 52fb Delete type=0 #138

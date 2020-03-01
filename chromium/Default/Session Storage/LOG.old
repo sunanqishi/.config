@@ -1,6 +1,6 @@
-2020/02/19-06:46:24.456 748 Reusing MANIFEST /home/sunan/.config/chromium/Default/Session Storage/MANIFEST-000001
-2020/02/19-06:46:24.457 748 Recovering log #36
-2020/02/19-06:46:24.457 748 Reusing old log /home/sunan/.config/chromium/Default/Session Storage/000036.log 
-2020/02/19-09:09:02.529 d15 Level-0 table #41: started
-2020/02/19-09:09:02.534 d15 Level-0 table #41: 19487 bytes OK
-2020/02/19-09:09:02.537 d15 Delete type=0 #36
+2020/02/24-23:38:07.710 3db2 Reusing MANIFEST /home/sunan/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/02/24-23:38:07.710 3db2 Recovering log #103
+2020/02/24-23:38:07.710 3db2 Reusing old log /home/sunan/.config/chromium/Default/Session Storage/000103.log 
+2020/02/25-00:10:09.349 432c Level-0 table #107: started
+2020/02/25-00:10:09.354 432c Level-0 table #107: 20129 bytes OK
+2020/02/25-00:10:09.358 432c Delete type=0 #103

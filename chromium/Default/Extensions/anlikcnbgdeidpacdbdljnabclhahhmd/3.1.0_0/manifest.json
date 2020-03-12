@@ -1,0 +1,34 @@
+{
+   "author": "Varun Malhotra",
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/enhanced-github48.png",
+      "default_popup": "index.html",
+      "default_title": "Enhanced GitHub"
+   },
+   "content_scripts": [ {
+      "js": [ "src/inject.js" ],
+      "matches": [ "*://*.github.com/*" ]
+   } ],
+   "description": "Display repo size, size of each file, download link and option to copy file contents",
+   "homepage_url": "https://github.com/softvar/enhanced-github",
+   "icons": {
+      "128": "icons/enhanced-github128.png",
+      "16": "icons/enhanced-github16.png",
+      "48": "icons/enhanced-github48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjj6TV2KuFrCZYgYvwDyfEUrtRytpbw/DqAFRPXXwdGnwTBoPqtU3m3Lrfjp1OLrx0Ky6/8Ay6f4vcc5YLwtkGq4v1E1c6snv3ButD+FlL3WdSTIuNVAkZ7zgjStlrQizOZVLN/LzMiav6YwGehSi0I6q1sCGEXfcWo2MQep/kNSYuc1TptU615W8HgQY1gcPEQ2ocEq10gel/I07dvbCpLoei5GHjj3TOc6+guu7aMjknsnAc6ZkP4u8KWTUr9BrLJVxBwwhhAA1cXyHiIoKCBIgUsoO5ZQL4JlrS1gH/b5+hZv9jkaNZG0Q+s4rQ8tD7xAm7F7WOY/nbA1rtPPmiwIDAQAB",
+   "manifest_version": 2,
+   "name": "Enhanced GitHub",
+   "options_ui": {
+      "chrome_style": true,
+      "page": "options.html"
+   },
+   "permissions": [ "*://*.github.com/*", "storage", "webRequest", "webNavigation" ],
+   "short_name": "Enhanced GitHub",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.1.0"
+}

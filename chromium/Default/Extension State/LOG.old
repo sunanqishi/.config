@@ -1,3 +1,18 @@
-2020/02/24-23:38:08.943 3dbd Reusing MANIFEST /home/sunan/.config/chromium/Default/Extension State/MANIFEST-000001
-2020/02/24-23:38:08.943 3dbd Recovering log #29
-2020/02/24-23:38:08.944 3dbd Reusing old log /home/sunan/.config/chromium/Default/Extension State/000029.log 
+2020/03/07-14:43:49.748 1055 Reusing MANIFEST /home/sunan/.config/chromium/Default/Extension State/MANIFEST-000001
+2020/03/07-14:43:49.748 1055 Recovering log #29
+2020/03/07-14:43:49.752 1055 Reusing old log /home/sunan/.config/chromium/Default/Extension State/000029.log 
+2020/03/07-15:23:36.618 4538 Level-0 table #33: started
+2020/03/07-15:23:36.649 4538 Level-0 table #33: 2615484 bytes OK
+2020/03/07-15:23:36.659 4538 Delete type=0 #29
+2020/03/07-15:23:36.660 4538 Compacting 4@0 + 1@1 files
+2020/03/07-15:23:36.709 4538 Generated table #34@0: 10 keys, 25285 bytes
+2020/03/07-15:23:36.709 4538 Compacted 4@0 + 1@1 files => 25285 bytes
+2020/03/07-15:23:36.712 4538 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/07-15:23:36.712 4538 Delete type=2 #30
+2020/03/07-15:23:36.712 4538 Delete type=2 #33
+2020/03/07-15:23:36.712 4538 Delete type=2 #24
+2020/03/07-15:23:36.712 4538 Delete type=2 #27
+2020/03/07-15:23:36.713 4538 Delete type=2 #21
+2020/03/08-00:18:46.956 4538 Level-0 table #36: started
+2020/03/08-00:18:46.984 4538 Level-0 table #36: 2769783 bytes OK
+2020/03/08-00:18:46.993 4538 Delete type=0 #32

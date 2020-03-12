@@ -654,3 +654,52 @@ INFO 2/19/2020, 9:21:41 AM  [blur] 1
 INFO 2/19/2020, 9:21:41 AM  [focus] 1
 INFO 2/19/2020, 9:21:46 AM  ----------------before-quit-----------------
 INFO 2/19/2020, 9:21:46 AM  ------------------will-quit------------------
+INFO 3/7/2020, 3:46:06 PM  luanchFromDiffVersion, pre version is 0.9.83
+INFO 3/7/2020, 3:46:06 PM  overwriteThemeFolder
+INFO 3/7/2020, 3:46:06 PM  ------------------start------------------
+INFO 3/7/2020, 3:46:06 PM  typora version: 0.9.85
+DEBUG 3/7/2020, 3:46:06 PM  [ '/usr/share/typora/Typora' ]
+INFO 3/7/2020, 3:46:06 PM  [Raven] instanceKey = e68c96a3-d0b9-4621-abc0-503b6778a759
+DEBUG 3/7/2020, 3:46:06 PM  app.openFile
+INFO 3/7/2020, 3:46:07 PM  [Raven] userId = 8c24a099-e2b4-4551-83f9-e83dcee155d5
+INFO 3/7/2020, 3:46:07 PM  [focus] 1
+INFO 3/7/2020, 3:46:40 PM  [blur] 1
+INFO 3/7/2020, 3:46:52 PM  [focus] 1
+INFO 3/7/2020, 3:47:05 PM  [blur] 1
+INFO 3/7/2020, 3:47:05 PM  [focus] 1
+INFO 3/7/2020, 3:47:17 PM  [blur] 1
+INFO 3/7/2020, 3:48:57 PM  [focus] 1
+INFO 3/7/2020, 3:49:11 PM  [blur] 1
+INFO 3/7/2020, 3:49:19 PM  [focus] 1
+INFO 3/7/2020, 3:49:23 PM  [blur] 1
+INFO 3/7/2020, 3:49:25 PM  [focus] 1
+INFO 3/7/2020, 3:49:31 PM  [blur] 1
+INFO 3/7/2020, 3:49:37 PM  [focus] 1
+INFO 3/7/2020, 3:49:46 PM  [blur] 1
+INFO 3/7/2020, 3:50:20 PM  [focus] 1
+INFO 3/7/2020, 3:50:46 PM  [blur] 1
+INFO 3/7/2020, 3:50:47 PM  [focus] 1
+INFO 3/7/2020, 3:50:50 PM  [blur] 1
+INFO 3/7/2020, 3:51:26 PM  [focus] 1
+INFO 3/7/2020, 3:51:33 PM  [blur] 1
+INFO 3/7/2020, 3:52:27 PM  [focus] 1
+INFO 3/7/2020, 3:52:36 PM  [blur] 1
+INFO 3/7/2020, 3:53:06 PM  [focus] 1
+INFO 3/7/2020, 3:53:16 PM  [blur] 1
+INFO 3/7/2020, 3:55:33 PM  [focus] 1
+INFO 3/7/2020, 3:55:34 PM  [blur] 1
+INFO 3/7/2020, 4:30:30 PM  [focus] 1
+INFO 3/7/2020, 4:30:31 PM  [blur] 1
+INFO 3/7/2020, 4:34:25 PM  [focus] 1
+INFO 3/7/2020, 4:34:25 PM  [blur] 1
+INFO 3/7/2020, 4:36:42 PM  [focus] 1
+INFO 3/7/2020, 4:36:42 PM  [blur] 1
+INFO 3/7/2020, 4:38:13 PM  [focus] 1
+INFO 3/7/2020, 4:38:14 PM  [blur] 1
+INFO 3/7/2020, 4:38:15 PM  [focus] 1
+INFO 3/7/2020, 4:38:17 PM  [blur] 1
+INFO 3/7/2020, 4:38:20 PM  [focus] 1
+INFO 3/7/2020, 4:38:46 PM  [blur] 1
+INFO 3/7/2020, 4:46:04 PM  [focus] 1
+INFO 3/7/2020, 4:46:10 PM  ----------------before-quit-----------------
+INFO 3/7/2020, 4:46:10 PM  ------------------will-quit------------------

@@ -1,6 +1,24 @@
-2020/02/24-23:38:07.710 3db2 Reusing MANIFEST /home/sunan/.config/chromium/Default/Session Storage/MANIFEST-000001
-2020/02/24-23:38:07.710 3db2 Recovering log #103
-2020/02/24-23:38:07.710 3db2 Reusing old log /home/sunan/.config/chromium/Default/Session Storage/000103.log 
-2020/02/25-00:10:09.349 432c Level-0 table #107: started
-2020/02/25-00:10:09.354 432c Level-0 table #107: 20129 bytes OK
-2020/02/25-00:10:09.358 432c Delete type=0 #103
+2020/03/07-14:43:48.831 1053 Reusing MANIFEST /home/sunan/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/03/07-14:43:48.832 1053 Recovering log #112
+2020/03/07-14:43:48.832 1053 Reusing old log /home/sunan/.config/chromium/Default/Session Storage/000112.log 
+2020/03/07-16:33:05.516 4056 Level-0 table #116: started
+2020/03/07-16:33:05.535 4056 Level-0 table #116: 43354 bytes OK
+2020/03/07-16:33:05.543 4056 Delete type=0 #112
+2020/03/07-16:56:52.631 4056 Level-0 table #118: started
+2020/03/07-16:56:52.641 4056 Level-0 table #118: 31392 bytes OK
+2020/03/07-16:56:52.649 4056 Delete type=0 #115
+2020/03/07-23:51:07.477 4056 Level-0 table #120: started
+2020/03/07-23:51:07.483 4056 Level-0 table #120: 17046 bytes OK
+2020/03/07-23:51:07.486 4056 Delete type=0 #117
+2020/03/07-23:51:07.486 4056 Compacting 4@0 + 1@1 files
+2020/03/07-23:51:07.516 4056 Generated table #121@0: 3416 keys, 184876 bytes
+2020/03/07-23:51:07.516 4056 Compacted 4@0 + 1@1 files => 184876 bytes
+2020/03/07-23:51:07.524 4056 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/03/07-23:51:07.524 4056 Delete type=2 #120
+2020/03/07-23:51:07.524 4056 Delete type=2 #116
+2020/03/07-23:51:07.524 4056 Delete type=2 #111
+2020/03/07-23:51:07.524 4056 Delete type=2 #113
+2020/03/07-23:51:07.524 4056 Delete type=2 #118
+2020/03/08-02:03:38.342 4056 Level-0 table #123: started
+2020/03/08-02:03:38.351 4056 Level-0 table #123: 18945 bytes OK
+2020/03/08-02:03:38.359 4056 Delete type=0 #119

@@ -587,3 +587,7 @@ input {
 	border-bottom: 1px dashed #202B33;
 	box-shadow: none;
 }
+
+#sidebar-loading-template, #sidebar-loading-template.file-list-item {
+	color: #777;
+}

@@ -1,6 +1,0 @@
-2020/02/24-23:38:07.611 3dba Reusing MANIFEST /home/sunan/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/02/24-23:38:07.611 3dba Recovering log #138
-2020/02/24-23:38:07.612 3dba Reusing old log /home/sunan/.config/chromium/Default/Sync Data/LevelDB/000138.log 
-2020/02/24-23:52:11.907 52fb Level-0 table #142: started
-2020/02/24-23:52:11.919 52fb Level-0 table #142: 108835 bytes OK
-2020/02/24-23:52:11.926 52fb Delete type=0 #138

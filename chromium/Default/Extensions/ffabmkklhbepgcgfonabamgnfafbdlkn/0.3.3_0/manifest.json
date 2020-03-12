@@ -1,0 +1,37 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "js/background.js" ]
+   },
+   "content_scripts": [ {
+      "css": [ "css/main.css" ],
+      "js": [ "js/content/jszip.min.js", "js/content/FileSaver.min.js", "js/content/main.js" ],
+      "matches": [ "*://github.com/*" ]
+   }, {
+      "js": [ "js/content/show.js" ],
+      "matches": [ "*://github.com/*", "*://gitzip.org/*" ]
+   }, {
+      "js": [ "js/content/keysync.js" ],
+      "matches": [ "*://kinolien.github.io/gitzip/*" ]
+   }, {
+      "js": [ "js/content/autosave.js" ],
+      "matches": [ "*://gitzip.org/gettoken/success" ]
+   } ],
+   "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'",
+   "description": "It can make the sub-directories and files of github repository as zip and download it",
+   "icons": {
+      "128": "images/icon-128px.png",
+      "16": "images/icon-16px.png",
+      "32": "images/icon-32px.png",
+      "48": "images/icon-48px.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuHUXf5zfx8fkpGKJPBYg2AhmW7c4+uzD538e6EUtqa8V9Q3prByGB4blLILt0RqIROLmDPzJQ8kIYBvJaVuKZK3g+Y+n94BzjdBLZbwgUueLzYZjtcZnVFvnohRc+K1v+Vl/egJ8RRWAJ8OR4V3leHhjWe1yZtdshdnmcAalQPOa7N+jUmhtR8Gmia9Me+sq00iAPIrpPvMZpFxQ9z/fOVkR1ZA8nuWRElzqdlA4CKzW21sowJ5QHC4UHf+5o8WHvNmQVNaQrcooD6HzWZLs/xYyZtLgAreU1jxOcbGe6uHk9rFSK2IUSINMbrKIug8QlBFtAizCYSBCdE6yi72a8wIDAQAB",
+   "manifest_version": 2,
+   "name": "GitZip for github",
+   "page_action": {
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "storage", "activeTab", "contextMenus", "*://github.com/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.3.3"
+}
